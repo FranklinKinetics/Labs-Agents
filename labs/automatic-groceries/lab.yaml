@@ -1,8 +1,8 @@
 # First Lab. Brandon built this for himself before the crew existed.
-# Fields marked TBD need Brandon's input at the first gate packet.
+# Built and released before the crew existed. Fields marked TBD: fill from the live store page.
 name: "Automatic Groceries"
 slug: "automatic-groceries"
-status: building     # working for Brandon's own household; not yet a store product
+status: released     # live in the Labs store; next step is a G8 Debrief
 killed_reason: ""
 
 audience:
@@ -35,15 +35,15 @@ offer:
 gates:
   G1: "grandfathered — existing build"
   G2: "grandfathered — existing build"
-  G3: ""
-  G4: ""
-  G5: ""
-  G6: ""
-  G7: ""
+  G3: "grandfathered — released before crew"
+  G4: "grandfathered — released before crew"
+  G5: "grandfathered — released before crew"
+  G6: "grandfathered — released before crew"
+  G7: "grandfathered — released before crew"
   G8: ""
 
 release:
-  date: ""
-  store_url: ""
+  date: "TBD"
+  store_url: "TBD"
 
 signals: []

@@ -12,3 +12,5 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-05 | Brandon starts with eight gates (G1–G8); gates retire after three clean passes in a row. G7 never retires. | chat |
 | 2026-11-05 | No fixed timebox: a Lab runs until it's a packaged product in the Labs store. Hours are logged; 2× estimate triggers a mini Go/No-go. | chat |
 | 2026-11-06 | This repo is the canon. The chat Project reads it; decisions made in chat are recorded here. | chat |
+| 2026-11-06 | Automatic Groceries is complete and live in the Labs store; grandfathered through G7. Next: G8 Debrief. | chat |
+| 2026-11-06 | Model tiers: Fenn on Opus; Juno, Mack, Iris, Sol, Vera on Sonnet with escalation; chores on Haiku. | chat |

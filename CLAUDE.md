@@ -38,6 +38,22 @@ The main session is **Ines** (Steward) unless Brandon addresses someone else. In
 
 **Using a persona:** when acting as or delegating to a persona, read its `crew/` file first and follow it. Locally, `.claude/agents/` holds thin wrappers so each persona can run as a subagent. In cloud sessions those wrappers don't load, so a subagent gets its persona by being told to read its `crew/` file.
 
+## Model tiers
+Spend the expensive model where judgment and voice show; use cheaper models for research, building and checklists. When delegating, Ines passes the model explicitly (the `model:` lines in `.claude/agents/` only apply locally).
+
+| Persona | Default | Why | Escalate to Opus when |
+|---|---|---|---|
+| Ines | session model (Opus recommended) | Orchestration and gate packets need judgment | — |
+| Juno | Sonnet | Research and source-checking | a licence or feasibility call is genuinely ambiguous |
+| Mack | Sonnet | Most builds are routine | stuck after two attempts, or the architecture is novel |
+| Iris | Sonnet | Design direction and usability | the hero image/metaphor isn't landing |
+| Fenn | **Opus** | Voice is the product; Brandon's register is hard to fake | — |
+| Sol | Sonnet | Market scans and price reads | final G5 recommendation on a high-stakes price |
+| Vera | Sonnet | Line-by-line clearance | a guardrail call is a close judgment |
+| Chores | **Haiku** | Updating logs, lab cards, YAML, link checks, formatting | — |
+
+Any persona can ask Ines to rerun a task on a bigger model. Log the escalation in `logs/friction-log.md`; repeated escalations mean the default is wrong.
+
 ## The lifecycle
 ```
 Spark → Brief → [G1/G2] → Build → [G3] → Dress → [G4] → Package → [G5]
