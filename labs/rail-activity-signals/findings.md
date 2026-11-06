@@ -32,6 +32,20 @@ Brandon supplied the Canadian Grain Commission's *Grain Elevators in Canada* (1 
 
 ---
 
+## Update 3: spur terminals: radar doesn't work yet
+
+Brandon doesn't have local knowledge of the terminals, so sites are being pinned from open data only.
+
+- **28 of the 82 big elevators are pinned** to a cluster of mapped grain bins next to the track (Overture's copy of OpenStreetMap silos and buildings): `data/big_elevators_pinned.csv`. Pasqua landed exactly on G3's terminal. One pin (Bunge, Moose Jaw) was rejected on an image check because it was an oil tank farm, so every pin needs a look before use.
+- **Image check of two spur sites** (`img/spur-pins-check.jpg`): Cargill Clavet is a textbook ladder, about eight parallel sidings beside the terminal. Richardson Corinne is a siding right beside the CPKC main line.
+- **The radar spike test doesn't carry over to spurs.** At Clavet and Corinne no passes stand out; the readings are spread evenly. A rougher "fill level" measure (`img/spur-radar-fill.png`) is also noisy and drifts with the seasons. Applied the same rough way, even Pasqua's spikes get much weaker, so the crude method is part of the problem.
+- **Why spurs are harder:** cars arrive and leave a few tracks at a time and empties wait on the sidings, so it's never simply "full" or "empty". The main line runs right beside the sidings, and some sidings aren't on the open map.
+- **What might work:** a per-siding strip (as done for Pasqua's loop), which needs each siding traced from imagery, plus a few known train dates to calibrate. That's Mack-level build work, not a quick test.
+
+**Where this leaves the idea:** free radar can track the **24 loop terminals** (about 1,040 kt of storage, ~28% of 100+ car capacity) with a clear on/off signal. The **68 ladder terminals** hold most of the capacity, and free data doesn't read them yet.
+
+---
+
 ## The short answer (first pass, optical only)
 
 **Free satellite imagery can *sometimes* see a unit train at a grain terminal, but not reliably enough to build a site-level shipment dataset.** The idea doesn't hold up as specified on free data. It might hold up with one more free test (radar, below) or with paid 3 m imagery.

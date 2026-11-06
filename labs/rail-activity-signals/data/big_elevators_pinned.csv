@@ -1,0 +1,83 @@
+station,licensee,railway,capacity_t,lat,lon,pinned
+ABERDEEN,"Parrish & Heimbecker, Limited",CN,32240,52.32849,-106.2454,"bin cluster 2701 m2, 28.0 bins, 3.0 km from town"
+AMAZON,"Parrish & Heimbecker, Limited",CN,43800,51.57755,-105.46326,"bin cluster 1229 m2, 7.0 bins, 3.0 km from town"
+ANTELOPE,South West Terminal Ltd.,CP,52000,,,station not found in map
+ASSINIBOIA,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",CP,55000,,,no bin cluster found
+ASSINIBOIA,Richardson Pioneer Limited,CP,39500,,,no bin cluster found
+BALCARRES,Cargill Limited,CN,32500,,,no bin cluster found
+BALGONIE,Bunge Canada Inc.,CP,35800,,,no bin cluster found
+BALGONIE,Richardson Pioneer Limited,CP,31640,,,no bin cluster found
+BIGGAR,Bunge Canada Inc.,CP2,34000,,,no bin cluster found
+BOOTH SIDING,Bunge Canada Inc.,CN,25800,,,station not found in map
+BRADA,Bunge Canada Inc.,CN,33800,,,station not found in map
+BRASS,"Parrish & Heimbecker, Limited",CP,32240,,,station not found in map
+CANORA,Richardson Pioneer Limited,CN,35460,51.63734,-102.43327,"bin cluster 360 m2, 12.0 bins, 0.2 km from town"
+CARMICHAEL,Richardson Pioneer Limited,CP,46150,,,no bin cluster found
+CARNDUFF,Bunge Canada Inc.,CP,32800,,,no bin cluster found
+CLAVET,Cargill Limited,CN,42000,52.03067,-106.40368,"bin cluster 2835 m2, 15.0 bins, 0.1 km from town"
+COLONSAY,G3 Canada Limited,CP,41300,51.97607,-105.87712,"bin cluster 180 m2, 6.0 bins, 0.4 km from town"
+CONGRESS,"Parrish & Heimbecker, Limited",CP,28000,,,no bin cluster found
+CORINNE,Richardson Pioneer Limited,CP,48790,,,no bin cluster found
+CROOKED RIVER,Richardson Pioneer Limited,CN,31350,,,no bin cluster found
+DAFOE,Broadgrain Commodities Inc.,CP,40000,,,no bin cluster found
+DAVIDSON,Richardson Pioneer Limited,CN,30900,51.24632,-105.97261,"bin cluster 3803 m2, 7.0 bins, 2.1 km from town"
+DAVIDSON,Cargill Limited,CN,25200,,,no bin cluster found
+DIXON,Richardson Pioneer Limited,CN,42900,52.19717,-105.13461,"bin cluster 570 m2, 19.0 bins, 5.7 km from town"
+ESTEVAN,Richardson Pioneer Limited,CP,50490,,,no bin cluster found
+FAIRLIGHT,Bunge Canada Inc.,CN,32340,49.85559,-101.58923,"bin cluster 360 m2, 12.0 bins, 6.8 km from town"
+GRENFELL,Bunge Canada Inc.,CP,33910,,,no bin cluster found
+GULL LAKE,Bunge Canada Inc.,CP,33100,,,no bin cluster found
+HAMLIN,"Parrish & Heimbecker, Limited",CN,42800,,,station not found in map
+HAMLIN,Richardson Pioneer Limited,CN,45940,,,station not found in map
+HUMBOLDT,Bunge Canada Inc.,CN,31800,52.19717,-105.13461,"bin cluster 570 m2, 19.0 bins, 1.0 km from town"
+INDIAN HEAD,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",CP,28580,50.52806,-103.66461,"bin cluster 2769 m2, 10.0 bins, 0.8 km from town"
+KEGWORTH,"Parrish & Heimbecker, Limited",CN,32240,,,station not found in map
+KINDERSLEY,Richardson Pioneer Limited,CN,41700,,,no bin cluster found
+KINDERSLEY,Bunge Canada Inc.,CN,28000,,,no bin cluster found
+LAST MOUNTAIN S,Richardson Pioneer Limited,CP,45830,,,no bin cluster found
+LLOYDMINSTER,Bunge Canada Inc.,CP,27000,,,station not found in map
+MAIDSTONE,G3 Canada Limited,CN,41300,,,no bin cluster found
+MARSHALL,Richardson Pioneer Limited,CN,51360,,,no bin cluster found
+MAYMONT,GrainsConnect Canada Operations Inc.,CN,35000,,,no bin cluster found
+MELFORT,Richardson Pioneer Limited,CN,45000,52.84787,-104.65457,"bin cluster 2417 m2, 2.0 bins, 1.9 km from town"
+MELFORT,Bunge Canada Inc.,CN,44700,52.86802,-104.63881,"bin cluster 270 m2, 9.0 bins, 1.6 km from town"
+MELFORT,G3 Canada Limited,CN,42080,52.85897,-104.61369,"bin cluster 270 m2, 9.0 bins, 1.1 km from town"
+MELVILLE,G3 Canada Limited,CN,42070,,,no bin cluster found
+MOOSE JAW,Bunge Canada Inc.,CP,156230,,,rejected on image check: pin was an oil tank farm
+MOOSE JAW,Cargill Limited,CN,32000,50.38844,-105.5214,"bin cluster 3993 m2, 9.0 bins, 2.1 km from town"
+MOOSOMIN,"Parrish & Heimbecker, Limited",CP,25540,,,no bin cluster found
+N BATTLEFORD,Cargill Limited,CN,33500,,,station not found in map
+NAICAM,CMI Terminal Joint Venture,CP,27220,,,no bin cluster found
+NOKOMIS A,Richardson Pioneer Limited,CP,31510,,,no bin cluster found
+NORTHGATE,Ceres Global Ag Corp.,OTH,73690,49.01813,-102.26516,"bin cluster 3218 m2, 12.0 bins, 2.1 km from town"
+OBAN,"Parrish & Heimbecker, Limited",CN,35100,,,station not found in map
+PASQUA,G3 Canada Limited,CP,41300,50.38171,-105.35075,"bin cluster 2127 m2, 4.0 bins, 2.5 km from town"
+PRAIRIE WEST,G3 Canada Limited,CP,46950,,,no bin cluster found
+REED LAKE,Richardson Pioneer Limited,CP,31900,,,station not found in map
+REFORD,GrainsConnect Canada Operations Inc.,CN,35000,,,station not found in map
+REGINA EAST,Richardson Pioneer Limited,CN,30140,50.48075,-104.57922,"bin cluster 13460 m2, 17.0 bins, 4.5 km from town"
+ROSETOWN,Bunge Canada Inc.,CN,39500,,,no bin cluster found
+ROSETOWN,Cargill Limited,CN,28500,,,no bin cluster found
+SASKATOON,Bunge Canada Inc.,CP,156670,52.11598,-106.73583,"bin cluster 8993 m2, 1.0 bins, 0.1 km from town"
+SASKATOON,Richardson Pioneer Limited,CN,42570,52.10686,-106.82618,"bin cluster 1800 m2, 60.0 bins, 6.2 km from town"
+SASKATOON,G3 Canada Limited,CN,42080,52.11545,-106.70471,"bin cluster 210 m2, 7.0 bins, 2.1 km from town"
+STRONGFIELD,Bunge Canada Inc.,CP,33130,,,no bin cluster found
+SWIFT CURRENT,G3 Canada Limited,CP,41290,50.2816,-107.82711,"bin cluster 1744 m2, 24.0 bins, 0.6 km from town"
+SWIFT CURRENT,Bunge Canada Inc.,CP,39500,50.28145,-107.77372,"bin cluster 1274 m2, 32.0 bins, 4.3 km from town"
+SWIFT CURRENT,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",CP,35800,50.2848,-107.84892,"bin cluster 690 m2, 23.0 bins, 1.0 km from town"
+SWIFT CURRENT,Richardson Pioneer Limited,CP,29920,50.27973,-107.80608,"bin cluster 461 m2, 6.0 bins, 2.1 km from town"
+TISDALE,"Parrish & Heimbecker, Limited",CN,48250,52.84954,-104.0876,"bin cluster 660 m2, 22.0 bins, 2.9 km from town"
+TISDALE,Bunge Canada Inc.,CN,31600,,,no bin cluster found
+TISDALE,"Parrish & Heimbecker, Limited",CP,31400,,,no bin cluster found
+UNITY,Bunge Canada Inc.,CN,63000,,,no bin cluster found
+UNITY,Richardson Pioneer Limited,CN,37175,,,no bin cluster found
+VALPARAISO,Cargill Limited,CN,30140,52.84954,-104.0876,"bin cluster 660 m2, 22.0 bins, 6.2 km from town"
+WADENA,Richardson Pioneer Limited,CP,35920,,,no bin cluster found
+WADENA,Bunge Canada Inc.,CN,34000,,,no bin cluster found
+WEYBURN,"Parrish & Heimbecker, Limited",CP,105500,,,no bin cluster found
+WEYBURN,Richardson Pioneer Limited,CP,51660,,,no bin cluster found
+WEYBURN,Bunge Canada Inc.,CP,42600,,,no bin cluster found
+WHITE STAR,Bunge Canada Inc.,CN,27500,,,station not found in map
+WHITEWOOD,Richardson Pioneer Limited,CP,45140,,,no bin cluster found
+YORKTON,Richardson Pioneer Limited,CP,27420,51.22799,-102.50638,"bin cluster 5342 m2, 8.0 bins, 3.6 km from town"
+YORKTON,"Parrish & Heimbecker, Limited",CN,25000,51.22639,-102.48705,"bin cluster 1692 m2, 35.0 bins, 2.4 km from town"
