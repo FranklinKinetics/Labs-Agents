@@ -1,0 +1,49 @@
+# First Lab. Brandon built this for himself before the crew existed.
+# Fields marked TBD need Brandon's input at the first gate packet.
+name: "Automatic Groceries"
+slug: "automatic-groceries"
+status: building     # working for Brandon's own household; not yet a store product
+killed_reason: ""
+
+audience:
+  buyer: household
+  story_speaks_to: "sme-owner"
+job_to_be_done: "TBD — Brandon to describe in his words"
+rotor_lesson: "TBD — Fenn to propose, Brandon to approve"
+
+four_proofs:
+  speed: "TBD"
+  abundance: "TBD"
+  craft: "Works with Claude"
+  goodwill: "TBD"
+
+sources: []
+
+hours:
+  estimate_brandon: null
+  brandon: null      # unknown for the original build; log from here on
+  crew_sessions: 0
+
+offer:
+  free_layer: ""
+  paid_layer: ""
+  price_cad: null
+  format: ""
+  checkout: ""
+  refund_terms: ""
+
+gates:
+  G1: "grandfathered — existing build"
+  G2: "grandfathered — existing build"
+  G3: ""
+  G4: ""
+  G5: ""
+  G6: ""
+  G7: ""
+  G8: ""
+
+release:
+  date: ""
+  store_url: ""
+
+signals: []

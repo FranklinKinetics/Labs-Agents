@@ -1,0 +1,48 @@
+# Lab card. Copy this folder to labs/<slug>/ when a Spark passes G1.
+name: ""
+slug: ""
+status: spark        # spark|briefed|approved|building|dressed|packaged|storied|cleared|released|debriefed|held|killed
+killed_reason: ""
+
+audience:
+  buyer: ""          # household | sme-owner | civic
+  story_speaks_to: "sme-owner"
+job_to_be_done: ""   # what it does for the buyer, one line
+rotor_lesson: ""     # Fenn, one sentence, agreed by G2
+
+four_proofs:
+  speed: ""          # filled from hours below at Release
+  abundance: ""      # what data/capability was already there
+  craft: ""          # what new tech it shows off
+  goodwill: ""       # what the free layer gives away
+
+sources: []          # - {name, url, licence, notes}
+
+hours:
+  estimate_brandon: null   # Ines, at G2
+  brandon: 0               # Brandon's hands-on hours (the Speed proof)
+  crew_sessions: 0         # number of crew work sessions
+
+offer:
+  free_layer: ""
+  paid_layer: ""
+  price_cad: null
+  format: ""         # download | template | claude-skill | web-app | subscription | setup-service | bundle
+  checkout: ""
+  refund_terms: ""
+
+gates:               # date + outcome: pass | pass-with-changes | hold
+  G1: ""
+  G2: ""
+  G3: ""
+  G4: ""
+  G5: ""
+  G6: ""
+  G7: ""
+  G8: ""
+
+release:
+  date: ""
+  store_url: ""
+
+signals: []          # - {date, type: sale|reply|conversation|use|visit, note}
