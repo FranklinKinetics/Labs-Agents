@@ -46,8 +46,12 @@ Think of it as **a trail camera that takes one photo a day at about 11:40 a.m.**
 3. **"Estimate shipments per site."** Not as framed. A once-a-day photo measures *how often the loop is occupied*, not how many trains left. Turning that into a count needs the typical time a train sits on the loop, which we don't know (I assumed 12–24 h; a terminal manager would know).
 4. **"Validate against public totals."** Weak by design. CGC and Grain Monitoring Program figures are national or provincial, so they can't check one site. Validation needs site-level truth from a terminal or a railway.
 5. **"Free high-res history can show car swaps at the Regina siding."** Very likely wrong. Esri Wayback has ~12–19 releases a year worldwide, but any one spot usually gets new imagery only about once a year (I couldn't check Regina's actual dates from here). Google Earth is similar. Both licences forbid building commercial data from them.
-6. **"The Regina crusher."** Ambiguous. The biggest loop in Regina wraps a new **canola crush plant** at the Global Transportation Hub (likely Cargill's), not an aggregate plant. **Brandon: which site did you mean?**
+6. **"The Regina crusher."** Ambiguous at first. **Brandon confirmed (2026-11-06) it's the Cargill canola crush plant** at the Global Transportation Hub, which sits on a loop, not an aggregate siding.
 7. **"Nobody has site-level data."** True *publicly*, but the Ag Transport Coalition already gets weekly car data from shippers covering ~90% of grain traffic, through Quorum's affiliate QGI ([source](https://m.farms.com/news/grain-deliveries-by-canada-s-two-major-railways-strong-in-week-10-ag-transport-coalition-233960.aspx)). Grain companies and railways already know their own numbers. The gap is for **outsiders**: traders, analysts, lenders, government.
+
+---
+
+8. **"Terminals load on loops."** Wrong (Brandon, 2026-11-06). Many terminals load on straight spurs, so searching for loops finds only a minority. Next pass starts from the Canadian Grain Commission's list of licensed elevators and identifies each one.
 
 ---
 

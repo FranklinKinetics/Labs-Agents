@@ -15,3 +15,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-06 | Automatic Groceries is complete and live in the Labs store; grandfathered through G7. Next: G8 Debrief. | chat |
 | 2026-11-06 | Model tiers: Fenn on Opus; Juno, Mack, Iris, Sol, Vera on Sonnet with escalation; chores on Haiku. | chat |
 | 2026-11-06 | Commissioned a proof of concept: Saskatchewan Rail Activity Signals (grain-terminal loops + Regina siding), free data only. Expands the Railcar siding tracker Spark. Not a G1/G2 pass. | Claude Code |
+| 2026-11-06 | The "Regina crusher" in the rail Spark is the Cargill canola crush plant at the Global Transportation Hub. | Claude Code |
+| 2026-11-06 | Terminals don't all load on loops; many use straight spurs. Next step: start from the full list of licensed grain terminals and identify each in imagery, not from loop tracks. | Claude Code |
+| 2026-11-06 | Labs-Agents cloud environment widened: CGC, Copernicus Data Space, Planetary Computer (Sentinel-1), Earth Search, Overpass, CN, CPKC, Grain Monitor, Ag Transport Coalition, StatCan; setup script installs the Python mapping tools. | Claude Code |
