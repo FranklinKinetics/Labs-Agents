@@ -1,0 +1,194 @@
+station,railway,licensee,type,capacity_t,page
+ABERDEEN,CN,AGT Foods Oat Milling Limited Partnership,Proc,4870,41
+ABERDEEN,CN,"Parrish & Heimbecker, Limited",Pri,32240,41
+AMAZON,CN,"Parrish & Heimbecker, Limited",Pri,43800,41
+ANTELOPE,CP,South West Terminal Ltd.,Pri,52000,41
+ASSINIBOIA,CP,Alliance Pulse Processors Inc.,Pri,5930,41
+ASSINIBOIA,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Pri,55000,41
+ASSINIBOIA,CP,Richardson Pioneer Limited,Pri,39500,41
+ASSINIBOIA,NOT,Stonehenge Global Seeds Inc.,Pri,330,41
+AYLESBURY,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,0,41
+BALCARRES,CN,Cargill Limited,Pri,32500,41
+BALGONIE,CP,Bunge Canada Inc.,Pri,35800,41
+BALGONIE,CP,Richardson Pioneer Limited,Pri,31640,41
+BALGONIE,NOT,Schluter & Maack GmbH,Pri,6202,41
+BEECHY,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,1800,41
+BELLE PLAINE,CN,102078290 Saskatchewan Ltd. DBA Co-op Ethanol Complex,Proc,38300,41
+BELLE PLAINE,CP,Bunge Canada Inc.,Pri,20500,41
+BELLEVUE,NOT,Belle Pulses Ltd.,Proc,8250,41
+BIGGAR,CP2,Bunge Canada Inc.,Pri,34000,41
+BIGGAR,CN,Prairie Malt ULC,Proc,107380,41
+BOOTH SIDING,CN,Bunge Canada Inc.,Pri,25800,41
+BRADA,CN,Bunge Canada Inc.,Pri,33800,41
+BRASS,CP,"Parrish & Heimbecker, Limited",Pri,32240,41
+CANORA,CN,Bunge Canada Inc.,Pri,23150,41
+CANORA,CN,Richardson Pioneer Limited,Pri,35460,42
+CARLEA,CN,"The Andersons, Inc.",Pri,1800,42
+CARMICHAEL,CP,Richardson Pioneer Limited,Pri,46150,42
+CARNDUFF,CP,Bunge Canada Inc.,Pri,32800,42
+CARROT RIVER,CN,Richardson Pioneer Limited,Pri,7500,42
+CLAVET,CN,Cargill Limited,Pri,42000,42
+CLAVET,CN2,Cargill Limited,Proc,24000,42
+COLONSAY,CP,G3 Canada Limited,Pri,41300,42
+CONDIE,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,1100,42
+CONGRESS,CP,"Parrish & Heimbecker, Limited",Pri,28000,42
+CORINNE,CP,Richardson Pioneer Limited,Pri,48790,42
+CROOKED RIVER,CN,Richardson Pioneer Limited,Pri,31350,42
+CUPAR,CP,Bunge Canada Inc.,Pri,9200,42
+CUTKNIFE,CP,Agrocorp Processing Ltd.,Pri,3000,42
+CUTKNIFE,CP2,ETG Commodities Inc.,Pri,6500,42
+CUTKNIFE,CP,Veikle Grain Ltd.,Pri,1000,42
+DAFOE,CP,Broadgrain Commodities Inc.,Pri,40000,42
+DALMENY,CN,Richardson Milling Limited,Proc,8400,42
+DAVIDSON,CN,Cargill Limited,Pri,25200,42
+DAVIDSON,CN,Richardson Pioneer Limited,Pri,30900,42
+DELISLE,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,0,42
+DELISLE,NOT,Grain Millers Canada Corp.,Pri,4330,42
+DINSMORE,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,3000,43
+DIXON,CN,Direct Grain Limited,Pri,2600,43
+DIXON,CN,Richardson Pioneer Limited,Pri,42900,43
+DUCK LAKE,OTH2,Belle Pulses Ltd.,Proc,13000,43
+ELROSE,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,1100,43
+ESTEVAN,CP,Richardson Pioneer Limited,Pri,50490,43
+ESTEVAN,CP,Southland Pulse Inc.,Pri,7180,43
+ESTON,OTH,Alliance Pulse Processors Inc.,Pri,2000,43
+ESTON,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,3000,43
+ESTON,NOT,Section 12 Foods Inc.,Pri,2470,43
+FAIRLIGHT,CN,Bunge Canada Inc.,Pri,32340,43
+FILLMORE,OTH,Harvest Grain Trading Ltd.,Pri,11710,43
+FOAM LAKE,CP,Bunge Canada Inc.,Pri,14340,43
+FRANCIS,OTH,Victoria Pulse Trading Corp.,Pri,2800,43
+GRAVELBOURG,NOT,Westland Agro Ltd.,Pri,2050,43
+GRENFELL,CP,Bunge Canada Inc.,Pri,33910,43
+GRENFELL,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Pri,6600,43
+GULL LAKE,CP,Bunge Canada Inc.,Pri,33100,43
+HAMLIN,CN,ADM Agri-Industries Company,Pri,6630,43
+HAMLIN,CN,"Parrish & Heimbecker, Limited",Pri,42800,43
+HAMLIN,CN,Richardson Pioneer Limited,Pri,45940,43
+HERBERT,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Pri,4740,43
+HUMBOLDT,CN,Bunge Canada Inc.,Pri,31800,43
+INDIAN HEAD,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Proc,1950,44
+INDIAN HEAD,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Pri,28580,44
+ITUNA,CN,Bunge Canada Inc.,Pri,9500,44
+KAMSACK,CN,Bunge Canada Inc.,Pri,9500,44
+KEGWORTH,CN,"Parrish & Heimbecker, Limited",Pri,32240,44
+KINDERSLEY,CN,Bunge Canada Inc.,Pri,28000,44
+KINDERSLEY,CN,Cargill Limited,Pri,22500,44
+KINDERSLEY,CN,Harvest Grain Trading Ltd.,Pri,9020,44
+KINDERSLEY,CN,Richardson Pioneer Limited,Pri,41700,44
+LANG,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Pri,4440,44
+LANIGAN,NOT,Pound-Maker Agventures Ltd.,Proc,4500,44
+LAPORTE,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,3000,44
+LAST MOUNTAIN S,CP,Richardson Pioneer Limited,Pri,45830,44
+LEADER,CP,G3 Canada Limited,Pri,23500,44
+LEROSS,CN,Canada Malting Co. Limited,Pri,7420,44
+LEROSS,NOT,Eskdale Seed Farm Ltd.,Pri,1400,44
+LIMERICK,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Pri,4050,44
+LLOYDMINSTER,CP,Bunge Canada Inc.,Pri,27000,44
+LLOYDMINSTER,CP,Husky Energy Marketing Partnership,Proc,8500,44
+LOREBURN,NOT,Diefenbaker Seed Processors Ltd. DBA Diefenbaker Spice & Pulse,Pri,4360,44
+LUCKY LAKE,OTH,"Alliance Pulse Processors Inc. and Mobil Grain Ltd., jointly and severally",Pri,1800,44
+LUSELAND,CP,Bunge Canada Inc.,Pri,7400,44
+MAIDSTONE,CN,G3 Canada Limited,Pri,41300,45
+MAPLE CREEK,CP,Richardson Pioneer Limited,Pri,19000,45
+MARSHALL,CN,Richardson Pioneer Limited,Pri,51360,45
+MAYMONT,CN,GrainsConnect Canada Operations Inc.,Pri,35000,45
+MELFORT,CN,Bunge Canada Inc.,Pri,44700,45
+MELFORT,OTH,Croft Grain Ltd.,Proc,7900,45
+MELFORT,CN,G3 Canada Limited,Pri,42080,45
+MELFORT,CN,Richardson Pioneer Limited,Pri,45000,45
+MELVILLE,CN,G3 Canada Limited,Pri,42070,45
+MELVILLE,CN,Richardson Pioneer Limited,Pri,18950,45
+MILESTONE,CP,Alliance Pulse Processors Inc.,Pri,5205,45
+MOOSE JAW,CN,Agrocorp Processing Ltd.,Pri,13000,45
+MOOSE JAW,CP,Bunge Canada Inc.,Pri,156230,45
+MOOSE JAW,CN,Bunge Canada Inc.,Pri,6640,45
+MOOSE JAW,CN,Cargill Limited,Pri,32000,45
+MOOSE JAW,NOT,McDougall Acres Grainex Inc.,Proc,31000,45
+MOOSE JAW,CP,Simpson Seeds Inc.,Pri,9800,45
+MOOSE JAW,NOT,Simpson Seeds Inc.,Pri,4300,45
+MOOSOMIN,CP,"Parrish & Heimbecker, Limited",Pri,25540,45
+N BATTLEFORD,CN,Cargill Limited,Pri,33500,45
+N BATTLEFORD,CN,ETG Commodities Inc.,Pri,7000,45
+N BATTLEFORD,NOT,ETG Commodities Inc.,Proc,5000,45
+NAICAM,CP,CMI Terminal Joint Venture,Pri,27220,45
+NEVILLE,CP2,Adroit Overseas Enterprises Ltd.,Pri,7067,45
+NICKLEN SIDING,CN2,Ceres Global Ag Corp.,Pri,13100,46
+NIPAWIN,CP,Bunge Canada,Proc,41330,46
+NOKOMIS A,CP,Richardson Pioneer Limited,Pri,31510,46
+NORTHGATE,OTH,Ceres Global Ag Corp.,Pri,73690,46
+OBAN,CN,"Parrish & Heimbecker, Limited",Pri,35100,46
+OUTLOOK,NOT,Rudy Agro Ltd.,Pri,13950,46
+PAMBRUN,OTH2,Adroit Overseas Enterprises Ltd.,Pri,1503,46
+PASQUA,CP,G3 Canada Limited,Pri,41300,46
+PONTEIX,OTH2,Adroit Overseas Enterprises Ltd.,Pri,3900,46
+PRAIRIE WEST,CP,G3 Canada Limited,Pri,46950,46
+QUILL LAKE,CN,"Parrish & Heimbecker, Limited",Pri,21950,46
+RADVILLE,NOT,Prairie Heritage Seeds Inc.,Pri,9788,46
+REED LAKE,CP,Richardson Pioneer Limited,Pri,31900,46
+REFORD,CN,GrainsConnect Canada Operations Inc.,Pri,35000,46
+REGINA,NOT,Alliance Pulse Processors Inc.,Proc,5254,46
+REGINA,NOT,Alliance Pulse Processors Inc.,Pri,2980,46
+REGINA,NOT,Alliance Pulse Processors Inc.,Pri,107,46
+REGINA,CN2,Cargill Limited,Proc,35000,46
+REGINA,NOT,"Natural Specialty Crops Co., ULC",Pri,4772,46
+REGINA,NOT,Oleet Processing Ltd.,Proc,3100,46
+REGINA,NOT,Oleet Processing Ltd.,Proc,1024,46
+REGINA,CP,"Scoular Canada, ULC",Pri,7550,46
+REGINA EAST,NOT,Avena Foods Limited,Proc,800,46
+REGINA EAST,CN,Richardson Pioneer Limited,Pri,30140,47
+RICHARDSON,NOT,Etter Seed & Processing Ltd.,Proc,2500,47
+RICHARDSON,NOT,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Proc,2040,47
+ROSETOWN,CN,Alliance Pulse Processors Inc.,Pri,6881,47
+ROSETOWN,CN,Bunge Canada Inc.,Pri,39500,47
+ROSETOWN,CN,Cargill Limited,Pri,28500,47
+ROWATT,CN,Avena Foods Limited,Proc,1465,47
+ROWATT,NOT,Avena Foods Limited,Proc,4680,47
+RUNCIMAN,CP,Adroit Overseas Enterprises Ltd.,Pri,20880,47
+SASKATOON,CP,Ardent Mills ULC,Proc,31570,47
+SASKATOON,CP,Bunge Canada Inc.,Pri,156670,47
+SASKATOON,CN,DG Global West Inc.,Pri,15880,47
+SASKATOON,CN,G3 Canada Limited,Pri,42080,47
+SASKATOON,NOT,MGM Seed & Grain ULC,Proc,11750,47
+SASKATOON,CN,"Parrish & Heimbecker, Limited",Proc,1500,47
+SASKATOON,CN,Richardson Pioneer Limited,Pri,42570,47
+SHAUNAVON,CP,Adroit Overseas Enterprises Ltd.,Pri,3100,47
+ST GREGOR,CN,Harvest Grain Trading Ltd.,Pri,3000,47
+STRONGFIELD,CP,Bunge Canada Inc.,Pri,33130,47
+SUCCESS,CP,ETG Commodities Inc.,Pri,4230,47
+SWIFT CURRENT,CP,Bunge Canada Inc.,Pri,39500,47
+SWIFT CURRENT,CP,ETG Commodities Inc.,Pri,5190,47
+SWIFT CURRENT,CP2,ETG Commodities Inc.,Pri,6500,47
+SWIFT CURRENT,CP,G3 Canada Limited,Pri,41290,47
+SWIFT CURRENT,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Pri,35800,47
+SWIFT CURRENT,CP,Richardson Pioneer Limited,Pri,29920,48
+TISDALE,CN,Bunge Canada Inc.,Pri,31600,48
+TISDALE,CN2,C-Merak Innovations Inc.,Proc,46800,48
+TISDALE,CN,"Parrish & Heimbecker, Limited",Pri,48250,48
+TISDALE,CP,"Parrish & Heimbecker, Limited",Pri,31400,48
+UNITY,CN,Bunge Canada Inc.,Pri,63000,48
+UNITY,CN,Richardson Pioneer Limited,Pri,37175,48
+VALPARAISO,CN,Cargill Limited,Pri,30140,48
+VANGUARD,OTH2,Adroit Overseas Enterprises Ltd.,Pri,2265,48
+VANSCOY,CN,ADM Agri-Industries Company,Proc,12000,48
+WADENA,CN,Bunge Canada Inc.,Pri,34000,48
+WADENA,CP,Richardson Pioneer Limited,Pri,35920,48
+WALDRON,CN,Bunge Canada Inc.,Pri,9500,48
+WATROUS,CN,Canada Malting Co. Limited,Pri,6000,48
+WATSON,CP2,ADM Agri-Industries Company,Pri,15500,48
+WEYBURN,CP,Bunge Canada Inc.,Pri,42600,48
+WEYBURN,CP,"Parrish & Heimbecker, Limited",Pri,105500,48
+WEYBURN,CP,Richardson Pioneer Limited,Pri,51660,48
+WHITE STAR,CN,Bunge Canada Inc.,Pri,27500,48
+WHITEWOOD,CP,Richardson Pioneer Limited,Pri,45140,48
+WILKIE,CP,Alliance Pulse Processors Inc.,Pri,9937,48
+WOLSELEY,CP,"PATERSON GRAIN, a division of Paterson GlobalFoods Inc.",Pri,5430,48
+WOODROW,OTH,Canada Direct Processing Inc.,Pri,3000,48
+YORKTON,CP,Cargill Limited,Pri,14050,49
+YORKTON,CN,Grain Millers Canada Corp.,Proc,36252,49
+YORKTON,CP,Louis Dreyfus Company Canada ULC,Proc,103700,49
+YORKTON,CN,"Parrish & Heimbecker, Limited",Pri,25000,49
+YORKTON,CP,Richardson Oilseed Holdings Limited,Proc,66470,49
+YORKTON,CP,Richardson Pioneer Limited,Pri,27420,49
+YORKTON,NOT,TA Foods Ltd.,Proc,2100,49
+ZEALANDIA,CN,Harvest Grain Trading Ltd. PROV. SUMMARY- NUMBER OF STATIONS 118 RÉSUMÉ PROV.- NOMBRE DE GARES NUMBER OF ELEVATORS 193 NOMBRE DE SILOS CAPACITÉ TOTALE EN TONNES,Pri,6320,49

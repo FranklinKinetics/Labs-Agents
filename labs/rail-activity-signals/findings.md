@@ -21,6 +21,17 @@
 
 ---
 
+## Update 2: the official elevator list
+
+Brandon supplied the Canadian Grain Commission's *Grain Elevators in Canada* (1 August 2026). Its Saskatchewan table is now a dataset: `data/cgc_licensed_elevators_sask_2026-08-01.csv`. That's **193 licences (161 primary, 32 process)**, and the parsed capacities total **4,644,817 t, exactly matching the PDF's own total**.
+
+- **82 primary elevators of 25,000 t or more sit on a rail line.** These are the likely unit-train shippers, close to the Grain Monitoring Program's count of 92 that load 100+ cars.
+- **Viterra's elevators are now licensed to Bunge** (post-merger). Earlier "Viterra" labels in this folder came from map data and are out of date.
+- **Belle Plaine was the wrong site** (Brandon's correction). The only grain licences there are Bunge on CPKC (20,500 t, small) and the Co-op ethanol plant on CN. The loop I measured belongs to a business I haven't identified, which explains why neither optical nor radar showed grain trains there. See `img/belle-plaine-overview.jpg`.
+- **Finding each elevator on the ground is the slow part.** Station names put me in the right town but not on the elevator, and rural Saskatchewan has few mapped building footprints (15 of 82 pinned automatically). A first look at the 10 m imagery classed 13 sites (`data/terminal_first_look.csv`): 8 ladder spurs, 5 loops, all tentative. 10 m imagery is too coarse to spot an elevator reliably from scratch. OpenStreetMap's own elevator tags would help, but its live search (Overpass) kept dropping the connection from this session.
+
+---
+
 ## The short answer (first pass, optical only)
 
 **Free satellite imagery can *sometimes* see a unit train at a grain terminal, but not reliably enough to build a site-level shipment dataset.** The idea doesn't hold up as specified on free data. It might hold up with one more free test (radar, below) or with paid 3 m imagery.

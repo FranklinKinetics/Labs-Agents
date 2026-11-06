@@ -1,0 +1,14 @@
+station,licensee,cgc_railway,cgc_capacity_t,track_design_first_look,where_in_station_chip,note
+PASQUA,G3 Canada Limited,CP,41300,loop,east of chip (50.3790 -105.3502),confirmed loop from earlier work; CGC licence matches
+AMAZON,"Parrish & Heimbecker, Limited",CN,43800,loop (balloon),C3,tentative
+CLAVET,Cargill Limited,CN,42000,ladder (many parallel sidings),B3-C3,tentative
+CONGRESS,"Parrish & Heimbecker, Limited",CP,28000,ladder,C4,tentative
+CORINNE,Richardson Pioneer Limited,CP,48000,ladder,B3-C3,tentative
+CROOKED RIVER,Richardson Pioneer Limited,CN,31000,ladder,B3-C3,tentative
+DAFOE,Broadgrain Commodities,CP,40000,ladder,C3,tentative
+MELFORT,Bunge / G3 / Richardson,CN,131000 (3 licences),one racetrack loop at C4 plus town sidings,C4,which licensee owns the loop is unknown
+MOOSE JAW,Bunge Canada Inc.,CP,156230,ladder (large),A3-B3,tentative
+SASKATOON,Bunge Canada Inc.,CP,156000,ladder (large),A4-B4,tentative
+WHITEWOOD,Richardson Pioneer Limited,CP,45000,loop (balloon),E4-E5,tentative
+WEYBURN,"Parrish & Heimbecker, Limited",CP,105000,ladder,B3,tentative; Weyburn has three licensees
+WADENA,Bunge (CN) / Richardson (CP),CN/CP,69920 (2 licences),two loops,see sites.csv,loops found earlier
