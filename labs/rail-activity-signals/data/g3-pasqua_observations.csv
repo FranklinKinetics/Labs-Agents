@@ -1,0 +1,170 @@
+site,date,scene,cloud_on_loop,snow_on_loop,auto_dark_fraction,auto_colour_speckle,manual_read
+G3 Pasqua,2025-06-02,S2C_13UDR_20250602_0_L2A,0.92,0.0,0.48,0.1,unusable (cloud/shadow)
+G3 Pasqua,2025-06-04,S2A_13UDR_20250604_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-06-05,S2C_13UDR_20250605_0_L2A,1.0,0.0,0.16,0.06,unusable (cloud/shadow)
+G3 Pasqua,2025-06-07,S2B_13UDR_20250607_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-06-10,S2B_13UDR_20250610_0_L2A,0.0,0.0,0.0,0.0,unusable (haze)
+G3 Pasqua,2025-06-12,S2C_13UDR_20250612_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-06-15,S2C_13UDR_20250615_0_L2A,1.0,0.0,0.01,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-06-17,S2A_13UDR_20250617_1_L2A,0.85,0.0,0.28,0.1,unusable (cloud/shadow)
+G3 Pasqua,2025-06-20,S2B_13UDR_20250620_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-06-24,S2A_13UDR_20250624_0_L2A,0.0,0.0,0.05,0.0,no train seen
+G3 Pasqua,2025-06-25,S2C_13UDR_20250625_0_L2A,0.0,0.0,0.06,0.0,no train seen
+G3 Pasqua,2025-06-27,S2B_13UDR_20250627_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-06-30,S2B_13UDR_20250630_0_L2A,0.0,0.0,0.08,0.0,no train seen
+G3 Pasqua,2025-07-02,S2C_13UDR_20250702_0_L2A,0.0,0.0,0.09,0.0,no train seen
+G3 Pasqua,2025-07-05,S2C_13UDR_20250705_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-07,S2A_13UDR_20250707_1_L2A,0.35,0.0,0.06,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-10,S2B_13UDR_20250710_0_L2A,0.31,0.0,0.12,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-12,S2C_13UDR_20250712_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-14,S2A_13UDR_20250714_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-15,S2C_13UDR_20250715_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-17,S2B_13UDR_20250717_0_L2A,0.9,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-20,S2B_13UDR_20250720_0_L2A,0.44,0.0,0.15,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-22,S2C_13UDR_20250722_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-25,S2C_13UDR_20250725_0_L2A,0.0,0.0,0.14,0.0,no train seen
+G3 Pasqua,2025-07-27,S2A_13UDR_20250727_1_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-07-30,S2B_13UDR_20250730_0_L2A,0.0,0.0,0.1,0.0,no train seen
+G3 Pasqua,2025-08-03,S2A_13UDR_20250803_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-08-04,S2C_13UDR_20250804_0_L2A,1.0,0.0,0.05,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-08-06,S2B_13UDR_20250806_0_L2A,0.03,0.0,0.2,0.0,no train seen
+G3 Pasqua,2025-08-09,S2B_13UDR_20250809_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-08-11,S2C_13UDR_20250811_0_L2A,0.0,0.0,0.07,0.0,no train seen
+G3 Pasqua,2025-08-14,S2C_13UDR_20250814_1_L2A,0.0,0.0,0.28,0.26,no train seen
+G3 Pasqua,2025-08-16,S2A_13UDR_20250816_1_L2A,0.01,0.0,0.14,0.07,unusable (haze)
+G3 Pasqua,2025-08-19,S2B_13UDR_20250819_0_L2A,0.0,0.0,0.36,0.51,train possible
+G3 Pasqua,2025-08-21,S2C_13UDR_20250821_0_L2A,0.0,0.0,0.46,0.69,train likely
+G3 Pasqua,2025-08-23,S2A_13UDR_20250823_0_L2A,0.58,0.0,0.33,0.04,unusable (cloud/shadow)
+G3 Pasqua,2025-08-24,S2C_13UDR_20250824_0_L2A,0.69,0.0,0.13,0.19,unusable (cloud/shadow)
+G3 Pasqua,2025-08-26,S2B_13UDR_20250826_0_L2A,0.0,0.0,0.38,0.14,no train seen
+G3 Pasqua,2025-08-29,S2B_13UDR_20250829_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-03,S2C_13UDR_20250903_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-05,S2A_13UDR_20250905_0_L2A,0.99,0.0,0.02,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-08,S2B_13UDR_20250908_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-10,S2C_13UDR_20250910_0_L2A,0.75,0.0,0.1,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-12,S2A_13UDR_20250912_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-13,S2C_13UDR_20250913_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-15,S2B_13UDR_20250915_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-18,S2B_13UDR_20250918_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-09-20,S2C_13UDR_20250920_0_L2A,0.0,0.0,0.24,0.01,no train seen
+G3 Pasqua,2025-09-23,S2C_13UDR_20250923_0_L2A,0.0,0.0,0.26,0.01,no train seen
+G3 Pasqua,2025-09-25,S2A_13UDR_20250925_0_L2A,0.0,0.0,0.23,0.01,no train seen
+G3 Pasqua,2025-09-28,S2B_13UDR_20250928_0_L2A,0.0,0.0,0.34,0.0,train likely
+G3 Pasqua,2025-09-30,S2C_13UDR_20250930_0_L2A,0.0,0.0,0.24,0.02,no train seen
+G3 Pasqua,2025-10-02,S2A_13UDR_20251002_0_L2A,0.96,0.0,0.08,0.33,unusable (cloud/shadow)
+G3 Pasqua,2025-10-03,S2C_13UDR_20251003_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-10-05,S2A_13UDR_20251005_0_L2A,0.02,0.0,0.19,0.0,no train seen
+G3 Pasqua,2025-10-08,S2B_13UDR_20251008_0_L2A,0.0,0.0,0.19,0.01,no train seen
+G3 Pasqua,2025-10-10,S2C_13UDR_20251010_0_L2A,0.0,0.0,0.21,0.03,no train seen
+G3 Pasqua,2025-10-13,S2C_13UDR_20251013_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-10-15,S2B_13UDR_20251015_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-10-18,S2B_13UDR_20251018_0_L2A,0.0,0.0,0.13,0.01,no train seen
+G3 Pasqua,2025-10-20,S2C_13UDR_20251020_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-10-22,S2A_13UDR_20251022_0_L2A,0.0,0.0,0.2,0.03,no train seen
+G3 Pasqua,2025-10-23,S2C_13UDR_20251023_0_L2A,0.0,0.0,0.41,0.02,train likely
+G3 Pasqua,2025-10-25,S2A_13UDR_20251025_1_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-10-28,S2B_13UDR_20251028_0_L2A,0.15,0.0,0.14,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-10-30,S2C_13UDR_20251030_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-11-02,S2C_13UDR_20251102_0_L2A,0.0,0.0,0.16,0.05,no train seen
+G3 Pasqua,2025-11-04,S2B_13UDR_20251104_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-11-07,S2B_13UDR_20251107_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-11-09,S2C_13UDR_20251109_0_L2A,1.0,0.0,0.12,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-11-11,S2A_13UDR_20251111_0_L2A,0.5,0.0,0.18,0.12,unusable (cloud/shadow)
+G3 Pasqua,2025-11-12,S2C_13UDR_20251112_0_L2A,0.0,0.0,0.14,0.15,no train seen
+G3 Pasqua,2025-11-14,S2A_13UDR_20251114_1_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-11-17,S2B_13UDR_20251117_0_L2A,1.0,0.0,0.06,0.02,unusable (cloud/shadow)
+G3 Pasqua,2025-11-19,S2C_13UDR_20251119_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-11-22,S2C_13UDR_20251122_0_L2A,0.0,0.0,0.2,0.47,no train seen
+G3 Pasqua,2025-11-24,S2B_13UDR_20251124_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-11-27,S2B_13UDR_20251127_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-11-29,S2C_13UDR_20251129_0_L2A,0.75,0.25,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-01,S2A_13UDR_20251201_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-02,S2C_13UDR_20251202_0_L2A,0.59,0.41,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-04,S2A_13UDR_20251204_1_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-07,S2B_13UDR_20251207_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-09,S2C_13UDR_20251209_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-12,S2C_13UDR_20251212_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-14,S2B_13UDR_20251214_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-17,S2B_13UDR_20251217_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-19,S2C_13UDR_20251219_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-21,S2A_13UDR_20251221_0_L2A,0.0,1.0,0.06,0.0,unreadable (snow)
+G3 Pasqua,2025-12-22,S2C_13UDR_20251222_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-24,S2A_13UDR_20251224_1_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-27,S2B_13UDR_20251227_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2025-12-29,S2C_13UDR_20251229_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-01,S2C_13UDR_20260101_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-03,S2B_13UDR_20260103_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-06,S2B_13UDR_20260106_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-08,S2C_13UDR_20260108_0_L2A,1.0,0.0,0.03,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-10,S2A_13UDR_20260110_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-11,S2C_13UDR_20260111_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-13,S2B_13UDR_20260113_0_L2A,0.0,1.0,0.14,0.01,unreadable (snow)
+G3 Pasqua,2026-01-16,S2B_13UDR_20260116_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-18,S2C_13UDR_20260118_0_L2A,0.74,0.25,0.02,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-21,S2C_13UDR_20260121_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-23,S2B_13UDR_20260123_0_L2A,1.0,0.0,0.03,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-26,S2B_13UDR_20260126_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-28,S2C_13UDR_20260128_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-01-31,S2C_13UDR_20260131_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-02-02,S2B_13UDR_20260202_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-02-05,S2B_13UDR_20260205_0_L2A,0.0,0.87,0.01,0.01,unreadable (snow)
+G3 Pasqua,2026-02-07,S2C_13UDR_20260207_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-02-10,S2C_13UDR_20260210_0_L2A,0.44,0.0,0.02,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-02-12,S2B_13UDR_20260212_0_L2A,0.8,0.0,0.06,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-02-15,S2B_13UDR_20260215_0_L2A,0.0,0.0,0.02,0.03,no train seen
+G3 Pasqua,2026-02-17,S2C_13UDR_20260217_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-02-20,S2C_13UDR_20260220_0_L2A,0.0,1.0,0.06,0.0,unreadable (snow)
+G3 Pasqua,2026-02-22,S2B_13UDR_20260222_0_L2A,0.0,1.0,0.08,0.0,unreadable (snow)
+G3 Pasqua,2026-02-25,S2B_13UDR_20260225_0_L2A,0.93,0.07,0.08,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-02-27,S2C_13UDR_20260227_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-02,S2C_13UDR_20260302_0_L2A,0.0,1.0,0.15,0.01,unreadable (snow)
+G3 Pasqua,2026-03-04,S2B_13UDR_20260304_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-07,S2B_13UDR_20260307_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-09,S2C_13UDR_20260309_0_L2A,0.02,0.91,0.08,0.0,unreadable (snow)
+G3 Pasqua,2026-03-11,S2A_13UDR_20260311_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-12,S2C_13UDR_20260312_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-14,S2B_13UDR_20260314_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-17,S2B_13UDR_20260317_0_L2A,0.79,0.0,0.01,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-19,S2C_13UDR_20260319_0_L2A,1.0,0.0,0.04,0.01,unusable (cloud/shadow)
+G3 Pasqua,2026-03-21,S2A_13UDR_20260321_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-22,S2C_13UDR_20260322_0_L2A,0.46,0.0,0.08,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-24,S2B_13UDR_20260324_3_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-03-27,S2B_13UDR_20260327_0_L2A,0.0,1.0,0.27,0.0,unreadable (snow)
+G3 Pasqua,2026-03-29,S2C_13UDR_20260329_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-01,S2C_13UDR_20260401_0_L2A,1.0,0.0,0.07,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-03,S2B_13UDR_20260403_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-06,S2B_13UDR_20260406_0_L2A,0.0,0.0,0.19,0.01,no train seen
+G3 Pasqua,2026-04-08,S2C_13UDR_20260408_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-10,S2A_13UDR_20260410_0_L2A,0.0,0.0,0.26,0.02,no train seen
+G3 Pasqua,2026-04-11,S2C_13UDR_20260411_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-13,S2A_13UDR_20260413_2_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-16,S2B_13UDR_20260416_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-21,S2C_13UDR_20260421_0_L2A,0.0,0.0,0.15,0.01,no train seen
+G3 Pasqua,2026-04-23,S2B_13UDR_20260423_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-26,S2B_13UDR_20260426_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-04-28,S2C_13UDR_20260428_0_L2A,0.0,0.63,0.44,0.14,unreadable (snow)
+G3 Pasqua,2026-04-30,S2A_13UDR_20260430_0_L2A,0.0,0.0,0.21,0.01,no train seen
+G3 Pasqua,2026-05-01,S2C_13UDR_20260501_0_L2A,0.0,0.0,0.18,0.0,no train seen
+G3 Pasqua,2026-05-03,S2A_13UDR_20260503_1_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-05-06,S2B_13UDR_20260506_0_L2A,0.0,0.0,0.1,0.0,no train seen
+G3 Pasqua,2026-05-08,S2C_13UDR_20260508_0_L2A,1.0,0.0,0.01,0.02,unusable (cloud/shadow)
+G3 Pasqua,2026-05-11,S2C_13UDR_20260511_0_L2A,0.0,0.0,0.08,0.01,no train seen
+G3 Pasqua,2026-05-13,S2B_13UDR_20260513_0_L2A,0.0,0.0,0.02,0.0,no train seen
+G3 Pasqua,2026-05-16,S2B_13UDR_20260516_0_L2A,0.0,0.0,0.05,0.01,no train seen
+G3 Pasqua,2026-05-18,S2C_13UDR_20260518_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-05-21,S2C_13UDR_20260521_0_L2A,1.0,0.0,0.02,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-05-23,S2A_13UDR_20260523_1_L2A,0.27,0.0,0.17,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-05-26,S2B_13UDR_20260526_0_L2A,0.87,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-05-28,S2C_13UDR_20260528_0_L2A,0.0,0.0,0.14,0.0,no train seen
+G3 Pasqua,2026-05-31,S2C_13UDR_20260531_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-06-02,S2B_13UDR_20260602_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-06-07,S2C_13UDR_20260607_0_L2A,1.0,0.0,0.46,0.04,unusable (cloud/shadow)
+G3 Pasqua,2026-06-10,S2C_13UDR_20260610_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-06-12,S2A_13UDR_20260612_1_L2A,1.0,0.0,0.01,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-06-15,S2B_13UDR_20260615_0_L2A,0.57,0.0,0.14,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-06-17,S2C_13UDR_20260617_0_L2A,0.0,0.0,0.06,0.01,no train seen
+G3 Pasqua,2026-06-20,S2C_13UDR_20260620_0_L2A,0.79,0.0,0.24,0.04,unusable (cloud/shadow)
+G3 Pasqua,2026-06-22,S2B_13UDR_20260622_0_L2A,1.0,0.0,0.29,0.03,unusable (cloud/shadow)
+G3 Pasqua,2026-06-25,S2B_13UDR_20260625_0_L2A,0.91,0.0,0.04,0.01,unusable (cloud/shadow)
+G3 Pasqua,2026-06-27,S2C_13UDR_20260627_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)
+G3 Pasqua,2026-06-30,S2C_13UDR_20260630_0_L2A,1.0,0.0,0.0,0.0,unusable (cloud/shadow)

@@ -1,0 +1,13 @@
+id,lat,lon,loop_perimeter_m,what_it_is,operator,railway,confidence,how_identified
+pasqua,50.3790,-105.3502,2762,inland grain terminal (134-car loop per G3),G3,CPKC,high,"loop in OSM/Overture rail map + matches G3's published description (east of Moose Jaw, CP Indian Head sub) + imagery"
+belleplaine,50.3996,-105.1565,2864,inland grain terminal,Viterra (ex-ILTA Grain),CPKC,medium,"loop in rail map + Overture places listing ILTA Grain / Viterra at Belle Plaine + imagery"
+wadena,51.9355,-103.7759,2350,two inland grain terminals with loops,Viterra and Richardson Pioneer,CN and CPKC,medium,"loops in rail map + Overture places + press (Viterra and Richardson both have Wadena terminals)"
+northgate,49.0138,-102.2646,2592,grain terminal (border),Northgate Grain Terminal (operator unverified),unverified,low,"loop in rail map + Overture place name; not image-checked"
+weyburn,49.7000,-103.9391,2880,probable grain terminal,unverified,unverified,low,loop in rail map + imagery shows a small facility on the loop
+swiftcurrent_e,50.3182,-107.7189,2860,probable grain terminal,unverified,unverified,low,loop in rail map + imagery
+nokomis_area,51.4990,-105.0194,2315,probable grain terminal (two balloon loops),unverified,unverified,low,loop in rail map + imagery
+saskatoon_w1,52.1053,-106.8205,2352,probable grain terminal,unverified (G3 Saskatoon West is in this area),CN,low,loop in rail map + imagery
+saskatoon_w2,52.1194,-106.8677,2734,probable grain terminal,unverified,unverified,low,loop in rail map + imagery
+wilkie_area,52.3028,-108.6868,2584,probable grain terminal,unverified,unverified,low,loop in rail map + imagery
+regina_gth,50.4482,-104.7737,3099,canola crush plant (not a grain terminal),likely Cargill (new Regina plant) - verify,CN and CPKC,medium,loop in rail map + imagery + press on Cargill's Regina land purchase
+yorkton,51.2306,-102.5070,5670,canola crush plant,Louis Dreyfus (Overture place name),CN/CPKC unverified,medium,loop in rail map + Overture place name

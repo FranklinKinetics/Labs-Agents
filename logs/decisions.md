@@ -14,3 +14,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-06 | This repo is the canon. The chat Project reads it; decisions made in chat are recorded here. | chat |
 | 2026-11-06 | Automatic Groceries is complete and live in the Labs store; grandfathered through G7. Next: G8 Debrief. | chat |
 | 2026-11-06 | Model tiers: Fenn on Opus; Juno, Mack, Iris, Sol, Vera on Sonnet with escalation; chores on Haiku. | chat |
+| 2026-11-06 | Commissioned a proof of concept: Saskatchewan Rail Activity Signals (grain-terminal loops + Regina siding), free data only. Expands the Railcar siding tracker Spark. Not a G1/G2 pass. | Claude Code |
