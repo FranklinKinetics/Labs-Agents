@@ -18,3 +18,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-06 | The "Regina crusher" in the rail Spark is the Cargill canola crush plant at the Global Transportation Hub. | Claude Code |
 | 2026-11-06 | Terminals don't all load on loops; many use straight spurs. Next step: start from the full list of licensed grain terminals and identify each in imagery, not from loop tracks. | Claude Code |
 | 2026-11-06 | Labs-Agents cloud environment widened: CGC, Copernicus Data Space, Planetary Computer (Sentinel-1), Earth Search, Overpass, CN, CPKC, Grain Monitor, Ag Transport Coalition, StatCan; setup script installs the Python mapping tools. | Claude Code |
+| 2026-11-06 | Killed Saskatchewan Rail Activity Signals: no clear business problem it solves. Keep the files; offer the Story to Fenn as a note. | Claude Code |

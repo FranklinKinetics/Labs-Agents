@@ -1,5 +1,7 @@
 # Saskatchewan Rail Activity Signals: proof-of-concept findings
 
+> **Killed 2026-11-06 (Brandon, option A).** No clear business problem it solves; free data reads only the 24 loop terminals; accuracy unproven. Files kept for reference; the Story goes to Fenn as a Spark.
+
 **Date:** 2026-11-06 · **Stage:** Spark → Brief (proof of concept) · **Crew:** Ines, with Juno's checklist · **Brandon's hours so far:** 0
 
 ---

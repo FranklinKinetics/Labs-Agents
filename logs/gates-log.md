@@ -4,6 +4,7 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 
 | Date | Lab | Gate | Outcome | Changes requested |
 |---|---|---|---|---|
+| 2026-11-06 | rail-activity-signals | G1/G2 | killed (option A) | Keep repo files; offer the Story to Fenn as a Substack note |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |

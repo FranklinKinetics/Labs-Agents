@@ -1,5 +1,7 @@
 # Brief: Saskatchewan Rail Activity Signals
 
+> **Status: killed 2026-11-06.** Reason: no business problem found. See `logs/decisions.md`.
+
 Expands the Spark "Railcar siding tracker" (`labs/sparks.md`). Brandon commissioned a proof of concept on 2026-11-06. Full results: **`findings.md`**.
 
 1. **What it is:** site-level estimates of rail shipment activity at Saskatchewan grain terminals and industrial sidings, from satellite imagery. CN and CPKC publish network totals only.
