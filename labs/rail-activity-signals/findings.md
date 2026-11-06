@@ -4,7 +4,24 @@
 
 ---
 
-## The short answer
+## Update, same day: radar works at Pasqua
+
+**Free radar (Sentinel-1) is much better than free photos.** Radar sees through cloud and works in the dark and in winter, and a string of steel hopper cars reflects it strongly.
+
+- **111 radar passes over G3 Pasqua in 13 months**, every one usable, against 38 readable optical photos.
+- **15 of 111 passes show a clear spike**: a long stretch of the loop suddenly much brighter than usual for that satellite track. Between spikes the loop is quiet. Five spikes fall in Nov–Dec 2025, when optical photos were blind.
+- **Radar and optical agree on all 7 days they both imaged Pasqua**: 6 empty, 1 train. On 23 Oct 2025 radar saw the train at 7:07 a.m. and the optical photo still showed it at 11:40.
+- **Belle Plaine is still inconclusive.** No clear spikes there either. Possible reasons: a quieter terminal, the wrong ring of track (the terminal may load on a separate track), or cars parked there most of the time, which would make "full" look normal.
+
+![Pasqua in radar](img/pasqua-radar.png)
+
+**What this means for accuracy.** About 14% of passes catch a train (95% range roughly 8–21%). Yearly train counts still hinge on how long a train sits on the loop: at 12 hours that's roughly 60–180 trains a year, at 24 hours 30–90. **One conversation with a terminal manager about dwell time, plus a few known train dates, would turn this into a real number.** Accuracy still can't be stated until then.
+
+**Spurs, not loops, are the majority** (Brandon's correction). The Grain Monitoring Program counts **92 Saskatchewan elevators that load 100+ cars: 68 on straight "ladder" spurs, 24 on loops**, plus 44 that load 25–99 cars (`data/sask_block_loading_elevators_gmp.csv`). The Grain Commission's named list (August 2026 edition) is on canada.ca, which refuses automated downloads, so the next step needs that file from Brandon. My stand-in list built from open map data (`data/terminal_candidates_unverified.csv`) is too noisy to use as-is: city yards and unrelated businesses crowd the top.
+
+---
+
+## The short answer (first pass, optical only)
 
 **Free satellite imagery can *sometimes* see a unit train at a grain terminal, but not reliably enough to build a site-level shipment dataset.** The idea doesn't hold up as specified on free data. It might hold up with one more free test (radar, below) or with paid 3 m imagery.
 
@@ -60,7 +77,7 @@ Think of it as **a trail camera that takes one photo a day at about 11:40 a.m.**
 | Option | What you get | Cost | Verdict |
 |---|---|---|---|
 | **Sentinel-2 (what we used)** | 10 m, every 2–3 days, free; commercial use allowed with attribution | $0 data; ~15 h/yr of eye-reading for 20 sites | Too weak a signal on its own |
-| **Sentinel-1 radar (untested)** | 10 m radar, every ~6–12 days, sees through cloud and works in winter; metal cars reflect strongly | $0 data | **Test next.** Needs an environment that can reach Copernicus or Planetary Computer. |
+| **Sentinel-1 radar (tested at Pasqua, same day)** | 10 m radar, ~2 passes a week from three satellites, through cloud, day or night | $0 data | **Works at Pasqua; inconclusive at Belle Plaine.** Use it as the main free signal. |
 | **PlanetScope (3 m, near-daily)** | A car is a full pixel wide: train visible most clear days | Planet lists annual plans of US$2,700 / $5,100 / $9,650 ([planet.com/pricing](https://planet.com/pricing)); older reseller rates were US$1.28–1.80/km² with a US$5,000 minimum ([Apollo Mapping](https://apollomapping.com/blog/new-minimum-order-size-medium-resolution-rapideye-planetscope-imagery)). 20 terminals ≈ 180 km²; buying every daily scene at those old rates would run ~US$85–120k/yr, which is why area subscriptions exist. | **Get a quote** for 20 small sites |
 | **30–50 cm (SkySat, Maxar, Airbus)** | Count individual cars; see open-top loads | UK gov't 2024 price list: SkySat archive £29,250 for 5,000 km² per year; tasking minimum 25 km² ([G-Cloud](https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/93283/624361565153865-pricing-document-2024-05-06-2002.pdf)) | Only for the Regina siding, and only with paid tasking |
 
@@ -96,6 +113,8 @@ Brandon knows this market better than I do; these are starting points, not findi
 
 | Source | Used for | Licence / terms | Flag |
 |---|---|---|---|
+| Copernicus Sentinel-1 RTC via Microsoft Planetary Computer | radar test | Free and open, commercial use allowed; same Copernicus credit | none |
+| Grain Monitoring Program (Quorum) 2024-25 data tables | elevator counts by track design | Public government-contract report | cite as source |
 | Copernicus Sentinel-2 L2A via AWS Open Data (`sentinel-cogs`) | all imagery | Free and open, commercial use allowed; credit "Contains modified Copernicus Sentinel data 2025–2026" | none |
 | Overture Maps transportation theme (from OpenStreetMap) | rail loop geometry | **ODbL** (share-alike) | A *published database* built on this geometry may have to be released under ODbL. Vera to check; we can re-draw loops ourselves from Sentinel-2 to avoid it. |
 | Overture Maps places theme | operator names near loops | CDLA-Permissive-2.0, with per-source terms | Names are hints only; verify operators |
