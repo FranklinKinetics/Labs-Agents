@@ -8,11 +8,11 @@ killed_reason: ""
 audience:
   buyer: household
   story_speaks_to: "sme-owner"
-job_to_be_done: "TBD — Brandon to describe in his words"
+job_to_be_done: "Orders groceries."   # Brandon, 2026-11-06
 rotor_lesson: "TBD — Fenn to propose, Brandon to approve"
 
 four_proofs:
-  speed: "TBD"
+  speed: "About 5 hours, Brandon's recollection (built before the crew; not logged at the time)"
   abundance: "TBD"
   craft: "Works with Claude"
   goodwill: "TBD"
@@ -21,8 +21,8 @@ sources: []
 
 hours:
   estimate_brandon: null
-  brandon: null      # unknown for the original build; log from here on
-  crew_sessions: 0
+  brandon: 5         # Brandon's recollection, 2026-11-06; not logged during the build
+  crew_sessions: 1
 
 offer:
   free_layer: ""
@@ -44,6 +44,9 @@ gates:
 
 release:
   date: "TBD"
-  store_url: "TBD"
+  store_url: "https://www.franklinkinetics.com/labs/p/automatic-groceries"
 
-signals: []
+signals:
+  - {date: 2026-11-06, type: sale, note: "Nil sales and nil refunds since Release, per Brandon. Visits: nil reported. No analytics source named."}
+  - {date: 2026-11-06, type: reply, note: "Nil replies or messages, per Brandon."}
+  - {date: 2026-11-06, type: conversation, note: "Nil SME-owner mentions, per Brandon."}
