@@ -1,0 +1,48 @@
+# Built and released before the crew existed (like Automatic Groceries). Fields marked TBD: fill from the live store page.
+name: "Regina Data Map"
+slug: "regina-data-map"
+status: released     # live in the Franklin Kinetics Labs section; next step is a G8 Debrief
+killed_reason: ""
+
+audience:
+  buyer: civic
+  story_speaks_to: "sme-owner"
+job_to_be_done: "Make Regina's development data legible on a map. (TBD: Brandon to describe in his words)"
+rotor_lesson: "TBD: Fenn to propose, Brandon to approve"
+
+four_proofs:
+  speed: "TBD"
+  abundance: "Government open data (sources TBD: list from the live map)"
+  craft: "TBD"
+  goodwill: "Free: the whole product is free because it uses government data"
+
+sources: []          # TBD: Juno to record each dataset and its licence from the live map
+
+hours:
+  estimate_brandon: null
+  brandon: null      # unknown for the original build; log from here on
+  crew_sessions: 0
+
+offer:
+  free_layer: "Entire map"
+  paid_layer: "none"
+  price_cad: 0
+  format: "web-app"  # TBD: confirm
+  checkout: "none"
+  refund_terms: "n/a (free)"
+
+gates:
+  G1: "grandfathered: released before crew"
+  G2: "grandfathered: released before crew"
+  G3: "grandfathered: released before crew"
+  G4: "grandfathered: released before crew"
+  G5: "grandfathered: released before crew"
+  G6: "grandfathered: released before crew"
+  G7: "grandfathered: released before crew"
+  G8: ""
+
+release:
+  date: "TBD"
+  store_url: "TBD"
+
+signals: []

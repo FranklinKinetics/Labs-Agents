@@ -19,3 +19,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-06 | Terminals don't all load on loops; many use straight spurs. Next step: start from the full list of licensed grain terminals and identify each in imagery, not from loop tracks. | Claude Code |
 | 2026-11-06 | Labs-Agents cloud environment widened: CGC, Copernicus Data Space, Planetary Computer (Sentinel-1), Earth Search, Overpass, CN, CPKC, Grain Monitor, Ag Transport Coalition, StatCan; setup script installs the Python mapping tools. | Claude Code |
 | 2026-11-06 | Killed Saskatchewan Rail Activity Signals: no clear business problem it solves. Keep the files; offer the Story to Fenn as a note. | Claude Code |
+| 2026-11-06 | Regina Data Map is complete and live in the Franklin Kinetics Labs section, free because it uses government data; grandfathered through G7. Next: G8 Debrief. | Claude Code |
