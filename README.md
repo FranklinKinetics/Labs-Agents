@@ -15,6 +15,7 @@ crew/                ← the seven personas (source of truth)
 labs/                ← sparks.md, _template/, one folder per Lab
 logs/                ← decisions, gates, friction
 models/              ← Living Models and Price Model
+rotor/               ← Rotor consulting docs (copies of the Claude Docs masters)
 ```
 
 ## The one rule

@@ -14,3 +14,8 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-06 | This repo is the canon. The chat Project reads it; decisions made in chat are recorded here. | chat |
 | 2026-11-06 | Automatic Groceries is complete and live in the Labs store; grandfathered through G7. Next: G8 Debrief. | chat |
 | 2026-11-06 | Model tiers: Fenn on Opus; Juno, Mack, Iris, Sol, Vera on Sonnet with escalation; chores on Haiku. | chat |
+| 2026-11-09 | Rotor Beta runs AI-native and mostly async: three live sessions (kickoff, the Mirror, the review); AI-led leader interviews in three waves; weekly flight logs and monthly AI pulses replace check-in meetings. | chat |
+| 2026-11-09 | The AI interviewer must work across platforms (Claude, ChatGPT, Copilot, Gemini); instructions live in the Rotor Interviewer Pack. | chat |
+| 2026-11-09 | Keep an override log during betas to decide which steps are safe to hand to AI. | chat |
+| 2026-11-09 | Build a self-serve alignment diagnostic with the Labs crew. It gets its own page on franklinkinetics.com (linked from How It Works and Start a conversation), not the Labs store. Start with the data-flow decision. | chat |
+| 2026-11-09 | Rotor consulting docs are copied into `rotor/` so Claude Code can read them; the Claude Docs remain the masters. | chat |
