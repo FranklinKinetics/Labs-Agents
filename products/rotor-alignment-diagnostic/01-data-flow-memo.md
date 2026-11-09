@@ -128,3 +128,8 @@ This is the crew's reading of the rules, not legal advice. A one-hour review wit
 ## 9. What happens next
 
 At your answer, Ines logs the outcome in `logs/gates-log.md`. On a pass, the crew moves to deliverable 2 (product spec). No build starts until the spec gate passes.
+
+---
+
+## Gate outcome · 2026-11-09
+**Pass. Option C.** Answers: (1) Beta blocks go to Brandon. (2) Keep the report, with consent; delete the blocks. (3) The block includes name and role. (4) No insurance today. (5) Exclude Quebec.

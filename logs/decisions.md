@@ -18,3 +18,9 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-09 | Diagnostic rules: no ROI or results promises (financial effects are hypotheses at most); never disclose or paraphrase the Rotor Core; the diagnostic shows gaps and never settles strategy or recommends a main effort; no report for fewer than 3 leaders; all quotes unattributed; reuse wave 1 questions unchanged; keep the summary block format identical; say "Beta" never "pilot"; "schwerpunkt" is "main effort" in client-facing text; plain language, short sentences, Canadian spelling. | Claude Code |
 | 2026-11-09 | Diagnostic has 8 deliverables, each behind its own gate. The data-flow memo comes first, before any build. Publish, send and spend nothing; all output is a draft. | Claude Code |
 | 2026-11-09 | Deliverable 7 scope: copy for the diagnostic's own page, the "Not ready for the Beta? Start here" block on How It Works, and the link on Start a conversation. | Claude Code |
+| 2026-11-09 | Diagnostic data flow: Option C, sealed drop-box. Leaders submit their block to a Franklin Kinetics drop-box; an agent writes the report; no person reads the blocks; blocks are deleted when the report is delivered. First one or two runs by hand. | Claude Code |
+| 2026-11-09 | In the Rotor Beta, leaders' summary blocks go to Brandon. | Claude Code |
+| 2026-11-09 | After delivery, Franklin Kinetics keeps the diagnostic report (with the client's consent) for comparison with Beta data. Summary blocks are always deleted. | Claude Code |
+| 2026-11-09 | The summary block includes the leader's name and role. | Claude Code |
+| 2026-11-09 | Brandon has no professional liability or cyber insurance today. | Claude Code |
+| 2026-11-09 | The diagnostic is not offered to Quebec-based companies for now. | Claude Code |
