@@ -1,12 +1,14 @@
 # Product card: Rotor Alignment Diagnostic
-# Not a Labs store product. Sells under The Rotor on franklinkinetics.com as the
-# entry step before the Rotor Beta. Built with the Labs crew and gates
+# Not a Labs store product. Own page on franklinkinetics.com, linked from How It
+# Works ("Not ready for the Beta? Start here") and from Start a conversation, as
+# the entry step before the Rotor Beta. Built with the Labs crew and gates
 # (decision 2026-11-09). Adapted from labs/_template/lab.yaml.
 name: "Rotor Alignment Diagnostic"
 slug: "rotor-alignment-diagnostic"
 status: building          # deliverable 1 drafted; waiting at its gate
 buyer: "CEO of an owner-led company, 20-200 people"
 job_to_be_done: "Show a leadership team where it agrees, where it differs, and which questions it must settle, without Brandon's time."
+site_placement: "own page; linked from How It Works and Start a conversation"
 next_step: "Rotor Beta (unpriced; offered once, at the end of the report)"
 
 sources_needed:           # Brandon to paste or attach
