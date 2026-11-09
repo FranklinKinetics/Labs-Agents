@@ -35,3 +35,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-09 | Diagnostic status page shows the count against the planned number ("4 of 6"). | Claude Code |
 | 2026-11-09 | Diagnostic: if fewer than 3 leaders take part, the CEO can restart the diagnostic later with more participants. Blocks from the first attempt are still deleted. | Claude Code |
 | 2026-11-09 | Franklin Kinetics is a corporation. | Claude Code |
+| 2026-11-09 | Diagnostic restart: one restart within 12 months of purchase. | Claude Code |
+| 2026-11-09 | No insurance quote for now; build Option C as specified. Client terms should carry a limitation of liability. | Claude Code |
+| 2026-11-09 | Website copy: "pilot team" replaced with "Beta team" throughout (master Claude Doc and `rotor/website-copy.md`). | Claude Code |
