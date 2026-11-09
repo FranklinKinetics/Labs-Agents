@@ -39,34 +39,36 @@ flowchart TD
   S4["4 · CEO invites 3–8 leaders<br/>(CEO takes it too)"] --> S5
   S5["5 · Each leader: ~20 min interview<br/>reviews own summary block"] --> S6
   S6["6 · Leader submits to the drop-box<br/>name and role stripped on arrival"] --> S7
-  S7{"7 · 3 or more blocks<br/>and window closed?"}
+  S7{"7 · 3 or more blocks<br/>when the window closes?"}
   S7 -- yes --> S8["8 · Agent writes the report<br/>automatic quality checks"]
-  S7 -- "no, after one extension" --> R["Full refund<br/>no report"]
+  S7 -- no --> R["No report, no refund<br/>(stated before purchase)<br/>blocks deleted"]
   S8 -- pass --> S9["9 · Report emailed to CEO<br/>blocks deleted · ends with one offer: the Beta"]
   S8 -- fail --> X["Held for Brandon<br/>(exception)"]
   X --> S9
+  S9 --> C14["Check-in email at 14 days"]
   S9 --> B["Start a conversation"]
+  C14 --> B
 
   classDef touch fill:#fde2e1,stroke:#c0392b;
-  class X,R touch;
+  class X touch;
 ```
 
-Pink boxes are the only places Brandon might touch a sale.
+The pink box is the only place Brandon might touch a sale.
 
 ## 2. Step by step
 
 | # | Step | What happens | Who does it | Automated? |
 |---|---|---|---|---|
 | 0 | **Finds it** | CEO lands on the diagnostic's own page from How It Works ("Not ready for the Beta? Start here") or from Start a conversation. | CEO | n.a. |
-| 1 | **Buys** | Checkout collects: buyer name and email, company name, province of head office, platform (Claude, ChatGPT, Copilot or Gemini), planned number of leaders (3–8). Two consents: terms and privacy notice (required); "keep our report for Franklin Kinetics' research" (optional, **not pre-checked**). Quebec head office: checkout stops with a plain note. | CEO | Yes |
+| 1 | **Buys** | Squarespace page and checkout (Sol confirms the setup at deliverable 6). Before paying, the CEO sees plainly: **no report and no refund if fewer than 3 leaders take part.** Checkout collects: buyer name and email, company name, province of head office, platform (Claude, ChatGPT, Copilot or Gemini), planned number of leaders (3–8). Two consents: terms and privacy notice (required); "keep our report for Franklin Kinetics' research" (optional, **not pre-checked**). Quebec head office: checkout stops with a plain note. | CEO | Yes |
 | 2 | **Setup kit** | Email with: one-page CEO guide; interviewer instructions and install steps for their platform; the company's private drop-box link; a leader invitation they can copy and send; the disclosure note; a status link. | System | Yes |
 | 3 | **Installs** | CEO adds the interviewer to the company's AI platform (e.g. a Claude Project, a ChatGPT custom GPT, a Copilot agent, a Gemini Gem). Estimate ~15 min, to confirm at the dry run. | CEO | n.a. |
 | 4 | **Invites** | CEO sends the invitation to 3–8 leaders, including themself. **Franklin Kinetics never emails leaders.** | CEO | n.a. |
 | 5 | **Interview** | Each leader takes one ~20 min interview, by voice or text, on their own time. The interviewer uses wave 1 questions unchanged and ends with the fixed-format summary block. The leader reads it and can edit or remove anything. | Leader | n.a. |
 | 6 | **Submits** | Leader pastes the block into the drop-box. They read the disclosure note and tick "I understand unattributed quotes may appear" (required). The drop-box checks the format, **strips name and role before storing**, and shows "Received." No leader email is collected. | Leader, then system | Yes |
-| 7 | **Window** | The window is open 21 days from purchase. The CEO's status page shows **only a count** ("4 received"), never who or what. The CEO can close early once 3 are in. Under 3 at day 21: one automatic 14-day extension. Still under 3: automatic full refund, no report, blocks deleted. | System | Yes |
+| 7 | **Window** | The window is open 21 days from purchase. The CEO's status page shows **the count against the plan** ("4 of 6 received"), never who or what. The CEO can close early once 3 are in, or extend once by 14 days. Under 3 at close: no report, no refund, blocks deleted, CEO told by email. | System | Yes |
 | 8 | **Report** | The synthesis agent (deliverable 4) writes the report. Automatic checks before sending: 3+ blocks; no names or roles; quotes unattributed; no recommendation of a main effort; no ROI or results language; every section present. A failed check holds the report for Brandon. | Agent | Yes |
-| 9 | **Delivery and offer** | Report emailed to the CEO (PDF). Blocks and name fingerprints deleted at once; the deletion is logged (date and count only). The report is kept only if the CEO consented. The report ends with one offer: help settling the open questions, the Rotor Beta, via Start a conversation. | System | Yes |
+| 9 | **Delivery and offer** | Report emailed to the CEO (PDF). Blocks and name fingerprints deleted at once; the deletion is logged (date and count only). The report is kept only if the CEO consented. The report ends with one offer: help settling the open questions, the Rotor Beta, via Start a conversation. One plain check-in email to the CEO 14 days later (with sender details and an unsubscribe link, as Canada's anti-spam law requires). | System | Yes |
 
 ## 3. What Brandon touches
 
@@ -75,7 +77,6 @@ Pink boxes are the only places Brandon might touch a sale.
 | Exception | How often (guess, to check at dry run) | Brandon's time |
 |---|---|---|
 | Report fails a quality check | rare once the agent is tuned | ~15 min to read the report (not the blocks) and release or fix |
-| Refund under 3 leaders | rare | none if the checkout refunds automatically; a few minutes if not |
 | Support email ("the interviewer won't install") | some, early on | minutes; the answers become FAQ entries |
 | First 1–2 runs by hand | once | a few hours across both, logged as Brandon's hours |
 | A CEO books a Beta conversation | the point of the product | the conversation itself (that's the Beta, not this product) |
@@ -96,14 +97,14 @@ Pink boxes are the only places Brandon might touch a sale.
 
 | Part | What it is | Notes |
 |---|---|---|
-| Diagnostic page | Own page on franklinkinetics.com | Copy is deliverable 7 |
-| Checkout | Card payment with refund support | Sol picks at deliverable 6 |
+| Diagnostic page | Own page on the Squarespace site | Copy is deliverable 7 |
+| Checkout | Squarespace Commerce, likely | Sol confirms at deliverable 6 (custom checkout questions, province, consent boxes) |
 | Setup kit | Four versions of the install guide, one per platform | Juno confirms each platform's current setup steps |
 | Interviewer | Deliverable 3 | Ships to every buyer, so it contains no Rotor Core |
-| Drop-box | Small web form + checks + temporary storage + count | Mack. Canadian hosting region preferred. A plain form tool can't strip names before storing, so this needs a little code |
+| Drop-box and status page | Small web form + checks + temporary storage + count | Mack. Squarespace can't run this, so it lives outside the site, e.g. on a subdomain like diagnostic.franklinkinetics.com. Canadian hosting region preferred. A plain form tool can't strip names before storing, so this needs a little code |
 | Synthesis agent | Deliverable 4, running on an AI provider's API | Stays on our side; buyers never see it |
 | Quality checks | An automatic checklist run on every report | Mack and Vera |
-| Emails | Setup kit, report delivery, refund notice | Sent to the CEO only |
+| Emails | Setup kit, report delivery, "not enough leaders" notice, 14-day check-in | Sent to the CEO only |
 
 **Phase 1 (dry run):** drop-box form plus the agent run by hand. Smallest thing that proves the report is worth reading.
 **Phase 2:** automate steps 7–9 once the report holds up.
@@ -112,7 +113,8 @@ Pink boxes are the only places Brandon might touch a sale.
 
 | Risk | Handling |
 |---|---|
-| **No insurance today** | Launch blocker. Get professional liability and cyber quotes before the first paid sale. Recommend before the dry run too, since it uses real data. Your call and your spend. |
+| **No insurance today** | Open. Brandon is unsure it's worth the cost. See section 7. |
+| CEO buys, then fewer than 3 take part | No report, no refund. Stated plainly before purchase (guardrail 8). The status page and kit help the CEO chase their own team. |
 | CEO pressures leaders to show their blocks | The kit tells the CEO plainly that the product works because they *don't* see blocks. The status page shows a count only, so the CEO can't tell who has submitted. |
 | Duplicate or fake submissions | Name fingerprint catches the same name twice. The private link limits who can reach the drop-box. A determined insider could still game it; accepted for v1. |
 | Small team makes quotes traceable | Leader must tick consent before submitting; the agent drops identifying details; the report never splits views by role. |
@@ -120,10 +122,24 @@ Pink boxes are the only places Brandon might touch a sale.
 | Leader based in Quebec at a non-Quebec company | Kit asks the CEO to invite only leaders outside Quebec for now. |
 | Report reads as advice on strategy | Quality check blocks any recommended main effort. The report shows gaps and ends with questions. |
 
-## 7. Questions for you (batched)
+## 7. Insurance: open
 
-1. **What is franklinkinetics.com built on** (Squarespace, Wix, WordPress, something else)? It decides how the page and checkout fit in.
-2. **Window and refund:** 21 days, one 14-day extension, then a full automatic refund if under 3 leaders. OK?
-3. **Insurance timing:** get cover before the dry run, or only before the first paid sale?
-4. **Follow-up:** after the report, nothing more (the report carries the offer), or one plain check-in email at 14 days?
-5. **Status page:** count only, as recommended? Or should the CEO also see the planned number ("4 of 6")?
+Brandon's view (2026-11-09): unsure of the cost or whether it's worth it; "may be cheaper to just bankrupt the company."
+
+Vera's note, for the decision, not a lecture:
+- That only works if **Franklin Kinetics is a corporation**. As a sole proprietor, a claim reaches Brandon's own assets.
+- Even with a corporation, some privacy claims can name the people who handled the data.
+- The bigger cost of a leak may be trust, which is the product.
+- The design already keeps the risk small: no names stored, blocks deleted within weeks, no one reads them.
+
+Cheapest way to decide with real numbers: Brandon asks a broker for a quote (free, no commitment), and the lawyer review adds a liability cap to the client terms. The crew sends nothing to brokers.
+
+## 8. Gate outcome so far · 2026-11-09
+
+Answers recorded: (1) Squarespace. (2) No refund if under 3 leaders; the CEO's responsibility, stated before purchase. (3) Insurance undecided. (4) Check-in email at 14 days. (5) Status page shows the planned number too.
+Spec updated to match. **Gate 2 still waiting for pass, pass with changes, or hold.**
+
+## 9. Remaining questions
+
+1. Is Franklin Kinetics incorporated, or a sole proprietorship?
+2. Insurance: get a broker quote before deciding?

@@ -12,8 +12,8 @@ site_placement: "own page; linked from How It Works and Start a conversation"
 next_step: "Rotor Beta (unpriced; offered once, at the end of the report)"
 
 sources_needed:           # Brandon to paste or attach
-  - "Rotor Interviewer Pack: core instructions, wave 1 questions, summary block format, disclosure note"
-  - "Rotor Beta Playbook: 'Learning loop and the alignment diagnostic'"
+  - "Rotor Interviewer Pack: core instructions, wave 1 questions, summary block format, disclosure note (2026-11-09: Brandon does not recognise this name; not found in Drive or Notion)"
+  - "Rotor Beta Playbook: 'Learning loop and the alignment diagnostic'"  # same status
 
 deliverables:             # each behind its own gate; outcome: pass | pass-with-changes | hold
   1_data_flow_memo:      {file: "01-data-flow-memo.md", gate: "2026-11-09 pass (Option C)"}
