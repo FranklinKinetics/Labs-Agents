@@ -41,7 +41,8 @@ flowchart TD
   S6["6 · Leader submits to the drop-box<br/>name and role stripped on arrival"] --> S7
   S7{"7 · 3 or more blocks<br/>when the window closes?"}
   S7 -- yes --> S8["8 · Agent writes the report<br/>automatic quality checks"]
-  S7 -- no --> R["No report, no refund<br/>(stated before purchase)<br/>blocks deleted"]
+  S7 -- no --> R["No report, no refund<br/>blocks deleted<br/>purchase stays valid"]
+  R -->|"CEO restarts later<br/>with more leaders"| S4
   S8 -- pass --> S9["9 · Report emailed to CEO<br/>blocks deleted · ends with one offer: the Beta"]
   S8 -- fail --> X["Held for Brandon<br/>(exception)"]
   X --> S9
@@ -66,7 +67,7 @@ The pink box is the only place Brandon might touch a sale.
 | 4 | **Invites** | CEO sends the invitation to 3–8 leaders, including themself. **Franklin Kinetics never emails leaders.** | CEO | n.a. |
 | 5 | **Interview** | Each leader takes one ~20 min interview, by voice or text, on their own time. The interviewer uses wave 1 questions unchanged and ends with the fixed-format summary block. The leader reads it and can edit or remove anything. | Leader | n.a. |
 | 6 | **Submits** | Leader pastes the block into the drop-box. They read the disclosure note and tick "I understand unattributed quotes may appear" (required). The drop-box checks the format, **strips name and role before storing**, and shows "Received." No leader email is collected. | Leader, then system | Yes |
-| 7 | **Window** | The window is open 21 days from purchase. The CEO's status page shows **the count against the plan** ("4 of 6 received"), never who or what. The CEO can close early once 3 are in, or extend once by 14 days. Under 3 at close: no report, no refund, blocks deleted, CEO told by email. | System | Yes |
+| 7 | **Window** | The window is open 21 days from purchase. The CEO's status page shows **the count against the plan** ("4 of 6 received"), never who or what. The CEO can close early once 3 are in, or extend once by 14 days. Under 3 at close: no report, no refund, blocks deleted, CEO told by email. **The purchase stays valid:** the CEO can restart later from the status page, with a fresh 21-day window, when more leaders can take part. Leaders who already took part paste their saved block again (or retake the interview). | System | Yes |
 | 8 | **Report** | The synthesis agent (deliverable 4) writes the report. Automatic checks before sending: 3+ blocks; no names or roles; quotes unattributed; no recommendation of a main effort; no ROI or results language; every section present. A failed check holds the report for Brandon. | Agent | Yes |
 | 9 | **Delivery and offer** | Report emailed to the CEO (PDF). Blocks and name fingerprints deleted at once; the deletion is logged (date and count only). The report is kept only if the CEO consented. The report ends with one offer: help settling the open questions, the Rotor Beta, via Start a conversation. One plain check-in email to the CEO 14 days later (with sender details and an unsubscribe link, as Canada's anti-spam law requires). | System | Yes |
 
@@ -114,7 +115,7 @@ The pink box is the only place Brandon might touch a sale.
 | Risk | Handling |
 |---|---|
 | **No insurance today** | Open. Brandon is unsure it's worth the cost. See section 7. |
-| CEO buys, then fewer than 3 take part | No report, no refund. Stated plainly before purchase (guardrail 8). The status page and kit help the CEO chase their own team. |
+| CEO buys, then fewer than 3 take part | No report, no refund, but the CEO can restart later. Stated plainly before purchase (guardrail 8). Blocks are not held while waiting: holding candid opinions for months is the bigger risk. |
 | CEO pressures leaders to show their blocks | The kit tells the CEO plainly that the product works because they *don't* see blocks. The status page shows a count only, so the CEO can't tell who has submitted. |
 | Duplicate or fake submissions | Name fingerprint catches the same name twice. The private link limits who can reach the drop-box. A determined insider could still game it; accepted for v1. |
 | Small team makes quotes traceable | Leader must tick consent before submitting; the agent drops identifying details; the report never splits views by role. |
@@ -124,22 +125,31 @@ The pink box is the only place Brandon might touch a sale.
 
 ## 7. Insurance: open
 
-Brandon's view (2026-11-09): unsure of the cost or whether it's worth it; "may be cheaper to just bankrupt the company."
+Brandon (2026-11-09): unsure of the cost or whether it's worth it. Franklin Kinetics is a corporation, so most claims stop at the company.
 
-Vera's note, for the decision, not a lecture:
-- That only works if **Franklin Kinetics is a corporation**. As a sole proprietor, a claim reaches Brandon's own assets.
-- Even with a corporation, some privacy claims can name the people who handled the data.
-- The bigger cost of a leak may be trust, which is the product.
-- The design already keeps the risk small: no names stored, blocks deleted within weeks, no one reads them.
+What's left for the decision:
+- **Your own playbook already plans for it.** `rotor/beta-playbook.md` lists "Get quotes for professional liability (E&O) insurance" in the first 30 days. It also says hosting client strategy data "waits for a technical partner, security review and insurance."
+- **Option C is a small version of that hosting.** Summary blocks are client strategy data, held for weeks. It's much smaller than the platform-stage hosting the playbook describes: no names, no transcripts, no one reads it, deleted on delivery. But it's the same kind of thing.
+- **The contract checklist says "no hosting of client data."** That fits the Beta. The diagnostic's client terms need a different clause: brief hosting, for one purpose, then deletion.
+- Even with a corporation, some privacy claims can name the people who handled the data. The bigger cost of a leak is trust, which is the product.
 
-Cheapest way to decide with real numbers: Brandon asks a broker for a quote (free, no commitment), and the lawyer review adds a liability cap to the client terms. The crew sends nothing to brokers.
+Crew recommendation: get one E&O-plus-cyber quote, as the playbook already plans, and decide with a real number. If you then decide against insurance, record it in `logs/decisions.md` and the crew builds C as specified.
 
-## 8. Gate outcome so far · 2026-11-09
+## 8. Notes from the Interviewer Pack for deliverable 3
 
-Answers recorded: (1) Squarespace. (2) No refund if under 3 leaders; the CEO's responsibility, stated before purchase. (3) Insurance undecided. (4) Check-in email at 14 days. (5) Status page shows the planned number too.
-Spec updated to match. **Gate 2 still waiting for pass, pass with changes, or hold.**
+Read 2026-11-09 from `rotor/interviewer-pack.md`. Carried forward, not decided here:
+- The summary block format stays identical. The diagnostic interviewer still asks for name and role; the drop-box strips them on arrival.
+- The block's **"Leave out of the summary"** field can contain the very thing a leader wants left out. The drop-box should blank that field on arrival, and the synthesis agent must never use it.
+- The Beta disclosure says Brandon reads full transcripts. The diagnostic needs its own disclosure: no transcripts leave the company; no person reads the block.
+- Wave 1 question 10 (interests outside work) can identify someone. The report must not use it.
+- The core instructions name Brandon and ask leaders to email him. The diagnostic version points to the drop-box instead.
 
-## 9. Remaining questions
+## 9. Gate outcome so far · 2026-11-09
 
-1. Is Franklin Kinetics incorporated, or a sole proprietorship?
-2. Insurance: get a broker quote before deciding?
+Answers recorded: Squarespace. No refund if under 3 leaders; the CEO can restart later. Check-in email at 14 days. Status page shows the planned number. Franklin Kinetics is a corporation. Insurance undecided.
+**Gate 2 still waiting for pass, pass with changes, or hold.**
+
+## 10. Remaining questions
+
+1. **Restart limits:** one free restart within 12 months of purchase? Or unlimited?
+2. **Insurance:** get one quote before deciding, as the playbook already plans?

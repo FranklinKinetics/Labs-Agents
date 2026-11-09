@@ -33,3 +33,5 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-09 | Diagnostic: no refund if fewer than 3 leaders take part; that is the CEO's responsibility. Must be stated plainly before purchase. | Claude Code |
 | 2026-11-09 | Diagnostic: one check-in email to the CEO 14 days after the report. | Claude Code |
 | 2026-11-09 | Diagnostic status page shows the count against the planned number ("4 of 6"). | Claude Code |
+| 2026-11-09 | Diagnostic: if fewer than 3 leaders take part, the CEO can restart the diagnostic later with more participants. Blocks from the first attempt are still deleted. | Claude Code |
+| 2026-11-09 | Franklin Kinetics is a corporation. | Claude Code |

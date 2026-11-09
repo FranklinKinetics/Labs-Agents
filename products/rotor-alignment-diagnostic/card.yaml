@@ -11,9 +11,9 @@ job_to_be_done: "Show a leadership team where it agrees, where it differs, and w
 site_placement: "own page; linked from How It Works and Start a conversation"
 next_step: "Rotor Beta (unpriced; offered once, at the end of the report)"
 
-sources_needed:           # Brandon to paste or attach
-  - "Rotor Interviewer Pack: core instructions, wave 1 questions, summary block format, disclosure note (2026-11-09: Brandon does not recognise this name; not found in Drive or Notion)"
-  - "Rotor Beta Playbook: 'Learning loop and the alignment diagnostic'"  # same status
+sources:
+  - "rotor/interviewer-pack.md (copy; master is a Claude Doc)"
+  - "rotor/beta-playbook.md, section Learning loop and the alignment diagnostic"
 
 deliverables:             # each behind its own gate; outcome: pass | pass-with-changes | hold
   1_data_flow_memo:      {file: "01-data-flow-memo.md", gate: "2026-11-09 pass (Option C)"}
