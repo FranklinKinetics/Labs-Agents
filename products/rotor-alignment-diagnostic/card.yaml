@@ -1,0 +1,28 @@
+# Product card: Rotor Alignment Diagnostic
+# Not a Labs store product. Sells under The Rotor on franklinkinetics.com as the
+# entry step before the Rotor Beta. Built with the Labs crew and gates
+# (decision 2026-11-09). Adapted from labs/_template/lab.yaml.
+name: "Rotor Alignment Diagnostic"
+slug: "rotor-alignment-diagnostic"
+status: building          # deliverable 1 drafted; waiting at its gate
+buyer: "CEO of an owner-led company, 20-200 people"
+job_to_be_done: "Show a leadership team where it agrees, where it differs, and which questions it must settle, without Brandon's time."
+next_step: "Rotor Beta (unpriced; offered once, at the end of the report)"
+
+sources_needed:           # Brandon to paste or attach
+  - "Rotor Interviewer Pack: core instructions, wave 1 questions, summary block format, disclosure note"
+  - "Rotor Beta Playbook: 'Learning loop and the alignment diagnostic'"
+
+deliverables:             # each behind its own gate; outcome: pass | pass-with-changes | hold
+  1_data_flow_memo:      {file: "01-data-flow-memo.md", gate: "waiting"}
+  2_product_spec:        {file: "", gate: ""}
+  3_interviewer:         {file: "", gate: ""}
+  4_synthesis_agent:     {file: "", gate: ""}
+  5_sample_report:       {file: "", gate: ""}
+  6_package_price:       {file: "", gate: ""}
+  7_website_copy:        {file: "", gate: "", scope: "diagnostic's own page; 'Not ready for the Beta? Start here' block on How It Works; link on Start a conversation"}
+  8_test_plan:           {file: "", gate: ""}
+
+hours:
+  brandon: 0
+  crew_sessions: 1

@@ -13,6 +13,7 @@ canon/               ← ontology, guardrails, gates
 crew/                ← the seven personas (source of truth)
 .claude/agents/      ← thin local wrappers that point to crew/
 labs/                ← sparks.md, _template/, one folder per Lab
+products/            ← non-Labs products built with the crew (e.g. Rotor Alignment Diagnostic)
 logs/                ← decisions, gates, friction
 models/              ← Living Models and Price Model
 ```
