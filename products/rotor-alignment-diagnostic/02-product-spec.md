@@ -139,4 +139,4 @@ Read 2026-11-09 from `rotor/interviewer-pack.md`. Carried forward, not decided h
 ## 9. Gate outcome so far · 2026-11-09
 
 Answers recorded: Squarespace. No refund if under 3 leaders; one restart within 12 months. Check-in email at 14 days. Status page shows the planned number. Franklin Kinetics is a corporation. No insurance quote.
-**Gate 2 still waiting for pass, pass with changes, or hold.** No open questions.
+**Gate 2: pass, 2026-11-10.**
