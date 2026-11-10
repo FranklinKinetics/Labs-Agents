@@ -24,8 +24,12 @@ flowchart LR
 | The intake program | **Yes → consulting** | Start a conversation | This track (RP3–RP6) |
 | Rotor Beta | **Yes → consulting** | Start a conversation | Unchanged |
 
-**New term, for Brandon's approval:**
-- **Intake:** up to three companies that start the program in the same week and share one Mirror day. Companies in an intake never meet and never learn each other's names. To a client it is simply "the next start date".
+**New terms, for Brandon's approval** (to be added to the ontology if approved):
+- **Intake:** up to three companies that start the program within the same three weeks and share one Mirror day. Companies in an intake never meet and never learn each other's names. To a client it is simply "the next start date".
+- **Mirror day:** the one day off on which an intake's private Mirrors run.
+- **Wave 0:** a diagnostic graduate's diagnostic data, used as the program's starting point.
+- **Waiting room:** the diagnostic's role for a company waiting for the next intake.
+- **Override log:** already in the playbook and decisions log; listed here so it enters the ontology.
 - "Cohort" implied a group that meets, and "wave" is already used for interview waves.
 
 **Product name:** a working name only. Fenn proposes the real one at RP4. Until then this spec says "the program".
@@ -60,10 +64,12 @@ gantt
 | Companies | 3 | 3 | 1 | **7** |
 | Brandon, evenings/weekends (est.) | ~58 h | ~58 h | ~25 h | ~141 h |
 | Brandon, on days off (est.) | ~6 h (Mirror day) | ~6 h | ~5 h | ~17 h |
-| Selling and admin | | | | ~45 h |
-| **Total** | | | | **~203 h of 240** |
+| Selling and admin (conversations that don't convert, practice admin; not T1/T14) | | | | ~45 h |
+| **Total** | | | | **~186 h of 240 in evenings, plus ~17 h on days off** |
 | Days off | 1 | 1 | ~2 | **~4 (max 5–6)** |
-| 4 pm one-on-ones | 6 | 6 | 1 | **~13** |
+| 4 pm one-on-ones | 6 | 6 | 1–2 (kickoff; the review may need a day off) | **~13–14** |
+
+*Variance from RP1:* RP1 estimated ~190 h a year in total. This spec puts it at ~203 h, because it counts replies and flight logs at a realistic rate. That is still inside the budget with margin.
 
 **Calendar rules**
 1. **Never two Mirror days within three weeks of each other**, including the Beta's Mirror. This is the playbook rule, tightened.
@@ -76,7 +82,7 @@ gantt
 
 ## 3. The client journey, week by week
 
-Each company runs in its own lane. Only the start week, the Mirror day and the review window are shared.
+Each company runs in its own lane. The three start one week apart (see the weekly load below); only the Mirror day and the review window are shared. Week numbers are for the first company.
 
 | Week | The client does | AI does (agent) | Brandon does (min per company) | When |
 |---|---|---|---|---|
@@ -89,7 +95,7 @@ Each company runs in its own lane. Only the start week, the Mirror day and the r
 | 5 | — | **A5** drafts 3–5 schwerpunkt candidates plus guardrails, living models and tripwires, *as options, with no recommendation* · **A6** runs the five tests on every line | **Choose and rewrite the candidates for wave 3** (the judgment the client pays for) **90** · wave 3 file **15** | Weekend |
 | 5–6 | Leaders react to the draft in wave 3. CEO receives the divergence summary | A1 · A2 | Read transcripts **40** | Evenings |
 | 7 | Leadership team receives the pre-read: the divergence summary and what the Mirror must settle | A2 drafts the contested-items list | Mirror prep: running order, contested calls, metaphor shortlist **45** · 3-min pre-Mirror video **15** | Evening |
-| **8** | **The Mirror**: 2 h, the whole leadership team. Remote by default, or in person if all three companies that day are local | — | **120 live** | **Day off, shared by 3 companies** |
+| **8** | **The Mirror**: 2 h, the whole leadership team. Remote by default. In person only at each company's own office, with Brandon travelling between them, so no shared venue and no overlap | — | **120 live** | **Day off, shared by 3 companies** |
 | 8–9 | Signs off the Rotor Sheet. CEO records the strategy video from the script. Team lead writes 10 dilemmas | A6 checks the final sheet · **A7** drafts the video script · the Sheet and the Rotor Core are loaded into the team's AI · **A8** runs the red-team dilemmas | Finalize the sheet **45** · edit the script **30** · annotate red-team results and tune **45** | Evenings |
 | 1–9 | — | **A9** drafts the weekly flight log | Approve flight logs, 8 × **8** = **64** · replies, 8 × **10** = **80** | Evenings |
 | 9–20 | Live run: the team works with the AI. Monthly pulse. Flight log every two weeks | A9 · **A11** pulse · A10 end-of-quarter noise audit | Flight logs 6 × **8** = **48** · pulse syntheses 3 × **15** = **45** · replies 12 × **10** = **120** | Evenings |
@@ -109,15 +115,19 @@ That totals about 3.75 h, against 4.5–6 h in the Beta.
 
 **Weekly load for an intake of three** (evenings and weekends, excluding the Mirror day itself):
 
+**Staggered starts (fixes a Vera catch).** Choosing candidates (T6) for all three companies in the same week comes to 5.25 h on its own, which breaks the cap. So the three companies start **one week apart** (weeks 0, 1 and 2) and share only the Mirror day. Their builds run 8, 7 and 6 weeks; the playbook's build is 5–6 weeks, so even the shortest is enough. Each company's heavy weeks then land in different weeks.
+
 | Weeks | Load | Notes |
 |---|---|---|
-| 0–1 | ~3.5 h | Welcome videos and kickoffs. Stagger the three kickoffs across two weeks. |
-| 1–6 | ~3–4 h | Transcripts and synthesis |
-| 5 | ~4.5 h | Schwerpunkt candidates for three companies |
-| **7** | **~5 h** | Mirror prep. This is the peak. Protect it: no other client work that week. |
+| 0–2 | ~2–2.5 h | One welcome and kickoff per week |
+| 1–4 | ~3–3.5 h | Transcripts and synthesis, overlapping lanes |
+| 4–6 | ~3.5–4 h | One company's T6 (1.75 h) per week, plus the others' transcripts |
+| **7** | **~4.5–5 h** | Mirror prep for all three. This is the peak. Protect it: no other client work that week. |
 | 8–9 | ~3.5 h | Sheets, scripts, red-team |
 | 9–20 | ~1.3 h | Live run |
-| 21 | ~6 h, spread over 2 weeks | Reviews. Stagger them across two weeks. |
+| 21–22 | ~3 h a week | Reviews, staggered over two weeks |
+
+These are estimates. The hard cap in section 4 applies to the real numbers.
 
 ---
 
@@ -184,13 +194,13 @@ It applies Rotor's own rule to Brandon: repeated overrides are information.
 **What gets logged:** every time Brandon changes an AI draft, one line.
 
 ```
-date | intake-company code (e.g. 27A-2) | step (S1–S11) | what the AI drafted (paraphrase, no names or quotes)
-     | what Brandon changed | why: wrong · weak · tone · missing context · judgment call | minutes spent
+date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut · added · reworded · reordered · replaced
+     | why: wrong · weak · tone · missing context · judgment call | minutes spent | method note (optional, about the agent's instructions, never about the client)
 ```
 
 **Rules**
-- **Private:** it lives in Brandon's private library, never in anything a client sees, and never in this public-facing repo.
-- **No client content:** company codes only, no company names and no client quotes. That means it holds no client strategy data, so it stays within the hosting rule.
+- **Private:** it lives in Brandon's private library, never in anything a client sees, and never in this repo.
+- **No client content:** step labels and categories only. No paraphrase of a draft, no company names, no quotes. It holds no client strategy data, so it stays within the hosting rule. If Brandon needs the actual draft to remember a lesson, it stays in the client's Rotor workspace.
 - **No-change steps count too.** A tally per step ("S9: approved unchanged ×4") gives the override *rate*, not just the overrides.
 - **A step becomes a candidate to hand further to AI** when it has 15+ observations across 3+ companies, an override rate under 15%, and no "wrong" in its last 10.
 - **Handing a step over is decided at a track gate**, never silently.
@@ -269,7 +279,7 @@ A member account works everywhere in principle. Juno re-verifies against officia
 
 - **The Beta runs exactly as the playbook says:** same name, terms, three live sessions and deliverables. This track does not change it.
 - **At most one Beta client a year**, scheduled so its Mirror is three or more weeks from any intake Mirror day.
-- **Whether the Beta uses the new agents (A2–A12)** to save Brandon's time is a delivery choice, not a product change. Brandon decides. Using them would also make the RP6 comparison cleaner, because the only difference would be live access.
+- **Whether the Beta uses the new agents (A2–A12)** to save Brandon's time is a delivery choice, not a product change. Brandon decides. It would also change how data reaches him (email in the playbook, a client seat in section 8). Using them would also make the RP6 comparison cleaner, because the only difference would be live access.
 
 ---
 
@@ -280,9 +290,9 @@ A member account works everywhere in principle. Juno re-verifies against officia
 | An intake doesn't fill | Run with two. The diagnostic is the waiting room. Never run one company as an intake. |
 | One company stalls (interviews late) | Own lane. The Mirror date is fixed at signing, so a company not ready by week 6 moves to the next intake's Mirror day (stated in the contract). |
 | The week-7 peak goes past 6 h | Hard cap rule (section 4). Next intake drops to two. |
-| A day off is refused or cancelled | Request leave once the first company signs. The Mirror day has a fallback of two evening Mirrors (5:30–7:30 pm) the following week, agreed with clients at signing. |
+| A day off is refused or cancelled | Request leave once the first company signs. The Mirror day has a fallback of evening Mirrors (5:30–7:30 pm, one company per evening, remote) the following week, agreed with clients at signing. |
 | Clients feel they got too little of Brandon | Ask the same way at the review (RP6 evidence). Personal videos at T2, T7 and T13. |
-| A5 candidates start steering Brandon's judgment (automation bias) | A5 must give 3–5 options, never a ranking. Brandon writes his own one-line view *before* opening A5's draft for the first two intakes, and the override log records it. |
+| A5 candidates start steering Brandon's judgment (automation bias) | A5 must give 3–5 options, never a ranking. Brandon writes his own one-line view *before* opening A5's draft for the first two intakes. The note stays in the client's Rotor workspace. The override log records only whether his view matched A5's options (yes / partly / no), never the text. |
 | Process exposure: agent packs installed in client AI can be read | Licence and confidentiality as with the Core; a fingerprint per client (playbook). Packs hold method, not the library. |
 | Rotor Core exposure | Unchanged from the Beta: loaded only into the client's AI, under licence. Never in a Lab. |
 
