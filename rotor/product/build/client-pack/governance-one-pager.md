@@ -19,7 +19,7 @@ We agree these points in writing before the work starts. Anything unclear gets s
 
 - **Who reads what.** Brandon reads the full interview transcripts. No one else at [COMPANY] does. What reaches the leadership team is a summary of where views agree and differ. Quotes are unattributed unless the leader agrees otherwise.
 - **Where interviews run.** In [COMPANY]'s own [PLATFORM] account, under your existing agreement with that vendor.
-- **Where summaries go.** Each leader sends their interview summary to Brandon. The drafting of syntheses, summaries and progress notes runs in Brandon's own business-tier AI account. It is one private project for [COMPANY], named by a code, and used for no other client.
+- **Where summaries go.** Each leader emails their interview summary block to Brandon, as the interviewer asks at the end of each session. The drafting of syntheses, summaries and progress notes runs in Brandon's own business-tier AI account. It is one private project for [COMPANY], named by a code, and used for no other client.
 - **Training.** The account's terms exclude training on its content. Brandon confirms this in writing before the first interview. [CONFIRMATION DATE]
 - **What stays out.** No one in [COMPANY] needs to create an account for Brandon.
 - **Close-out.** At the end of the engagement, Brandon deletes the project and every copy he holds, and sends [COMPANY] a written confirmation of the deletion by [DATE, within X working days of close-out].

@@ -167,17 +167,17 @@ Every agent is a plain-text instruction pack in the style of the Interviewer Pac
 | Agent | What it does | Input → output | Runs in | Checked by | Override-log step |
 |---|---|---|---|---|---|
 | **A1** Interviewer | Leader interviews, waves 1–3 | Wave file → summary block | Client's AI (existing) | Brandon reads every transcript | S1 |
-| **A2** Synthesizer | After each wave: themes, agreements, differences, unattributed quotes, language harvest, contested items | Summary blocks → wave synthesis | See section 8 | Brandon | S2 |
-| **A3** Wave drafter | Per-leader wave 2 follow-ups; the wave 3 file | Synthesis → wave file | See section 8 | Brandon | S3 |
-| **A4** Divergence drafter | Two-page divergence summary and language harvest, nobody quoted by name | Syntheses → draft summary | See section 8 | Brandon | S4 |
-| **A5** Candidate drafter | 3–5 schwerpunkt candidates; guardrail, living-model and tripwire drafts. **Always options, with the trade-off of each. Never a recommendation, never one answer.** | Divergence summary → draft options | See section 8 | **Brandon chooses; the leadership team signs off at the Mirror** | S5 (logged for learning only; never handed to AI) |
+| **A2** Synthesizer | After each wave: themes, agreements, differences, unattributed quotes, language harvest, contested items | Summary blocks → wave synthesis | Brandon's account (section 8) | Brandon | S2 |
+| **A3** Wave drafter | Per-leader wave 2 follow-ups; the wave 3 file | Synthesis → wave file | Brandon's account (section 8) | Brandon | S3 |
+| **A4** Divergence drafter | Two-page divergence summary and language harvest, nobody quoted by name | Syntheses → draft summary | Brandon's account (section 8) | Brandon | S4 |
+| **A5** Candidate drafter | 3–5 schwerpunkt candidates; guardrail, living-model and tripwire drafts. **Always options, with the trade-off of each. Never a recommendation, never one answer.** | Divergence summary → draft options | Brandon's account (section 8) | **Brandon chooses; the leadership team signs off at the Mirror** | S5 (logged for learning only; never handed to AI) |
 | **A6** Five-tests checker | Runs each line through decision, trade-off, new hire, hindsight and tripwire; flags failures with a reason | Draft or final sheet → marked-up sheet | See section 8 (same core as the five-tests checker Spark) | Brandon | S6 |
-| **A7** Script drafter | 2–3 min CEO video script plus guardrail clips, in the language map | Sheet → script | See section 8 | Brandon, then the CEO | S7 |
+| **A7** Script drafter | 2–3 min CEO video script plus guardrail clips, in the language map | Sheet → script | Brandon's account (section 8) | Brandon, then the CEO | S7 |
 | **A8** Red-team runner | Puts the lead's dilemmas to the loaded AI; records ambient, nudge or explicit; drafts annotations | Dilemmas → annotated table | Client's AI | Brandon, then the lead rates | S8 |
-| **A9** Flight log drafter | Under 300 words: heard, taking shape, next, one question | Week's activity → draft log | See section 8 | Brandon approves | S9 |
+| **A9** Flight log drafter | Under 300 words: heard, taking shape, next, one question | Week's activity → draft log | Brandon's account (section 8) | Brandon approves | S9 |
 | **A10** Noise audit | Existing variant | Cases → audit blocks | Client's AI (existing) | — | — |
 | **A11** Pulse | Three questions monthly to the beta team; synthesis by team only | Answers → pulse synthesis | Client's AI | Brandon | S10 |
-| **A12** Results compiler | Measures, beta vs comparison team, null results reported honestly, no financial claims | All measures → results pack | See section 8 | Brandon | S11 |
+| **A12** Results compiler | Measures, beta vs comparison team, null results reported honestly, no financial claims | All measures → results pack | Brandon's account (section 8) | Brandon | S11 |
 
 **Not automated, by design:**
 - Choosing the schwerpunkt candidates (T6).
@@ -250,14 +250,16 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 
 ```mermaid
 flowchart LR
-  subgraph CLIENT["Client's own AI platform (their tenant, their vendor terms)"]
-    L["Leaders' interview chats<br/>(A1)"]
-    W["Private 'Rotor workspace'<br/>project: Brandon's seat only<br/>A2–A9, A12 run here"]
+  subgraph CLIENT["Client's own AI platform"]
+    L["Leaders' interview chats (A1)"]
     T["Beta team's AI<br/>(Sheet + Core, A8, A10, A11)"]
   end
-  L -->|"summary block + chat export<br/>to Brandon's client account"| W
+  subgraph BR["Brandon's business-tier AI account (decided at RP2)"]
+    W["One private project per company<br/>A2–A7, A9, A12 run here<br/>deleted at close-out"]
+  end
+  L -->|"summary block, by email<br/>(as in the Beta)"| W
   W -->|"signed-off Rotor Sheet"| T
-  W -.->|"method notes only:<br/>override log, no names or quotes"| LIB["Brandon's private library"]
+  W -.->|"step labels only:<br/>override log"| LIB["Brandon's private library"]
 ```
 
 **How (a) works**
