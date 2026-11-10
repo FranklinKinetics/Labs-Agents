@@ -30,3 +30,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Choosing a company's schwerpunkt is never fully automated. AI may draft it; a person signs it off. | Claude Code |
 | 2026-11-10 | No hosting of client strategy data unless Brandon approves it at a gate. Prefer designs where interviews run in the client's own AI. | Claude Code |
 | 2026-11-10 | The Rotor Beta is not retired, renamed or repriced by this track. Whether the product replaces it is Brandon's decision at RP6. | Claude Code |
+| 2026-11-10 | Rotor consulting days off work: 5–6 a year at most. 4 pm meetings are possible but not easy; best used for one-on-ones with a CEO. | Claude Code |
+| 2026-11-10 | Leaning against having cohort companies meet each other, because companies keep strategy secret. Ines treats cohorts as private: companies never meet or learn each other's names. | Claude Code |
+| 2026-11-10 | Clients may be asked for early-morning or evening slots for kickoff and review. | Claude Code |

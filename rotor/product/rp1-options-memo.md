@@ -4,7 +4,52 @@ Ines, 2026-11-10. For Brandon's decision at Rotor Product Gate 1 (RP1). Inputs: 
 
 **The question:** which design do we spec at RP2?
 
-**In short:** I recommend **Design D, the Ladder, staged**. The core is a **Cohort**: three companies start together and share one Mirror day. The alignment diagnostic is the entry rung. The current Beta stays alongside, unchanged, as the high-access rung until RP6. Reasoning is in section 6.
+**In short (revised, see section 0):** I recommend **Design D, the Ladder, staged**. The core is a **private Cohort**: three companies start together and share one Mirror day, without ever meeting. The alignment diagnostic is the entry rung. The current Beta stays alongside, unchanged, as the high-access rung until RP6. Reasoning is in section 6.
+
+---
+
+## 0. Revision 1, after Brandon's answers (2026-11-10)
+
+Brandon answered three of the four questions in section 9:
+- **Days off:** 5–6 a year at most.
+- **4 pm meetings:** possible, though not easy; best for one-on-ones with a CEO.
+- **Companies meeting each other:** probably not, because companies keep strategy secret.
+- **Early or late slots:** acceptable to ask clients for them.
+
+Design D as first drafted needed 8–10 days off and had cohort companies meeting each other. **Both are changed below, and the design changes rather than Brandon's hours.**
+
+**Changes to the cohort (Designs C and D)**
+
+The three companies never meet or learn each other's names. What they share is Brandon's calendar, not a room: one Mirror day and one batch of review work.
+
+| Was | Now |
+|---|---|
+| Group kickoff, 90 min, evening | A recorded kickoff video, made once and sent to each company separately, plus a **45-min 4 pm one-on-one with each CEO** |
+| Monthly group clinic | Dropped. Each company gets replies within the stated standard, plus a short recorded answer when a question deserves one |
+| Review day, 3 × 75 min (1 day off) | AI compiles the results, Brandon records a results video for the leadership team, then a **60-min 4 pm one-on-one with the CEO** to decide scale, adjust or stop |
+| Mirror day, 3 private Mirrors | Unchanged, and the only day off: **1 per cohort**. If the Mirrors are remote, the companies never cross paths. In person, Brandon goes to each company's office; nobody comes to a shared venue |
+
+- **Brandon per client:** about **19 h**, roughly unchanged. The CEO one-on-ones replace the shared sessions.
+- **4 pm slots:** about **2 per client**, which is 6 per cohort.
+- **What we lose:** the peer value of a CEO group. The case for the cohort now rests on shared days off alone, which is still the main reason.
+- **Name:** "cohort" now overstates it, since the companies never meet. Strictly it's a *batch*. I'll propose a name at RP2 rather than coin one now. "Wave" is taken by the interview waves.
+
+**Design D, revised for 5–6 days off**
+
+| Year-one plan | Clients | Brandon h (est.) | Days off | 4 pm slots |
+|---|---|---|---|---|
+| 2 cohorts of 3 | 6 | ~115 | 2 | ~12 |
+| 1 high-access client (the Beta, unchanged) | 1 | ~30 | ~2 (Mirror + review) | 1 (kickoff with the CEO) |
+| Selling and admin | — | ~45 | — | — |
+| **Total** | **7** | **~190 of 240** | **~4** | **~13 (about 1 a month)** |
+
+- **Room to spare:** this leaves ~50 h and 1–2 days off. That is Rotor's own *margin* rule applied to Brandon: plan to about 80% and protect the rest.
+- **At the ceiling:** a third cohort brings it to 10 clients, ~250 h and ~5 days off. That is an occasional stretch year, not the plan.
+- **A second Beta client:** fits on days off (~6) but squeezes the hours, so take one only instead of a cohort.
+
+**Recommendation, revised:** still Design D, staged: diagnostic → private cohort of three → the Beta as the high-access rung, **at most one a year**. The first cohort is the first three clients.
+
+**Still open: Mirror, remote or in person.** See section 9.
 
 ---
 
@@ -313,7 +358,11 @@ This track does not retire, rename or reprice the Beta. "Could replace it" below
 
 ## 9. Questions only Brandon can answer (they change the RP2 spec)
 
-1. **Days off:** roughly how many a year can you realistically take for clients? Design D needs about 8–10. With 6 or fewer, the high-access rung drops to one client a year.
-2. **Mirror format:** remote or in person? Three in-person Mirrors in one day only work if the companies are in one city, such as Regina.
-3. **Cohort companies meeting each other:** comfortable with that, with a rule against direct competitors in the same cohort?
-4. **Kickoff and review out of business hours:** acceptable to ask clients for early-morning or evening slots?
+1. **Days off:** answered: 5–6 a year at most. 4 pm one-on-ones with a CEO are possible. See section 0.
+2. **Mirror format: remote or in person?** Still open.
+   - **What the Mirror is:** the 2–3 hour live session with the whole leadership team at the end of the build. By then each leader has been interviewed separately by the AI, so nobody has yet heard the others' views. Brandon reflects the strategy back in their own words: where they agree, where they differ, where the money and people actually go. Then the room settles the hard calls: one schwerpunkt, the guardrails, the beliefs and their tripwires, and the company's metaphor. It ends with the leadership team signing off the Rotor Sheet. The playbook calls it the highest-value moment of the Beta.
+   - **In person:** the best room for a hard conversation. You read body language and can stop a side argument. But three in a day only works if all three companies are in Regina and you travel between their offices.
+   - **Remote:** works for clients anywhere, needs no travel, and keeps cohort companies from ever crossing paths. But it's harder to read the room, and 2+ hours on video is tiring.
+   - **My recommendation:** remote by default, in person when every company that day is local. Use the first cohort to compare. Let me know if you'd rather decide it at RP2.
+3. **Companies meeting each other:** answered: no. The cohort is private. See section 0.
+4. **Early or late slots:** answered: yes. Kickoff and review become 4 pm one-on-ones with the CEO.
