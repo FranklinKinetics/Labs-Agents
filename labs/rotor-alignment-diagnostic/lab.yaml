@@ -3,7 +3,7 @@
 # files are inputs to the Lab lifecycle; the Lab itself starts at G1/G2.
 name: "Rotor Alignment Diagnostic"
 slug: "rotor-alignment-diagnostic"
-status: approved     # passed G1/G2 2026-11-10; next: Build (Mack)
+status: approved     # passed G1/G2 2026-11-10; build plan written (build/plan.md), waiting for spend approval
 killed_reason: ""
 
 audience:
@@ -21,12 +21,13 @@ four_proofs:
 sources:
   - {name: "Rotor Interviewer Pack, wave 1 questions 1-9", url: "rotor/interviewer-pack.md", licence: "Franklin Kinetics' own material", notes: "Master is a Claude Doc. No Rotor Core content."}
   - {name: "Anthropic Claude API", url: "https://www.anthropic.com", licence: "Commercial API terms", notes: "Juno to confirm data retention and no-training terms before build"}
-  - {name: "Google Cloud (Montréal region)", url: "https://cloud.google.com", licence: "Commercial terms", notes: "Proposed host for the drop-box; Mack confirms at build"}
+  - {name: "Google Cloud Run, Firestore, Scheduler, Secret Manager (Montréal)", url: "https://cloud.google.com/run/pricing", licence: "Commercial terms", notes: "Free tiers verified 2026-11-10"}
+  - {name: "Squarespace Orders API", url: "https://support.squarespace.com/hc/en-us/articles/236297987-Squarespace-API-keys", licence: "Squarespace terms", notes: "Core plan or higher"}
 
 hours:
   estimate_brandon: 7        # Ines, proposed at G1/G2; see brief.md
   brandon: 1.8              # ~11 gate reviews x 10 min (Brandon's estimate, 2026-11-10)
-  crew_sessions: 11
+  crew_sessions: 12
 
 offer:
   free_layer: "none"

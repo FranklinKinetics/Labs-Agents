@@ -69,3 +69,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Brandon's gate reviews take about 10 minutes each; logged as his hours. | Claude Code |
 | 2026-11-10 | Canon reworded: a free layer is optional (`CLAUDE.md` Goodwill proof, `canon/ontology.md` Offer, `crew/sol.md`, lab template). | Claude Code |
 | 2026-11-10 | Rotor Alignment Diagnostic passes G1 and G2. Next: Build. | Claude Code |
+| 2026-11-10 | Environment network: allowed cloud.google.com, developers.squarespace.com and support.squarespace.com for build pricing. | Claude Code |
