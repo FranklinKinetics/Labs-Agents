@@ -27,7 +27,7 @@ sources:
 hours:
   estimate_brandon: 7        # Ines, proposed at G1/G2; see brief.md
   brandon: 1.8              # ~11 gate reviews x 10 min (Brandon's estimate, 2026-11-10)
-  crew_sessions: 12
+  crew_sessions: 13
 
 offer:
   free_layer: "none"
