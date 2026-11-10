@@ -63,3 +63,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Collect emails for a future newsletter, by an opt-in tick box on site forms (not pre-ticked). | Claude Code |
 | 2026-11-10 | Labs run on the buyer's own device or accounts and send no data back to Franklin Kinetics. | Claude Code |
 | 2026-11-10 | Contact-form messages are kept, not deleted on a schedule; deleted on request. | Claude Code |
+| 2026-11-10 | The Rotor Alignment Diagnostic is a Lab: self-serve, priced, sold in the Labs store, and also linked from How It Works ("Not ready for the Beta? Start here") and from Start a conversation. Run it through the normal Lab lifecycle and gates (G1–G8). Supersedes the 2026-11-09 decision that it is not a Labs store product. Files moved to `labs/rotor-alignment-diagnostic/`. | Claude Code |
