@@ -29,4 +29,4 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 | G7 | — | permanent |
 | G8 | 0 | active |
 
-Note: Rotor Alignment Diagnostic gates are per deliverable, not G1–G8. They do not count toward the streaks above unless Brandon decides otherwise.
+Note: the Rotor Alignment Diagnostic's earlier per-deliverable gates (before it became a Lab on 2026-11-10) do not count toward the streaks above. Its G1–G8 gates from 2026-11-10 do.
