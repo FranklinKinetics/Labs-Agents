@@ -13,17 +13,18 @@ GATE 8 (test plan) · Rotor Alignment Diagnostic · 2026-11-10
 Decision needed: is this the right way to prove the diagnostic works
   before the first paid sale?
 Recommendation: approve. Three stages: (1) bench tests with invented
-  blocks, (2) one dry run on a friendly company, run by hand, free,
-  (3) the same dry run checks on the automated version. Four checks
+  blocks, (2) a solo run: Brandon plays 3-5 leaders on real platforms,
+  (3) the first one or two paid sales run by hand, then automate. Four checks
   you asked for each have a pass line: 3-leader minimum, anonymity,
   fixed format, Beta handoff.
-Before the dry run: privacy notice, terms and leader disclosure in
-  final form; a friendly company named by you.
+Before the first sale: crew-drafted privacy notice and terms (no
+  lawyer, decision 2026-11-10).
 Four Proofs check: Speed: Brandon's hours measured, not guessed ·
-  Abundance: real leaders' words · Craft: tested on all four
-  platforms · Goodwill: the dry-run company gets a free report
-Risks / Vera flags: dry run uses real people's opinions; consent and
-  deletion apply in full even though it's free
+  Abundance: the team's own words · Craft: tested on all four
+  platforms · Goodwill: first buyers get a report read by a person
+  before it goes out
+Risks / Vera flags: the solo run can't test candour or whether a real
+  CEO can guess who said what; the first paid sales carry that test
 Hours so far: Brandon 0h · crew sessions 8
 Reply: pass · pass with changes · hold
 ```
@@ -33,16 +34,16 @@ Reply: pass · pass with changes · hold
 ## 1. Three stages
 
 ```
-Stage 1 · Bench          Stage 2 · Dry run (by hand)      Stage 3 · Automated
-invented blocks only     one friendly company, free       same company or the next
-───────────────────      ──────────────────────────       ─────────────────────────
-interviewer on 4         real leaders, real AI            drop-box, agent, checks
-platforms                platform, crew runs the          and emails run on their
-drop-box checks          agent and reads the report       own; Brandon touches
-synthesis agent on       before it goes out               only exceptions
+Stage 1 · Bench          Stage 2 · Solo run               Stage 3 · First sales, by hand
+invented blocks only     Brandon plays 3–5 leaders        first 1–2 paid buyers
+───────────────────      ──────────────────────────       ─────────────────────────────
+interviewer on 4         real AI platforms, real          crew runs the agent and
+platforms                drop-box, real report;           reads each report before it
+drop-box checks          Brandon times every step         goes out; then automate
+synthesis agent on
 Larchmere + traps
         │                          │                                │
-        └──── all pass ───────────►└──── all pass + Brandon ok ────►└──► first paid sale
+        └──── all pass ───────────►└──── all pass + Brandon ok ────►└──► automated sales
 ```
 
 Nothing moves to the next stage until every check in the stage before it passes, or Brandon accepts a known gap in writing (`logs/decisions.md`).
@@ -112,63 +113,57 @@ Run by Mack, checked by Vera. Uses only invented blocks: the five Larchmere bloc
 - **Quality-check hold:** a report that fails any check is held, Brandon is alerted, and nothing goes to the CEO.
 - **Quebec:** a Quebec head office can't complete checkout.
 
-## 3. Stage 2 · Dry run on a friendly company
+## 3. Stage 2 · Solo run
 
-**Who:** one owner-led company Brandon knows, 20–200 people, 3 to 8 leaders willing to take part. Outside Quebec. Free.
-**How:** the real interviewer on their real AI platform, the real drop-box. The crew runs the synthesis agent by hand and reads the report before it goes out (Option B by hand, as decided 2026-11-09). Brandon reads the report, never the blocks.
+No friendly company is available (Brandon, 2026-11-10), so Brandon runs it himself.
 
-**Before it starts:**
-- [ ] Privacy notice and terms in final form, lawyer-reviewed
-- [ ] Leader disclosure note says plainly that this is a test run of a new product
-- [ ] CEO agrees in writing that results are not used publicly without permission (guardrail 4)
-- [ ] Stage 1 passed
+**How:** Brandon sets up the interviewer as a CEO would, on at least two platforms (say Claude and ChatGPT). He takes the interview 3 to 5 times, each time as a different invented leader of an invented company, with views that really disagree. He pastes each block into the real drop-box. The crew runs the synthesis agent and Brandon reads the report as the CEO would.
+
+**What it can test:** setup time, interview length and flow, the block format on real platforms, the drop-box, the 3-leader minimum, the report's quality, and Brandon's hours.
+**What it can't test:** whether real leaders are candid, and whether a real CEO can guess who said what. Stage 3 carries those.
 
 **What we measure** (logged on the card, never estimated after the fact):
 
 | Measure | Target, to check against |
 |---|---|
-| CEO setup time | About 15 minutes (the website says so; confirm or change the copy) |
+| Setup time | About 15 minutes (the website says so; confirm or change the copy) |
 | Interview length | About 20 minutes |
-| Leaders who submit, of those invited | Logged as found; no target yet |
-| Leaders who edited their block before sending | Logged as found |
 | Time from window close to report | Logged as found |
 | Brandon's hands-on hours | Logged; the Speed proof |
-| Crew corrections to the agent's report | Every change logged, like the Beta's override log. Few corrections means Stage 3 is safe. |
+| Crew corrections to the agent's report | Every change logged, like the Beta's override log |
 
-**After the report, ask the CEO** (one short call or email; their words, recorded as given):
+**Solo run passes when:** Checks A, C and D hold on real platforms, and Brandon would put his name on the report as it would go out.
+
+## 4. Stage 3 · First paid sales, by hand, then automated
+
+The first one or two paid diagnostics run by hand, as decided on 2026-11-09: the crew runs the agent and reads each report before it goes out. Brandon reads the report, never the blocks. This is where candour and anonymity get their real test.
+
+**After each report, ask the CEO** (one short email; their words, recorded as given; never used publicly without permission, guardrail 4):
 1. Did anything in the report surprise you?
 2. Could you tell who said what? Where?
-3. Which question in section 8 would you most want help with?
+3. Which question would you most want help with?
 4. Was anything wrong, missing or unclear?
 
-**Ask two leaders:** Did you feel you could be candid? Was anything about the process unclear?
-
-**Dry run passes when:**
-- All four checks (A–D) hold with real data
-- The CEO couldn't pin a quote to a person outside the main-effort list, or the rule was fixed
-- The crew made no correction that changed what the report *says* (wording fixes are fine)
-- Brandon is willing to put his name on the report as it would go out
-
-## 4. Stage 3 · The automated version
-
-Repeat Checks A–D on the automated build, with the dry-run company if they're willing, or the next friendly company. Plus:
+**Then automate**, and repeat Checks A–D on the automated path, plus:
 - [ ] Full path runs with no one touching it: purchase → kit email → submissions → report → deletion → check-in email
 - [ ] A planted failure (a name in the report) is held, and Brandon is alerted
 - [ ] Payment, refund and restart work in Squarespace's test mode before live mode
 
-**Then:** Vera's clearance against the guardrails, and Brandon's go-live decision. Nothing goes live without both.
+**Before the first paid sale:** Vera's clearance against the guardrails, Brandon's go-live decision, and the crew-drafted privacy notice and terms on the site.
 
 ## 5. What could change the product
 
 | Finding | Likely response |
 |---|---|
-| Fewer than half of invited leaders submit | Invitation or disclosure problem. Fenn rewrites; re-test. |
-| CEO can guess who said what | Tighten anonymity rules before any sale |
-| Report reads as generic | Agent instructions need sharper rules; second dry run |
+| In the first sales: fewer than half of invited leaders submit | Invitation or disclosure problem. Fenn rewrites; re-test. |
+| A first-sale CEO can guess who said what | Tighten anonymity rules before any sale |
+| Report reads as generic | Agent instructions need sharper rules; another solo run |
 | Setup takes far longer than 15 minutes | Rewrite the setup kit, or change the website claim |
 | Brandon's hours per report stay above zero after Stage 3 | The step he keeps touching isn't ready to automate (override log) |
 
-## 6. Questions for you
+## 6. Answers so far · 2026-11-10
 
-1. **Which friendly company** would you ask for the dry run? Only the name is needed now; no contact until the privacy notice and terms are ready.
-2. **Lawyer review:** the privacy notice and terms block Stage 2. Do you have a lawyer in mind, or should the crew draft both first so the review is shorter?
+1. **Dry-run company:** none available. Replaced by a solo run (Stage 2); the first paid sales, run by hand, carry the real-people tests.
+2. **Lawyer:** none. Franklin Kinetics operates with best intentions under its corporation. The crew drafts the privacy notice and terms.
+
+**Gate 8 still waiting for pass, pass with changes, or hold.**

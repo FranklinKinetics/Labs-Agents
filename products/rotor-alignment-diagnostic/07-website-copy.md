@@ -85,7 +85,7 @@ Headline: **Your leaders can be candid, because no one is watching.**
 - **The summaries are deleted** once your report is delivered.
 - **No report for fewer than three leaders.** With only two, anyone could work out who said what.
 
-[NOTE: Link "how your leaders' answers are handled" to the privacy notice (not yet written; lawyer review).]
+[NOTE: Link "how your leaders' answers are handled" to the privacy notice (not yet written; crew drafts).]
 
 ### Price
 
@@ -207,7 +207,7 @@ The site's FAQ ("Is our strategy safe?") says: "Franklin Kinetics never hosts yo
 | No dark patterns (guardrail 8) | Pass. Full price shown, no countdown, no scarcity. The 3-leader rule sits above the buy button. The optional "keep my report" box at checkout is unticked. |
 | Claims traceable | Pass, with two [CONFIRM] notes: the 15-minute setup time (dry run) and the GST line (accountant). |
 | Privacy promises match the design | Pass. Every line in "Who sees what" matches the spec. "Not you, and not me" is true under Option C. |
-| Not yet written | Privacy notice and terms (lawyer review). The page links to both. |
+| Not yet written | Privacy notice and terms (crew drafts; no lawyer, decision 2026-11-10). The page links to both. |
 | Canadian spelling, short sentences | Pass. |
 
 ## 7. Gate outcome · 2026-11-10
