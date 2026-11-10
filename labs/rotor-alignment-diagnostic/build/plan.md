@@ -121,3 +121,7 @@ Steps 1 and 3 are logged in the friction log as they go. Nothing goes on sale un
 1. **Squarespace plan:** which plan is the site on? The Orders API needs Core or higher.
 2. **Email:** is contact@franklinkinetics.com a Google Workspace mailbox? If yes, the app sends from it at no extra cost. If not, Mack prices a sending service.
 3. **Approve:** the build, the three accounts, and the caps (Google CAD $10/month alert, Anthropic US$25/month limit)?
+
+## 7. Approved · 2026-11-10
+
+Squarespace plan: Core (Orders API available). Email: contact@franklinkinetics.com is Google Workspace. Build, accounts and caps approved.

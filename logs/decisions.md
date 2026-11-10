@@ -70,3 +70,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Canon reworded: a free layer is optional (`CLAUDE.md` Goodwill proof, `canon/ontology.md` Offer, `crew/sol.md`, lab template). | Claude Code |
 | 2026-11-10 | Rotor Alignment Diagnostic passes G1 and G2. Next: Build. | Claude Code |
 | 2026-11-10 | Environment network: allowed cloud.google.com, developers.squarespace.com and support.squarespace.com for build pricing. | Claude Code |
+| 2026-11-10 | franklinkinetics.com is on the Squarespace Core plan (Orders API available). | Claude Code |
+| 2026-11-10 | contact@franklinkinetics.com is a Google Workspace mailbox; the diagnostic sends email from it. | Claude Code |
+| 2026-11-10 | Build plan approved: Google Cloud (Montréal) + Claude API (Opus 5.5) + Squarespace Orders API. Accounts approved with caps: Google Cloud budget alert CAD $10/month, Anthropic spending limit US$25/month. | Claude Code |
