@@ -203,7 +203,9 @@ Start a conversation: {start_conversation_link}
 
 **One honest limit:** with 3 leaders, a team can sometimes guess who said what from the content alone. The rules lower that risk; they can't remove it. The disclosure note already tells leaders that unattributed quotes may appear.
 
-## 6. Questions for you
+## 6. Answers so far · 2026-11-10
 
-1. **Main efforts side by side.** Section 2 lists each leader's own main-effort sentence. It's the most striking part of the report: a CEO sees five different answers to "what are we focused on?" It's also the easiest place to guess who said what. Keep it, as recommended?
-2. **Section 8 wording.** It says the Beta runs "over one quarter" and describes what it does. Is that accurate to how you sell it? Fenn polishes the words at deliverable 7.
+1. Main efforts shown side by side: **keep**.
+2. Section 8 Beta description ("over one quarter… agree the main effort, the trade-offs and the warning signs, in your own words"): **accurate**.
+
+**Gate 4 still waiting for pass, pass with changes, or hold.**

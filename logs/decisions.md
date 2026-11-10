@@ -41,3 +41,5 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Diagnostic contact address for leaders' privacy questions: contact@franklinkinetics.com. | Claude Code |
 | 2026-11-10 | Diagnostic interviewer: wave 1 questions built into the instructions (one paste for the CEO). | Claude Code |
 | 2026-11-10 | Diagnostic drops wave 1 question 10 (what a leader knows well outside work). Questions 1–9 stay word for word. This is a deliberate exception to "reuse wave 1 unchanged". | Claude Code |
+| 2026-11-10 | Diagnostic report shows each leader's main-effort sentence side by side, unattributed. | Claude Code |
+| 2026-11-10 | Report's Beta description ("over one quarter, we work with your leadership team to agree the main effort, the trade-offs and the warning signs, in your own words") is accurate. | Claude Code |
