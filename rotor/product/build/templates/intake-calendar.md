@@ -1,5 +1,7 @@
 # Intake calendar (template)
 
+**Brandon only.** This lists all three companies in an intake. Never share it with a client.
+
 Fill in once the first company signs. Every date is booked a full term ahead so time off work can be requested early. Copy this file per intake.
 
 ## Intake
@@ -74,7 +76,7 @@ Evenings and weekends, not counting the Mirror day itself. Week numbers are the 
 
 | Totals | Estimate | Actual |
 |---|---|---|
-| Evenings and weekends, whole intake | about 58 h | [ ] |
+| Evenings and weekends, whole intake | about 55–58 h | [ ] |
 | Days off (Mirror day) | about 6 h | [ ] |
 | 4 pm one-on-ones | 6 | [ ] |
 

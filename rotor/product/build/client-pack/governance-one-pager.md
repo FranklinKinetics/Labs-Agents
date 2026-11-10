@@ -22,7 +22,7 @@ We agree these points in writing before the work starts. Anything unclear gets s
 - **Where summaries go.** Each leader emails their interview summary block to Brandon, as the interviewer asks at the end of each session. The drafting of syntheses, summaries and progress notes runs in Brandon's own business-tier AI account. It is one private project for [COMPANY], named by a code, and used for no other client.
 - **Training.** The account's terms exclude training on its content. Brandon confirms this in writing before the first interview. [CONFIRMATION DATE]
 - **What stays out.** No one in [COMPANY] needs to create an account for Brandon.
-- **Close-out.** At the end of the engagement, Brandon deletes the project and every copy he holds, and sends [COMPANY] a written confirmation of the deletion by [DATE, within X working days of close-out].
+- **Close-out.** At the end of the engagement, Brandon deletes the project and every copy he holds, and sends [COMPANY] a written confirmation of the deletion by [DATE, within X working days of close-out]. That includes the summary-block emails in his inbox. The vendor's own retention for deleted projects is [X days, confirmed before kickoff].
 - **Brandon's own notes.** Brandon keeps method notes about how his own tools perform. They contain no names, no quotes and no strategy content.
 
 ## How the AI behaves
@@ -31,7 +31,7 @@ The AI in your beta team's project keeps quiet unless something matters. It answ
 
 ## What this program does not do
 
-- It does not log anything about individuals, and no report covers a group smaller than five people.
+- It does not report on any individual. Pulse answers are read only by Brandon and reported by team, and no report covers a group smaller than five people.
 - It is not used in performance reviews.
 - It makes no promise about financial results. It measures how consistently people decide and how well they know the strategy, and reports the results honestly, including where nothing changed.
 

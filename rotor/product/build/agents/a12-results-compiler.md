@@ -65,7 +65,7 @@ For each measure, one block:
 <limits: small groups, one company, one quarter, no way to separate this company or this timing from the effect, measures that were not collected>
 
 ## Hypotheses for the quarterly reviews
-<expected effects on money or time, stated as hypotheses to test, with no numbers. "none" if none>
+<expected effects on time or decisions, stated as hypotheses to test, with no numbers. "none" if none>
 
 ## Observations (mine, for Brandon to check)
 <bullets, labelled as observations>

@@ -14,7 +14,7 @@ For Brandon. Part of the program's agent packs, kept beside the Interviewer Pack
 
 **The small-group rule.** The synthesis reports by team only. It never reports on a group of fewer than five people, and never on an individual. If the beta team has fewer than five members, Brandon reads the blocks himself and the CEO receives only a sentence saying the team is too small to report on separately. Brandon decides how to handle that case before the first pulse.
 
-How to use it: the install has two parts. Part 1 is what each team member talks to. Part 2 is pasted into a fresh chat by Brandon, with the collected blocks, to produce the synthesis.
+How to use it: the install has two parts. Part 1 is what each team member talks to. Part 2 runs in Brandon's own AI account, in that company's private project: he pastes it with the collected blocks to produce the synthesis.
 
 **Part 1: the pulse conversation**
 

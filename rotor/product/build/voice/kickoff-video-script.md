@@ -7,7 +7,7 @@
 
 **Before you record**
 - [ ] Confirm the line about your business AI account once Juno has checked the account's no-training terms (RP3).
-- [ ] Civilian setting and clothes. Plain background.
+- [ ] Plain background, everyday clothes.
 
 ---
 
@@ -29,9 +29,9 @@ Then a review, and a decision: scale it, adjust it, or stop.
 
 [Direction: hold up three fingers, or put "3 live moments" on screen.]
 
-Only three moments are live. A kickoff with your CEO. The Mirror: two hours with the whole leadership team, where you see your strategy in your own words, settle the hard calls, and sign it off. And a review with your CEO at the end, after you've all watched the results. Everything else runs on your time. Your CEO gets a short written update every week, and any question you send me gets an answer within three working days.
+Only three moments are live. A kickoff with your CEO. The Mirror: two hours with the whole leadership team, where you see your strategy in your own words, settle the hard calls, and sign it off. And a review with your CEO at the end, after you've all watched the results. Everything else runs on your time. Your CEO gets a short written update [every week / every second week], and any question you send me gets an answer within three working days.
 
-Now, what stays confidential. I read every full transcript. Nobody else at your company does, your CEO included. What the leadership team sees is where views agree and where they differ, with nobody quoted by name unless you say so. I won't tell you what another leader said, and the interviewer won't either. Skip any question, stop any time, or ask me to leave something out. My working copies sit in a private project in my business AI account, and at the end I delete them and confirm that in writing.
+Now, what stays confidential. I read every full transcript. Nobody else at your company does, your CEO included. What the leadership team sees is where views agree and where they differ, with nobody quoted by name unless you say so. I won't tell you what another leader said, and the interviewer won't either. Skip any question, stop any time, or ask me to leave something out. My working copies sit in a private project in my business AI account, and at the end I delete them and confirm that in writing. The AI vendor keeps deleted projects for up to [X] days.
 
 [Direction: slower here. This is the part they'll act on.]
 

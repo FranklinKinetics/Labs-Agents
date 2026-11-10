@@ -72,7 +72,7 @@ Agreement on the main effort: <count and codes that match closely, count and cod
 <bullets with codes>
 
 ## Contested items (only when Brandon asks for the Mirror pre-read version)
-<items the leaders differ on and the Mirror must settle, each stated as a question, with the positions beneath it and no recommendation>
+<items the leaders differ on and the Mirror must settle, each stated as a question, with the positions beneath it and no recommendation. In this pre-read version: no leader codes, names or roles; state positions without saying who holds them, as A4 does>
 
 ## Gaps and cautions
 <what the blocks do not tell us; leaders who did not speak to a topic; anything that looks like a one-person view>

@@ -41,7 +41,7 @@ A reminder of the setup. The [beta team] worked with the Rotor Sheet and the AI 
 
 [Direction: one line each, one small chart each. Only the measures agreed at kickoff.]
 
-- **Leader agreement on the main effort:** [number] of [number] leaders named the same main effort before the Mirror; [number] of [number] after.
+- **Leader agreement on the main effort:** [number] of [number] leaders named the same main effort before the Mirror; [number] of [number] after. [If fewer than five leaders: say "some" or "most", with no count, as A4 does.]
 - **Recall:** [share] of the beta team could name the main effort and two guardrails at week [12], against [share] of the comparison team.
 - **Where time goes:** [share at start] to [share at end] of the beta team's sampled hours on the main effort. Comparison team: [x] to [y].
 - **Decision speed:** [recurring decision]: [time at start] to [time at end]. Comparison team: [x] to [y].

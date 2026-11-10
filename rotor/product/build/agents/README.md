@@ -17,10 +17,10 @@ Plain-text instruction packs in the style of the Interviewer Pack: platform-neut
 | A5 Candidate drafter | 3 to 5 schwerpunkt candidates as options, with what each gives up; never ranks or recommends | `a5-candidate-drafter.md` | Brandon's account, company project | S5 | Written |
 | A6 Five-tests checker | Marks every sheet line against the five tests | `a6-five-tests-checker.md` | Brandon's account, company project | S6 | Written |
 | A7 Script drafter | CEO video script and guardrail clips, in the language map | `a7-script-drafter.md` | Brandon's account, company project | S7 | Written |
-| A8 Red-team runner | Puts the lead's dilemmas to the loaded AI, records the level, drafts annotations | `a8-red-team.md` | Client's AI | S8 | Being written (another builder) |
-| A9 Flight log drafter | Under 300 words: heard, taking shape, next, one question | `a9-flight-log.md` | Brandon's account, company project | S9 | Being written (another builder) |
+| A8 Red-team runner | Puts the lead's dilemmas to the loaded AI, records the level, drafts annotations | `a8-red-team.md` | Client's AI | S8 | Written |
+| A9 Flight log drafter | Under 300 words: heard, taking shape, next, one question | `a9-flight-log.md` | Brandon's account, company project | S9 | Written |
 | A10 Noise audit | Same five decision cases to beta and comparison teams | `rotor/interviewer-pack.md` (noise audit variant) | Client's AI | none | Existing |
-| A11 Pulse | Three questions monthly to the beta team; synthesis by team only | `a11-pulse.md` | Client's AI | S10 | Being written (another builder) |
+| A11 Pulse | Three questions monthly to the beta team; synthesis by team only | `a11-pulse.md` | Part 1 in the client's AI (team-facing); Part 2 (synthesis) in Brandon's account, company project | S10 | Written |
 | A12 Results compiler | Beta vs comparison team, null results honestly, no financial claims | `a12-results-compiler.md` | Brandon's account, company project | S11 | Written |
 
 ## Order in the client journey
@@ -38,7 +38,7 @@ Weeks are the first company's (spec section 3). The three companies in an intake
 | Week 7 | A2 | Contested-items list for the Mirror pre-read |
 | Week 8 | none | The Mirror (Brandon, live) |
 | Weeks 8 to 9 | A6, A7, A8 | A6 checks the final sheet; A7 drafts the script; sheet and Core loaded into the team's AI; A8 runs the red-team dilemmas |
-| Weeks 1 to 20 | A9 | Weekly flight log, drafted and approved by Brandon |
+| Weeks 1 to 20 | A9 | Flight log: weekly in weeks 1–9, every two weeks in weeks 9–20; drafted by AI, approved by Brandon |
 | Weeks 9 to 20 | A9, A11, A10 | Live run: flight logs; monthly pulse (A11); end-of-quarter noise audit (A10) |
 | Week 21 | A12 | Results pack for the results video and the CEO review |
 

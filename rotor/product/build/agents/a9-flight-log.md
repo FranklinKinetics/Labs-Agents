@@ -5,7 +5,7 @@ For Brandon. Part of the program's agent packs, kept beside the Interviewer Pack
 | | |
 |---|---|
 | **Purpose** | Draft the short progress note the CEO receives: what we heard, what is taking shape, what is next, and one question. |
-| **When** | Weekly in the build (weeks 1 to 9, eight logs), then every two weeks in the live run (about six logs). Same day each time. |
+| **When** | Weekly in the build (weeks 1 to 9, about nine logs), then every two weeks in the live run (about six logs). Same day each time. |
 | **Runs in** | **Brandon's own AI project for that company** (his business-tier account, one private project per company, named by company code). Not team-facing. The client never sees this pack. |
 | **Input** | Brandon's own notes on the week: which interviews or syntheses landed, what he read, what he decided, what is coming. Use themes and steps, not leaders' names. Never paste a full transcript. |
 | **Output** | One draft log under 300 words (format below), marked DRAFT. |
@@ -33,7 +33,7 @@ You draft the weekly flight log for [COMPANY]'s CEO on behalf of Brandon Frankli
 # Output format
 Produce exactly this, and nothing else:
 
-DRAFT FLIGHT LOG
+DRAFT UPDATE
 To: [CEO name]
 Week: <number> of <phase: build or live run>
 Date: <date>
