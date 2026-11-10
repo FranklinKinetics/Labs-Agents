@@ -37,9 +37,7 @@ Reply: pass · pass with changes · hold
 
 Eyebrow: **Rotor Alignment Diagnostic**
 
-Headline: **Ask your leaders where the company is headed. Count the answers.**
-
-[Alternative headline: **Find out where your leadership team really agrees.**]
+Headline: **Find out where your leadership team really agrees.**
 
 Subhead: Each of your leaders takes one short interview with an AI, in the tools your company already uses. You get a report that shows where your team agrees, where it doesn't, and the questions you still need to settle. No consultant, no workshop, and no one reads what your leaders said.
 
@@ -193,7 +191,7 @@ The site's FAQ ("Is our strategy safe?") says: "Franklin Kinetics never hosts yo
 
 > Your strategy stays in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered.
 
-[NOTE: Not changed in the master doc yet. Brandon approves it at this gate first.]
+[Approved by Brandon 2026-11-10 and changed in the master doc and `rotor/website-copy.md`.]
 
 ---
 
@@ -212,7 +210,6 @@ The site's FAQ ("Is our strategy safe?") says: "Franklin Kinetics never hosts yo
 | Not yet written | Privacy notice and terms (lawyer review). The page links to both. |
 | Canadian spelling, short sentences | Pass. |
 
-## 7. Questions for you
+## 7. Gate outcome · 2026-11-10
 
-1. **Headline:** "Ask your leaders where the company is headed. Count the answers." or the plainer "Find out where your leadership team really agrees."?
-2. **FAQ fix in section 5:** approve the new wording, and I'll change it in the master doc?
+**Pass with changes.** Plain headline chosen ("Find out where your leadership team really agrees."). FAQ wording in section 5 approved and applied.

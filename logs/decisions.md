@@ -53,3 +53,5 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Environment network: allowed www.tablegroup.com, success.co, www.success.co, www.compono.com, leadershipcircle.com, www.squarespace.com for price verification. | Claude Code |
 | 2026-11-10 | Rotor Alignment Diagnostic price: CAD $790 flat per company (3–8 leaders). No credit toward the Beta. No launch price. | Claude Code |
 | 2026-11-10 | Website copy: delete the "turn off commerce" housekeeping line (master Claude Doc and `rotor/website-copy.md`). | Claude Code |
+| 2026-11-10 | Diagnostic page headline: "Find out where your leadership team really agrees." | Claude Code |
+| 2026-11-10 | Site FAQ ("Is our strategy safe?") now says the Beta never hosts strategy data and the diagnostic briefly holds name-stripped summaries, deleted on delivery (master Claude Doc and `rotor/website-copy.md`). | Claude Code |

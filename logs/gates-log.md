@@ -10,6 +10,7 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 | 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 4 · synthesis agent | pass | none (main efforts side by side kept; Beta line confirmed) |
 | 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 5 · sample report | pass with changes | add grounded second-order effects section; "all" needs every block; allow counting different main efforts (all applied to deliverable 4 too) |
 | 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 6 · package and price | pass with changes | CAD $790 flat approved; delete the "turn off commerce" line from the website copy |
+| 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 7 · website copy | pass with changes | plain headline; FAQ hosting line updated in master and repo |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |

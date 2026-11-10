@@ -351,7 +351,7 @@ You can, and you'll get guidance as clear as the deck. Most strategy documents a
 
 **Is our strategy safe?**
 
-Your strategy stays in tools your company already controls, under your existing agreements with those vendors. Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software.
+Your strategy stays in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered.
 
 **Will staff feel monitored?**
 
