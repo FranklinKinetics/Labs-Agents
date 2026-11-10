@@ -43,3 +43,5 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Diagnostic drops wave 1 question 10 (what a leader knows well outside work). Questions 1–9 stay word for word. This is a deliberate exception to "reuse wave 1 unchanged". | Claude Code |
 | 2026-11-10 | Diagnostic report shows each leader's main-effort sentence side by side, unattributed. | Claude Code |
 | 2026-11-10 | Report's Beta description ("over one quarter, we work with your leadership team to agree the main effort, the trade-offs and the warning signs, in your own words") is accurate. | Claude Code |
+| 2026-11-10 | Synthesis agent: do not add a rule to remove team names from "decisions that didn't stick" (risks removing context). | Claude Code |
+| 2026-11-10 | Whether the fictional sample report appears on the diagnostic's web page: decide at deliverable 7. | Claude Code |

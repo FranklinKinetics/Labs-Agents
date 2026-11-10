@@ -334,8 +334,48 @@ Any banned word: no
 
 **Accuracy check (2026-11-10):** every claim in the report was traced back to the five blocks. Three overstatements were corrected before this draft: two "all of you" claims became "most of you", and "all five aim at the same thing" became "most of these share a goal". Proposed addition to the agent's check sheet: *Every "all" claim is supported by every block.*
 
-## 5. Questions for you
+## 5. Proposed new section: what the differences may lead to
 
-1. **Does it land?** If you were the owner of Larchmere, would this report make you want help settling section 7?
-2. **The three rule additions** in section 4 (two rules, one check): add them to the synthesis instructions?
-3. **Use on the website?** This sample, clearly labelled fictional, could sit on the diagnostic's page as a preview of what the CEO gets. Decide now or at deliverable 7.
+Brandon (2026-11-10): he'd want the report to go one step further, into second-order effects and risks that come from leaders pursuing different main efforts. But not so far that it sounds invented or unreal and causes cognitive dissonance.
+
+**How to keep it grounded: one step, from evidence.** Each effect must join two things leaders actually said:
+- a **split** (from "Where the team differs" or "Trade-offs that aren't settled"), and
+- a **friction point, warning sign or decision that didn't stick** that leaders already named.
+
+If the agent can't name both, it doesn't write the effect. No chains ("which leads to… which leads to…"). No money estimates: at most "a possibility your team could test". No advice on what to do about it.
+
+**Proposed addition to the synthesis instructions (deliverable 4):**
+
+```markdown
+# What these differences may lead to
+- Write 2 to 4 effects. Each one joins a split from sections 2 or 3 with a friction point, warning sign or decision that didn't stick that leaders named.
+- Write each as: "Because <the split>, <what leaders already see> may continue or grow."
+- One step only. Never chain effects. Never invent a scenario leaders didn't describe.
+- Use "may", never "will". Never estimate money, time or results.
+- Never say what to do about it.
+- If you can't join a split to something leaders named, leave the effect out.
+```
+
+**What it looks like for Larchmere** (new section 4; later sections renumber):
+
+> ## 4. What these differences may lead to
+> These follow from what you told us. They are possibilities to test, not predictions.
+>
+> - **Rush work keeps jumping the queue.** You haven't settled who can approve a rush job, or which customer comes first when they collide. While that stays open, rush orders may keep slipping everything behind them, as the past rules on rush work did. "The shop is a funnel with a cork in it."
+> - **The contract quote and the shop plan may rest on different beliefs.** Some of you would price sharper for volume. Others believe the shop can't take the work without a second shift, or that rush work already costs more than you charge. A quote built on one view, and a shop plan built on another, may show up in the warning signs you named: overtime climbing and margin slipping.
+> - **People get different answers depending on who they ask.** With "which customer comes first" unsettled, the floor, sales and estimating may each lean their own way. "We're a hockey team that changes lines whenever someone yells from the bench."
+> - **Standard parts may stall again.** Standardizing needs sales to offer standard options. While "custom shop or production shop" is open, a drawing library may go unfilled again, as it did before.
+
+## 6. Answers so far · 2026-11-10
+
+1. Does it land: unsure. Wants second-order effects, kept grounded (section 5 proposal).
+2. Rule additions: "remove team names from decisions that didn't stick" **not added** (risks removing context). The "every 'all' claim" check: added only if it protects the report's accuracy (Ines recommends yes). The "count of main efforts" rule: explained in chat.
+3. Website use of the sample: decide at deliverable 7.
+
+**Gate 5 still waiting for pass, pass with changes, or hold.**
+
+## 7. Questions for you
+
+1. **Second-order effects:** add the new section to the report, and its rules to the synthesis instructions?
+2. **The "all" check:** add it?
+3. **Counting main efforts:** add the rule that allows "five leaders gave four different answers"?
