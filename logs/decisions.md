@@ -51,3 +51,5 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Diagnostic: full refund if we don't deliver a report. Stated in the terms as "Your report, or your money back", not as a warning on the page. | Claude Code |
 | 2026-11-10 | GST/HST for the diagnostic: deferred. Brandon is registered for PST; check GST with the accountant before the page goes live. | Claude Code |
 | 2026-11-10 | Environment network: allowed www.tablegroup.com, success.co, www.success.co, www.compono.com, leadershipcircle.com, www.squarespace.com for price verification. | Claude Code |
+| 2026-11-10 | Rotor Alignment Diagnostic price: CAD $790 flat per company (3–8 leaders). No credit toward the Beta. No launch price. | Claude Code |
+| 2026-11-10 | Website copy: delete the "turn off commerce" housekeeping line (master Claude Doc and `rotor/website-copy.md`). | Claude Code |

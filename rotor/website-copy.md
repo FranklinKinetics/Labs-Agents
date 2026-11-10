@@ -24,7 +24,6 @@ This is paste-ready copy for every page of the rebuilt franklinkinetics.com, in 
 
 - [x] Set 301 redirects: /rotor → /how-it-works, /work-with-me → /contact
 - [x] Fix the footer Contact link (currently half-pointed at squarespace.com)
-- [ ] Turn off commerce so the cart icon disappears
 - [x] Replace the About background image (helicopter silhouette) with a civilian image
 - [ ] Update site title, search description and social card (see SEO section)
 - [x] Host the Aspen Grove promo on Vimeo or YouTube (unlisted) and embed it

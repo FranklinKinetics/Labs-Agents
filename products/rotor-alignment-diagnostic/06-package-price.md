@@ -59,7 +59,7 @@ Reply: pass · pass with changes · hold
   - Plus: 0%, card rate from 2.7% + $0.30. Advanced: 0%, from 2.5% + $0.30.
   - So on Core, a $790 sale costs about $23 in card fees and no transaction fee. On Basic, add about $16. Check which plan the site is on.
 - **Needs to confirm:** custom checkout questions (province, platform, planned number of leaders), an unchecked optional consent box, two required consent boxes, and a stop for Quebec head offices. If Squarespace cannot do the Quebec stop in checkout, put a plain notice above the buy button and ask for province in the form. Mack confirms.
-- **Stale note:** `rotor/website-copy.md` housekeeping still says "Turn off commerce so the cart icon disappears". Commerce is now on for the Labs products, so that line is out of date. Brandon may want to remove it from the master doc.
+- The old "turn off commerce" housekeeping line was deleted from the website copy (master and repo) on 2026-11-10.
 - **Digital product, no shipping.** Set it up as a service or digital product with no delivery address.
 
 **Refund terms (plain words for the page)**
@@ -147,4 +147,4 @@ What the estimate rests on (shape only):
 2. **Refund when we can't deliver:** yes, but don't prime buyers to expect failure. Moved to the terms as "Your report, or your money back" (section 1).
 3. **GST/HST:** come back to it. Brandon is registered for PST and isn't sure consulting work needs GST. Check with the accountant before the page goes live, because it decides whether $790 is shown plus tax.
 
-**Gate 6 still waiting for pass, pass with changes, or hold.**
+**Gate 6: pass with changes, 2026-11-10.** CAD $790 approved. Change: delete the "turn off commerce" line from the website copy (done).
