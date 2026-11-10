@@ -18,7 +18,7 @@ Ines, 2026-11-10. For Brandon's decision at Rotor Product Gate 1 (RP1). Inputs: 
 ### The Beta today, measured the same way (for comparison)
 | | Beta (as designed) |
 |---|---|
-| Brandon per client | ~28–35 h over ~18 weeks |
+| Brandon per client (est.) | ~28–35 h over ~18 weeks |
 | Build-phase load | ~4 h/week per client, so one client in build at a time |
 | Capacity at 5 h/wk | ~5–6 clients/yr if starts are perfectly staggered; realistically 4 |
 | Days off | ~2–3 per client (kickoff, Mirror, review are with leadership teams in business hours) → **8–12/yr** |
@@ -37,7 +37,7 @@ flowchart LR
   end
   subgraph CONS["Consulting: Brandon's time · unpriced · Start a conversation"]
     REV["Sheet Review<br/>async, ~1.7 h"]
-    SOLO["Rotor Async<br/>1 company, ~24 h"]
+    SOLO["Rotor Async<br/>1 company, ~25 h"]
     COH["Rotor Cohort<br/>3 companies share a Mirror day, ~19 h each"]
     PREM["High-access rung<br/>(the Beta for now), ~30 h"]
   end
@@ -49,14 +49,14 @@ flowchart LR
 | | **A. Shelf** | **B. Rotor Async** | **C. Rotor Cohort** | **D. Ladder (recommended)** |
 |---|---|---|---|---|
 | In one line | Clients run Rotor themselves; Brandon reviews their draft | The Beta, one company at a time, with AI doing more and Brandon doing less | Three companies go through together and share Brandon's live time | Diagnostic → Cohort → a small high-access rung |
-| Brandon per client | ~1.7 h (Review only) | ~24 h | ~19 h | ~19 h cohort / ~30 h high-access |
-| Clients/yr at 5 h | Kit: no limit · Reviews: ~2 a week | ~5–6 | ~9 (3 cohorts of 3) | ~8 (2 cohorts + 2 high-access) |
+| Brandon per client (est.) | ~1.7 h (Review only) | ~25 h | ~19 h | ~19 h cohort / ~30 h high-access |
+| Clients/yr at 5 h (est.) | Kit: no limit · Reviews: ~2 a week | ~5–6 | ~9 (3 cohorts of 3) | ~8 (2 cohorts + 2 high-access) |
 | Clients/yr at 10 h (ceiling) | Reviews: ~4 a week | ~10–12 | ~15–18 | ~14 |
-| Days off/yr at 5 h | 0 | ~5–6 | ~6 | ~8 |
+| Days off/yr at 5 h (est.) | 0 | ~5–6 | ~6 | ~8–10 |
 | Days off per client | 0 | 1 | 0.67 | 0.67 / 2 |
 | Worst week | ~4 h (if Reviews bunch) | ~5 h (two clients in build) | ~4–5 h (cohort in build) | ~5 h |
 | Who signs off the schwerpunkt | The client's leadership team alone, unless they buy a Review | Brandon with the leadership team, at the Mirror | Same, at each company's Mirror | Same |
-| Relation to Beta | Feeds it | Could replace it | Could replace it, or run alongside | Includes it (high-access rung) |
+| Relation to Beta (a possibility, not a decision) | Feeds it | Could replace it | Could replace it, or run alongside | Includes it (high-access rung) |
 
 ---
 
@@ -116,14 +116,14 @@ flowchart LR
 | 19 | Review: AI compiles results; 75-min review at a time Brandon sets | 60 + 90 |
 | — | Contract, invoicing | 60 |
 
-**Total ~1,470 min ≈ 24.5 h per client.**
+**Total ~1,490 min ≈ 25 h per client.**
 
 **Labs or consulting:** the diagnostic as the entry (Lab). Everything after is consulting.
 
 **What AI does:** interviews, first-pass synthesis, drafts of the waves, schwerpunkt candidates, script, flight logs, pulses, red-team runs, results pack.
 
 **Capacity**
-- At 5 h: ≈190 delivery h ÷ 24.5 ≈ 7 in theory. The build phase runs ~2.5 h/week per client, so at most two clients can be in build at once. **Realistically 5–6 a year.**
+- At 5 h: ≈190 delivery h ÷ 25 ≈ 7 in theory. The build phase runs ~2.5 h/week per client, so at most two clients can be in build at once. **Realistically 5–6 a year.**
 - At 10 h: 10–12 a year.
 
 **Days off:** 1 per client, for the Mirror. That is **5–6 a year, each serving one client.**
@@ -173,7 +173,7 @@ flowchart LR
 **Where his presence matters most**
 - The Mirror. It keeps its full value because it stays private.
 - The schwerpunkt candidates.
-- The clinics: the CEOs get Brandon and each other, a peer value that the market scan shows buyers pay for (Vistage, EO).
+- The clinics: the CEOs get Brandon and each other, a peer format that Vistage and EO sell (market scan §2; no verified evidence yet on what buyers pay for it).
 
 **Data**
 - Interviews run in each client's own AI.
@@ -193,7 +193,7 @@ flowchart LR
 
 1. **Alignment diagnostic (Lab, priced, Labs store).** Already decided. It shows the gaps, and it is the waiting room for the next cohort.
 2. **Rotor Cohort (consulting, unpriced).** Design C, as the main offer.
-3. **High-access rung (consulting, unpriced, at most 2 a year).** For a client who needs Brandon in the room: a private kickoff, an in-person Mirror, a monthly live call, faster replies. **Until RP6 this rung is simply the current Rotor Beta**, unchanged. That keeps the Beta's name, price and form untouched while giving us a side-by-side comparison.
+3. **High-access rung (consulting, unpriced, at most 2 a year).** For a client who needs Brandon in the room: a private kickoff, an in-person Mirror, a monthly live call, faster replies. **Until RP6 this rung is simply the current Rotor Beta**, unchanged. That keeps the Beta's name, terms and form untouched while giving us a side-by-side comparison.
 
 **Capacity at 5 h/week**
 | | Clients | Brandon h | Days off |
@@ -272,7 +272,7 @@ flowchart LR
 - **Days off are the scarcest thing Brandon has, and the cohort is the only design that shares them.** It needs ~6 days for 9 clients, against ~1 per client in Design B and 2–3 per client in the Beta. A cohort cannot grow past three, because three Mirrors fill one day, so the design caps itself.
 - **It keeps Brandon where he matters.** He makes the schwerpunkt call for every client, and each client gets a private, live Mirror. AI takes the parts the playbook already rates as collecting rather than judging.
 - **It fits 5 hours with room to spare** once the build is stretched to 8 weeks, and it scales to 10 without a redesign.
-- **It adds something the Beta lacks:** a small peer group of owner-led CEOs, the thing buyers pay for in Vistage and EO.
+- **It adds something the Beta lacks:** a small peer group of owner-led CEOs, the format Vistage and EO sell (market scan §2).
 - **It doesn't touch the Beta.** It sits alongside it and produces a fair comparison.
 
 **Why not the others**
@@ -283,6 +283,8 @@ flowchart LR
 ---
 
 ## 7. Relation to the Beta, and the evidence that would settle it (RP6)
+
+This track does not retire, rename or reprice the Beta. "Could replace it" below describes what a design is able to do, as you asked; whether anything replaces the Beta is your call at RP6.
 
 | Design | Relation to the Beta |
 |---|---|
@@ -303,8 +305,8 @@ flowchart LR
 
 ## 8. Lab parts this would create (Sparks at RP2, not now)
 
-- **The diagnostic** already exists as a decision but has no lab card yet. The cohort depends on it, so it should start the Lab lifecycle soon.
-- **Possible new Spark:** a self-serve **five-tests checker**. Paste any strategy statement and the AI tests each line (decision, trade-off, new hire, hindsight, tripwire). It needs none of Brandon's time and exposes no Core, and it is a strong Craft proof. It should get a G1 Four Proofs check like any Spark.
+- **The diagnostic** already exists as a decision but has no lab card yet. It must run in the client's own AI, or its data flow is decided at its own gate; Brandon reads none of its output, or it stops being a Lab. The cohort depends on it, so it should start the Lab lifecycle soon.
+- **Possible new Spark:** a self-serve **five-tests checker**. It runs in the buyer's own AI: paste any strategy statement and it tests each line (decision, trade-off, new hire, hindsight, tripwire). Nothing is hosted or stored by Franklin Kinetics; any hosting would need Brandon's gate approval. Before it becomes a Lab, Brandon confirms the five tests are fine to publish (the playbook doesn't say). It needs none of Brandon's time and exposes no Core, and it is a strong Craft proof. It should get a G1 Four Proofs check like any Spark.
 - **Rotor Kit (Design A):** parked until the override log says it is safe.
 
 ---
@@ -315,4 +317,3 @@ flowchart LR
 2. **Mirror format:** remote or in person? Three in-person Mirrors in one day only work if the companies are in one city, such as Regina.
 3. **Cohort companies meeting each other:** comfortable with that, with a rule against direct competitors in the same cohort?
 4. **Kickoff and review out of business hours:** acceptable to ask clients for early-morning or evening slots?
-EOF
