@@ -14,6 +14,7 @@ Hard limits. Vera enforces them at Clearance and can veto at any stage. Only Bra
 
 ## Pricing
 7. **Lab products show prices. Consulting and Rotor Beta stay unpriced.** Nothing on a Lab page may imply a consulting price.
+8. **A Lab never requires Brandon's time.** If a product needs his consulting time to deliver, it is consulting, not a Lab, and it stays unpriced.
 8. **No dark patterns:** no fake scarcity, fake countdowns, pre-checked upsells, or hard-to-cancel subscriptions. Refund terms are stated plainly.
 
 ## Data and privacy

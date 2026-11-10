@@ -19,3 +19,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-09 | Keep an override log during betas to decide which steps are safe to hand to AI. | chat |
 | 2026-11-09 | Build a self-serve alignment diagnostic with the Labs crew. It gets its own page on franklinkinetics.com (linked from How It Works and Start a conversation), not the Labs store. Start with the data-flow decision. | chat |
 | 2026-11-09 | Rotor consulting docs are copied into `rotor/` so Claude Code can read them; the Claude Docs remain the masters. | chat |
+| 2026-11-10 | Labs is the storefront for anything people can take off the shelf and use without Brandon's time, for homes or businesses. Anything needing his consulting time is not a Lab. (Supersedes the 2026-11-09 note that the diagnostic sits outside the Labs store.) | chat |
+| 2026-11-10 | The alignment diagnostic is a Lab: self-serve, priced, in the Labs store, also linked from How It Works and Start a conversation. | chat |
+| 2026-11-10 | The Rotor Beta stays unpriced. Whether a productized Rotor replaces the Beta is decided after that product is complete. | chat |

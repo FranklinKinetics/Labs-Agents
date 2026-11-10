@@ -42,9 +42,13 @@ Spark ──► Lab ──► Offer ──► Release ──► Signal ──►
 `spark` → `briefed` → `approved` → `building` → `dressed` → `packaged` → `storied` → `cleared` → `released` → `debriefed`
 Side states: `held` (paused at a gate), `killed` (with a one-line reason; kept for the record).
 
+## What belongs in Labs
+Labs is the Franklin Kinetics storefront: products people take off the shelf and use without any of Brandon's time. Anything that needs Brandon's consulting time is consulting, not a Lab.
+
 ## Audiences
 - **Household**: buys the product to use at home (e.g. Automatic Groceries).
-- **SME owner**: the real target. Owner- or founder-led firm, 20–200 people. Sees a household product and thinks "imagine this in my company."
+- **Business**: buys a self-serve product to use in their company (e.g. the alignment diagnostic).
+- **SME owner**: the real target. Owner- or founder-led firm, 20–200 people. Sees a Lab, for home or for work, and thinks "imagine this in my company."
 - **Civic**: Regina residents and businesses who benefit from public data made legible.
 
 A Lab can sell to one audience while its Story speaks to another. That bridge is Fenn's job.

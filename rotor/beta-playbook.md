@@ -561,8 +561,8 @@ Keep it from the first beta. Every time you change something the AI drafted, log
 
 A low-priced, self-serve product that runs without your time. Each leader takes the AI interview; an agent produces a divergence report showing where the team agrees, where it differs and which trade-offs are unsettled. It ends with one offer: help settling them, which is the Beta.
 
-- **Where it sits:** its own page on franklinkinetics.com, linked from How It Works ("Not ready for the Beta? Start here") and from Start a conversation. It is the first step toward working with you. It is the upgraded version of the Rotor Diagnostic Pack on the product ladder. Not in the Labs store, whose buyers are households.
-- **Who builds it:** the Labs agent crew, through the same approval gates as Lab products. Record decisions in the Labs-Agents repo.
+- **Where it sits:** its own page on franklinkinetics.com, linked from How It Works ("Not ready for the Beta? Start here") and from Start a conversation. It is the first step toward working with you. It is the upgraded version of the Rotor Diagnostic Pack on the product ladder. Because it needs none of your time, it is a Lab: sold, with a price, in the Labs store.
+- **Who builds it:** the Labs agent crew, through the normal Lab lifecycle and gates. Record decisions in the Labs-Agents repo.
 - **What it collects:** the same wave 1 questions as the Interviewer Pack, so diagnostic data and beta data can be compared.
 - **Data rule:** interviews run in the client's own AI. Decide before building how summaries are combined: by the client in their own AI (no hosting, but the CEO sees individual answers) or sent to you for the agent to combine and delete (more candour, but you hold data briefly). Either way, no report for fewer than three leaders, and quotes are unattributed.
 - **What it must not do:** promise results, disclose the Rotor Core, or settle the strategy for them. It shows the gaps; the Beta closes them.
