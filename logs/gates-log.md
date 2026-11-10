@@ -12,6 +12,7 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 | 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 6 · package and price | pass with changes | CAD $790 flat approved; delete the "turn off commerce" line from the website copy |
 | 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 7 · website copy | pass with changes | plain headline; FAQ hosting line updated in master and repo |
 | 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 8 · test plan | pass | solo run replaces friendly-company dry run; no lawyer (folded in before the pass) |
+| 2026-11-10 | Rotor Alignment Diagnostic | Privacy notice and terms | pass with changes | legal name set to Franklin Kinetics Consulting Corp.; add a site-wide privacy policy (new item) |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |

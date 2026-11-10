@@ -35,7 +35,7 @@ Reply: pass · pass with changes · hold
 
 *Last updated: [date of publishing]*
 
-Franklin Kinetics Ltd. [CONFIRM legal name] runs the Rotor Alignment Diagnostic. This notice explains what information the diagnostic uses, why, who can see it, and when it is deleted. It is written for two groups: the CEO who buys the diagnostic, and the leaders who take the interview.
+Franklin Kinetics Consulting Corp. runs the Rotor Alignment Diagnostic. This notice explains what information the diagnostic uses, why, who can see it, and when it is deleted. It is written for two groups: the CEO who buys the diagnostic, and the leaders who take the interview.
 
 ## The short version
 
@@ -114,7 +114,7 @@ Write to **contact@franklinkinetics.com**. We aim to reply within two working da
 
 *Last updated: [date of publishing]*
 
-These terms are between Franklin Kinetics Ltd. [CONFIRM legal name] ("we") and the company that buys the diagnostic ("you"). The person who completes checkout confirms they can agree to them for the company.
+These terms are between Franklin Kinetics Consulting Corp. ("we") and the company that buys the diagnostic ("you"). The person who completes checkout confirms they can agree to them for the company.
 
 ## 1. What you're buying
 
@@ -185,10 +185,9 @@ Questions: **contact@franklinkinetics.com**
 
 **Flags for Brandon, not blockers:**
 1. **The rest of the site has no privacy policy.** Squarespace already collects buyers' details for the Labs store. A short site-wide privacy policy would cover both. This notice is written for the diagnostic only.
-2. **Placeholders to fill before going live:** legal company name; AI, hosting and email providers (Mack); GST line (accountant); each provider's data terms (Juno checks that the AI provider doesn't train on our data).
+2. **Placeholders to fill before going live:** AI, hosting and email providers (Mack); GST line (accountant); each provider's data terms (Juno checks that the AI provider doesn't train on our data).
 3. **No lawyer review,** by Brandon's decision. This is the crew's best reading of Canadian privacy expectations, not legal advice.
 
-## 4. Questions for you
+## 4. Gate outcome · 2026-11-10
 
-1. **Legal name:** is it "Franklin Kinetics Ltd." or something else?
-2. **Site-wide privacy policy:** should the crew draft one for the whole site later, as its own item?
+**Pass with changes.** Legal name: Franklin Kinetics Consulting Corp. (applied). A site-wide privacy policy is drafted separately in `site/privacy-policy.md`.

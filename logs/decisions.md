@@ -57,3 +57,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Site FAQ ("Is our strategy safe?") now says the Beta never hosts strategy data and the diagnostic briefly holds name-stripped summaries, deleted on delivery (master Claude Doc and `rotor/website-copy.md`). | Claude Code |
 | 2026-11-10 | Diagnostic testing: no friendly company for a dry run. Brandon runs a solo run (plays 3–5 leaders); the first 1–2 paid sales run by hand with the crew reading each report before delivery. | Claude Code |
 | 2026-11-10 | No lawyer review for the diagnostic. Franklin Kinetics operates with best intentions under its corporation; the crew drafts the privacy notice and terms. Supersedes the memo's lawyer recommendation. | Claude Code |
+| 2026-11-10 | Legal name: Franklin Kinetics Consulting Corp. | Claude Code |
+| 2026-11-10 | Crew drafts a site-wide privacy policy for franklinkinetics.com (`site/privacy-policy.md`). | Claude Code |
+| 2026-11-10 | Environment network: allowed franklinkinetics.com and www.franklinkinetics.com, to check what the site collects. | Claude Code |
