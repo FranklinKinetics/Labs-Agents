@@ -166,4 +166,4 @@ The first one or two paid diagnostics run by hand, as decided on 2026-11-09: the
 1. **Dry-run company:** none available. Replaced by a solo run (Stage 2); the first paid sales, run by hand, carry the real-people tests.
 2. **Lawyer:** none. Franklin Kinetics operates with best intentions under its corporation. The crew drafts the privacy notice and terms.
 
-**Gate 8 still waiting for pass, pass with changes, or hold.**
+**Gate 8: pass, 2026-11-10.**

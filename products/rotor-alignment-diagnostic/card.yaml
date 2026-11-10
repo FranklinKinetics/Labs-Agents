@@ -5,10 +5,11 @@
 # (decision 2026-11-09). Adapted from labs/_template/lab.yaml.
 name: "Rotor Alignment Diagnostic"
 slug: "rotor-alignment-diagnostic"
-status: building          # deliverable 8 drafted; waiting at its gate
+status: building          # all 8 deliverables passed 2026-11-10; next: privacy notice and terms, then build and Stage 1 bench tests
 buyer: "CEO of an owner-led company, 20-200 people"
 job_to_be_done: "Show a leadership team where it agrees, where it differs, and which questions it must settle, without Brandon's time."
 site_placement: "own page; linked from How It Works and Start a conversation"
+price_cad: 790
 next_step: "Rotor Beta (unpriced; offered once, at the end of the report)"
 
 sources:
@@ -23,7 +24,7 @@ deliverables:             # each behind its own gate; outcome: pass | pass-with-
   5_sample_report:       {file: "05-sample-report.md", gate: "2026-11-10 pass with changes"}
   6_package_price:       {file: "06-package-price.md", gate: "2026-11-10 pass with changes"}
   7_website_copy:        {file: "07-website-copy.md", gate: "2026-11-10 pass with changes", scope: "diagnostic's own page; 'Not ready for the Beta? Start here' block on How It Works; link on Start a conversation"}
-  8_test_plan:           {file: "08-test-plan.md", gate: "waiting"}
+  8_test_plan:           {file: "08-test-plan.md", gate: "2026-11-10 pass"}
 
 hours:
   brandon: 0
