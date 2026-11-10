@@ -97,7 +97,7 @@ Each company runs in its own lane. Only the start week, the Mirror day and the r
 | — | Invoice, close-out, deletion confirmation | — | **25** | — |
 
 **Brandon per company:**
-- About **1,277 minutes, or 21.3 h.** Of that, **120 min** is on the shared day off; the rest falls in evenings, weekends and two 4 pm calls.
+- About **1,292 minutes, or 21.5 h.** Of that, **120 min** is on the shared day off; the rest falls in evenings, weekends and two 4 pm calls.
 - That is above the RP1 estimate of ~19 h. The spec counts replies and flight logs that RP1 understated.
 
 **Live time per company:**
@@ -126,7 +126,7 @@ That totals about 3.75 h, against 4.5–6 h in the Beta.
 | # | Touchpoint | Mode | Budget per company | Why it's Brandon's |
 |---|---|---|---|---|
 | T1 | Discovery conversation | Live, 4 pm or evening | 45 | Trust; fit |
-| T2 | Welcome video | Async video | 10 | Being heard begins here |
+| T2 | Welcome video and install check | Async | 25 | Being heard begins here |
 | T3 | CEO kickoff | **Live 4 pm, one-on-one** | 60 | Scope and governance are commitments |
 | T4 | Transcript reading | Async | 140 | Promised in the disclosure note; the source of judgment |
 | T5 | Synthesis, wave 2 file and divergence summary edits | Async | 95 | Quality of the mirror |
