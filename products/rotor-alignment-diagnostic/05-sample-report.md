@@ -226,7 +226,7 @@ This report shows where your views line up and where they don't. It does not tel
 
 ## 1. Where the team agrees
 - **Rush jobs hurt.** Most of you named rush work as a problem, whether for the schedule or for margin. "Every job is a VIP, so no job is."
-- **Quotes are too slow.** Most of you said work or sales wait on quotes and drawings. You agree on the symptom. You don't agree on the cause (see section 5).
+- **Quotes are too slow.** Most of you said work or sales wait on quotes and drawings. You agree on the symptom. You don't agree on the cause (see section 6).
 - **You want steadier work.** Most of you described the business as living job to job, or busier without being better off. "We're running on Tim's and overtime."
 - **Some decisions don't hold.** All of you could name a rule from the past year that faded within weeks.
 
@@ -254,7 +254,15 @@ Five leaders gave four different answers. Some of you point at growth through a 
 - **Custom versus standard.** Giving up some fully custom work would free engineering time and shorten quotes. Not everyone has said they're ready to give it up.
 - **Growth now versus capacity first.** Some of you would grow first and add capacity as needed. Others would fix delivery first, then grow.
 
-## 4. What the plan rests on, and what would warn you
+## 4. What these differences may lead to
+These follow from what you told us. They are possibilities to test, not predictions.
+
+- **Rush work keeps jumping the queue.** You haven't settled who can approve a rush job, or which customer comes first when they collide. While that stays open, rush orders may keep slipping everything behind them, as the past rules on rush work did. "The shop is a funnel with a cork in it."
+- **The contract quote and the shop plan may rest on different beliefs.** Some of you would price sharper for volume. Others believe the shop can't take the work without a second shift, or that rush work already costs more than you charge. A quote built on one view, and a shop plan built on another, may show up in the warning signs you named: overtime climbing and margin slipping.
+- **People get different answers depending on who they ask.** With "which customer comes first" unsettled, the floor, sales and estimating may each lean their own way. "We're a hockey team that changes lines whenever someone yells from the bench."
+- **Standard parts may stall again.** Standardizing needs sales to offer standard options. While "custom shop or production shop" is open, a drawing library may go unfilled again, as it did before.
+
+## 5. What the plan rests on, and what would warn you
 | What the plan rests on | Early warning signs you named |
 |---|---|
 | Equipment makers want a local supplier, and that demand holds for some years | A forecast cut from the large customer; losing volume quotes on price |
@@ -266,7 +274,7 @@ Five leaders gave four different answers. Some of you point at growth through a 
 
 Two of these beliefs pull against each other: whether regulars will wait, or are already losing trust. One belief, that regulars will pay for reliability, has no warning sign attached.
 
-## 5. Where work waits
+## 6. Where work waits
 - **Decisions wait for one person.** Some of you said priorities, approvals and spending decisions wait for the owner. This came up in different words from different parts of the business.
 - **Quotes and drawings.** Most of you named this, but you place the cause differently: slow approvals, every job starting from scratch, or not enough estimating time.
 - **Rush orders jump the queue.** "The shop is a funnel with a cork in it."
@@ -282,7 +290,7 @@ Two of these beliefs pull against each other: whether regulars will wait, or are
 - A Friday planning meeting
 - A shared drawing library; no one had time to fill it
 
-## 6. Your team's own words
+## 7. Your team's own words
 - "Running on Tim's and overtime."
 - "Get off the treadmill."
 - "The shop is a funnel with a cork in it."
@@ -292,7 +300,7 @@ Two of these beliefs pull against each other: whether regulars will wait, or are
 - "We're a hockey team that changes lines whenever someone yells from the bench."
 - "Reinventing the same bracket."
 
-## 7. Questions your team needs to settle
+## 8. Questions your team needs to settle
 1. Do you pursue the Prairie Ag contract this year, and on what conditions?
 2. When a large new customer and your regulars collide, which way should people lean?
 3. What is your margin floor for any job, large or small?
@@ -301,7 +309,7 @@ Two of these beliefs pull against each other: whether regulars will wait, or are
 6. Which decisions need the owner, and which can others make without waiting?
 7. Do regular customers still trust your delivery, and how will you know?
 
-## 8. Next step
+## 9. Next step
 These are your team's questions to settle. Many teams do that on their own, and this report is yours to use however you like.
 
 If you'd like help, settling these questions is what the Rotor Beta does. Over one quarter, we work with your leadership team to agree the main effort, the trade-offs and the warning signs, in your own words, and put them where your people make decisions.
@@ -319,6 +327,8 @@ Any quote attributed or counted to one person: no
 Any recommendation of a main effort or advice: no
 Any result, savings or ROI claim: no
 Any banned word: no
+Every "all" claim supported by every block: yes
+Every effect in section 4 joins a split to something leaders named: yes
 === END CHECKS ===
 ```
 
@@ -334,7 +344,7 @@ Any banned word: no
 
 **Accuracy check (2026-11-10):** every claim in the report was traced back to the five blocks. Three overstatements were corrected before this draft: two "all of you" claims became "most of you", and "all five aim at the same thing" became "most of these share a goal". Proposed addition to the agent's check sheet: *Every "all" claim is supported by every block.*
 
-## 5. Proposed new section: what the differences may lead to
+## 5. Added after gate 5: what the differences may lead to
 
 Brandon (2026-11-10): he'd want the report to go one step further, into second-order effects and risks that come from leaders pursuing different main efforts. But not so far that it sounds invented or unreal and causes cognitive dissonance.
 
@@ -372,10 +382,4 @@ If the agent can't name both, it doesn't write the effect. No chains ("which lea
 2. Rule additions: "remove team names from decisions that didn't stick" **not added** (risks removing context). The "every 'all' claim" check: added only if it protects the report's accuracy (Ines recommends yes). The "count of main efforts" rule: explained in chat.
 3. Website use of the sample: decide at deliverable 7.
 
-**Gate 5 still waiting for pass, pass with changes, or hold.**
-
-## 7. Questions for you
-
-1. **Second-order effects:** add the new section to the report, and its rules to the synthesis instructions?
-2. **The "all" check:** add it?
-3. **Counting main efforts:** add the rule that allows "five leaders gave four different answers"?
+**Gate 5: pass with changes, 2026-11-10.** All three additions approved and applied: section 4 is now in the report above, and the rules are in deliverable 4.

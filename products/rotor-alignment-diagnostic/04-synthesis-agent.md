@@ -14,7 +14,7 @@ Decision needed: are these the right instructions for the AI that
   turns 3–8 summary blocks into the report, and is this the right
   report shape?
 Recommendation: approve. Eight fixed sections in the order of your
-  brief. The agent shows gaps, never picks a side. It never names,
+  brief (nine after gate 5 added section 4). The agent shows gaps, never picks a side. It never names,
   counts or describes a leader in a way that points to one person.
   It ends with one offer: the Beta. It also writes a short check
   sheet that the system reads before anything is sent.
@@ -51,11 +51,12 @@ The agent runs on our side, through an AI provider's API. Buyers never see these
 | 1. Where the team agrees | All fields: themes most leaders share |
 | 2. Where the team differs | Main effort (their words) · plus any field where views split |
 | 3. Unsettled trade-offs | Trade-offs they named · How they would resolve a collision between priorities |
-| 4. Beliefs and early-warning signs | Beliefs the plan rests on · Early warning signs they named |
-| 5. Where work waits | Friction (where work waits) · Decisions that didn't stick |
-| 6. The team's own words | Images, metaphors and sayings (exact words) |
-| 7. Questions to settle | Questions they want the leadership team to settle · plus the splits in sections 2–3 |
-| 8. Next step | Fixed text, not built from blocks |
+| 4. What these differences may lead to | A split from sections 2–3, joined to Friction · Early warning signs · Decisions that didn't stick |
+| 5. Beliefs and early-warning signs | Beliefs the plan rests on · Early warning signs they named |
+| 6. Where work waits | Friction (where work waits) · Decisions that didn't stick |
+| 7. The team's own words | Images, metaphors and sayings (exact words) |
+| 8. Questions to settle | Questions they want the leadership team to settle · plus the splits in sections 2–3 |
+| 9. Next step | Fixed text, not built from blocks |
 | Never used | Leader · Leave out of the summary · Corrections they made to the read-back (used only to trust the other fields, never quoted) |
 
 ## 3. The instructions
@@ -85,7 +86,9 @@ You write a leadership alignment report for {company} from {n} interview summari
   - Split: leaders said things that pull in different directions.
   - Single view: one leader raised it and no one else did.
 - Shared themes go in "Where the team agrees". Splits go in "Where the team differs" or "Unsettled trade-offs". A single view goes in only if it is a belief, warning sign or friction point the team should hear.
-- Describe how many people hold a view only with these words: "all", "most", "some", "a few", "one leader". Never give exact counts or fractions.
+- Describe how many people hold a view only with these words: "all", "most", "some", "a few", "one leader". Never give exact counts or fractions of people.
+- Write "all" only when every block supports it. Otherwise write "most" or "some".
+- You may say how many different main efforts there are ("Five leaders gave four different answers"). That counts answers, not people.
 - Never say which view is right, more common in better companies, or closer to the CEO's view.
 
 # Protecting anonymity
@@ -95,6 +98,14 @@ You write a leadership alignment report for {company} from {n} interview summari
 - If a quote contains something that identifies the speaker ("my sales team", "when I joined last spring"), shorten it or replace the detail with a neutral word in square brackets: "[my team]". Never change the meaning.
 - If a quote cannot be made safe, paraphrase it without quotation marks.
 - Never quote anyone on "Questions they want the leadership team to settle"; rephrase those as neutral questions.
+
+# What these differences may lead to
+- Write 2 to 4 effects. Each one joins a split from sections 2 or 3 with a friction point, warning sign or decision that didn't stick that leaders named.
+- Write each as: "Because <the split>, <what leaders already see> may continue or grow."
+- One step only. Never chain effects. Never invent a scenario leaders didn't describe.
+- Use "may", never "will". Never estimate money, time or results.
+- Never say what to do about it.
+- If you can't join a split to something leaders named, leave the effect out.
 
 # What you never do
 - Never recommend a main effort, rank the leaders' main efforts, or merge them into one.
@@ -125,12 +136,14 @@ Any quote attributed or counted to one person: yes/no
 Any recommendation of a main effort or advice: yes/no
 Any result, savings or ROI claim: yes/no
 Any banned word: yes/no
+Every "all" claim supported by every block: yes/no
+Every effect in section 4 joins a split to something leaders named: yes/no
 === END CHECKS ===
 ```
 
 ## 4. Report template
 
-The agent fills the angle-bracketed parts. Section 8 is fixed text and is not changed by the agent. Fenn will polish the fixed wording at deliverable 7.
+The agent fills the angle-bracketed parts. Section 9 is fixed text and is not changed by the agent. Fenn will polish the fixed wording at deliverable 7.
 
 ```markdown
 # Leadership alignment report · {company}
@@ -156,25 +169,30 @@ This report shows where your views line up and where they don't. It does not tel
 ## 3. Trade-offs that aren't settled
 <2–5 trade-offs. For each: what is being traded against what, and how leaders said they would lean when the two collide. Show where the leanings differ.>
 
-## 4. What the plan rests on, and what would warn you
+## 4. What these differences may lead to
+These follow from what you told us. They are possibilities to test, not predictions.
+
+<2–4 effects, each with a short bold heading, then two or three sentences joining a split to something leaders already see. A short quote where one helps.>
+
+## 5. What the plan rests on, and what would warn you
 | What the plan rests on | Early warning signs you named |
 |---|---|
 | <belief> | <signs, or "none named"> |
 
 <One or two sentences on any belief that only one leader raised, or any belief with no warning sign.>
 
-## 5. Where work waits
+## 6. Where work waits
 <3–6 friction points, most often mentioned first. For each: where work waits, and a short quote if one helps.>
 
 <Then any decisions from the past year that didn't stick, as short bullets.>
 
-## 6. Your team's own words
+## 7. Your team's own words
 <5–10 images, metaphors and sayings, exact words, unattributed. No commentary.>
 
-## 7. Questions your team needs to settle
+## 8. Questions your team needs to settle
 <3–7 questions, phrased neutrally. Each comes from a split, an unsettled trade-off, or questions leaders asked to settle. Number them.>
 
-## 8. Next step
+## 9. Next step
 These are your team's questions to settle. Many teams do that on their own, and this report is yours to use however you like.
 
 If you'd like help, settling these questions is what the Rotor Beta does. Over one quarter, we work with your leadership team to agree the main effort, the trade-offs and the warning signs, in your own words, and put them where your people make decisions.
@@ -209,3 +227,7 @@ Start a conversation: {start_conversation_link}
 2. Section 8 Beta description ("over one quarter… agree the main effort, the trade-offs and the warning signs, in your own words"): **accurate**.
 
 **Gate 4: pass, 2026-11-10.**
+
+## 7. Amended after gate 5 · 2026-11-10
+
+Brandon approved three additions from the sample report: a new section 4 (what these differences may lead to), the rule that "all" needs every block, and the rule allowing a count of different main efforts. Two check-sheet lines added. Later sections renumbered.
