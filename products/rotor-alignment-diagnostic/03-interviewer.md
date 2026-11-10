@@ -33,7 +33,7 @@ Reply: pass · pass with changes · hold
 | | Beta (Interviewer Pack) | Diagnostic | Why |
 |---|---|---|---|
 | Who reads what | Brandon reads full transcripts | **No person reads the transcript or the block** | Sealed drop-box (decision 2026-11-09) |
-| Where the block goes | Emailed or exported to Brandon | **Pasted into the company's private drop-box link** | Sealed drop-box |
+| Where the block goes | Emailed or exported to Brandon | **Pasted into a Franklin Kinetics web page (the drop-box), reached by a private link made for that company** | Sealed drop-box |
 | Questions | Separate wave file, swapped each wave | **Wave 1 built in, word for word.** One wave only | One paste for the CEO; no wave file to forget |
 | No wave file attached | Refuse and contact Brandon | Not needed | Questions are built in |
 | Per-leader notes | Used in waves 2–3 | Removed | One wave, same questions for everyone |
@@ -44,7 +44,9 @@ Reply: pass · pass with changes · hold
 
 ## 2. How it's installed
 
-The setup kit gives the CEO a ready-to-paste copy with three values already filled in: company name, platform, and the company's drop-box link. **The CEO edits nothing.**
+The setup kit gives the CEO a ready-to-paste copy with three values already filled in: company name, platform, and the company's private link to the drop-box. **The CEO edits nothing.**
+
+The **drop-box** is a simple web page run by Franklin Kinetics, not by the client. Each company gets its own private link to it, so its leaders' blocks are kept together and apart from other companies'. The leader opens the link, pastes their block into one text box, ticks the consent box and presses Send.
 
 | Platform | The instructions go in | Each leader gets |
 |---|---|---|
@@ -159,7 +161,7 @@ The CEO sends this with the invitation. The kit fills in the bracketed values ex
 >
 > **You're in charge.** Skip any question, stop at any time, or ask for something to be left out.
 >
-> Questions about how your answers are handled? Write to Franklin Kinetics at [contact address].
+> Questions about how your answers are handled? Write to Franklin Kinetics at contact@franklinkinetics.com.
 >
 > [CEO name]
 
@@ -200,7 +202,6 @@ Run on each of the four platforms. Play the leader yourself, or have Mack run it
 
 1. **Built-in questions:** one paste with wave 1 built in, as recommended? Or keep a separate wave file like the Beta?
 2. **Question 10:** keep it (identical interview, not recorded), or drop it from the diagnostic?
-3. **Contact address** for leaders' privacy questions: which email?
 
 ---
 Checked 2026-11-10: the box in section 3 is 5,970 characters before the three values are filled in (about 6,100 after), under the ~8,000 cap. The summary block and the wave 1 questions match `rotor/interviewer-pack.md` character for character.

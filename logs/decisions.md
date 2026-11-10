@@ -38,3 +38,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-09 | Diagnostic restart: one restart within 12 months of purchase. | Claude Code |
 | 2026-11-09 | No insurance quote for now; build Option C as specified. Client terms should carry a limitation of liability. | Claude Code |
 | 2026-11-09 | Website copy: "pilot team" replaced with "Beta team" throughout (master Claude Doc and `rotor/website-copy.md`). | Claude Code |
+| 2026-11-10 | Diagnostic contact address for leaders' privacy questions: contact@franklinkinetics.com. | Claude Code |
