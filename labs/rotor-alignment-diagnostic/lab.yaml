@@ -10,13 +10,13 @@ audience:
   buyer: sme-owner           # CEO of an owner-led company, 20-200 people
   story_speaks_to: "sme-owner"
 job_to_be_done: "Show a leadership team where it agrees, where it differs, and which questions it must settle, without a consultant in the room."
-rotor_lesson: "PROPOSED (Fenn): You don't know your leadership team agrees until you ask each leader alone."
+rotor_lesson: "You don't know your leadership team agrees until you ask each leader alone."   # approved 2026-11-10
 
 four_proofs:
   speed: "TBD at Release, from hours below"
   abundance: "What each leader already knows, plus the AI tools the company already pays for."
   craft: "One AI interviewer that runs on Claude, ChatGPT, Copilot or Gemini; a sealed drop-box; an AI-written report with automatic checks."
-  goodwill: "OPEN: needs a free layer (see brief.md, G1/G2 question 2). Fair flat price; restart; report useful without the Beta."
+  goodwill: "Fair flat price, a free restart, and a report that's useful without the Beta. No free layer (Brandon, 2026-11-10: a free layer is not required)."
 
 sources:
   - {name: "Rotor Interviewer Pack, wave 1 questions 1-9", url: "rotor/interviewer-pack.md", licence: "Franklin Kinetics' own material", notes: "Master is a Claude Doc. No Rotor Core content."}
@@ -24,12 +24,12 @@ sources:
   - {name: "Google Cloud (Montréal region)", url: "https://cloud.google.com", licence: "Commercial terms", notes: "Proposed host for the drop-box; Mack confirms at build"}
 
 hours:
-  estimate_brandon: 8        # Ines, proposed at G1/G2; see brief.md
-  brandon: null              # unknown so far; Brandon to estimate time spent on gates to date
+  estimate_brandon: 7        # Ines, proposed at G1/G2; see brief.md
+  brandon: 1.8              # ~11 gate reviews x 10 min (Brandon's estimate, 2026-11-10)
   crew_sessions: 11
 
 offer:
-  free_layer: "OPEN (see brief.md)"
+  free_layer: "none"
   paid_layer: "The full diagnostic: interviews for 3-8 leaders and the written report"
   price_cad: 790             # approved 2026-11-10 (pre-Lab gate); re-confirmed at G5
   format: "setup-service"

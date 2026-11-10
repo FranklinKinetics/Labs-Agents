@@ -14,12 +14,13 @@ Decision needed: does this Lab get built?
 Recommendation: build. The design is done and approved piece by piece;
   the Lab lifecycle now adds what it was missing: a free layer, a
   Rotor Lesson, a Look (G4) and a Story with a Substack note (G6).
-Four Proofs check: Speed: hours logged from here · Abundance: leaders'
-  own knowledge + AI the company already has · Craft: one interviewer,
-  four platforms, sealed synthesis · Goodwill: OPEN, needs a free layer
+Four Proofs check: Speed: 1.8h of Brandon's time so far · Abundance:
+  leaders' own knowledge + AI the company already has · Craft: one
+  interviewer, four platforms, sealed synthesis · Goodwill: fair flat
+  price, free restart, useful without the Beta
 Risks / Vera flags: first Lab that holds personal information (briefly);
   first Lab whose buyer is an SME owner, not a household
-Hours: Brandon estimate 8h to Release · crew sessions 11
+Hours: Brandon 1.8h so far, estimate 7h more to Release · crew sessions 11
 Reply: pass · pass with changes · hold
 ```
 
@@ -76,28 +77,25 @@ Brandon's hands-on hours from G2 to Release, estimated:
 
 | Step | Hours |
 |---|---|
-| Gate reviews (G3–G7) | 2 |
+| Gate reviews (G3–G7, about 10 min each) | 1 |
 | Accounts: Google Cloud, Anthropic API, Squarespace product | 1.5 |
 | Solo run on two platforms | 2.5 |
 | Reading the first one or two real reports before they go out | 1 |
 | Buffer | 1 |
-| **Total** | **8** |
+| **Total** | **7** |
 
-If actual hours pass 16, Ines calls a mini Go/No-go.
+If actual hours from G2 pass 14, Ines calls a mini Go/No-go.
 
 ## 8. Recommendation
 
 **Build**, with a free layer added before G5.
 
-## 9. Questions for Brandon
+## 9. Answers so far · 2026-11-10
 
-1. **Gate pass.** Build it?
-2. **Free layer.** Every Lab needs one. Options, with the crew's pick first:
-   - **A. "Try the interview yourself" (recommended).** A free download: the interviewer for one person. The CEO takes it alone and sees their own summary, the same way their leaders will. It costs nothing to run, shows the craft, and leads to "now ask your team." It gives away nothing secret: the interviewer ships to every buyer anyway and holds no Rotor Core.
-   - **B. The fictional sample report.** Larchmere, labelled fictional. Shows what you get.
-   - **C. Both.**
-3. **Rotor Lesson.** Fenn proposes: *"You don't know your leadership team agrees until you ask each leader alone."* Approve, change, or ask for alternatives.
-4. **Your hours so far.** Roughly how much time have you spent on the gate reviews to date? It goes on the card as Brandon's hours.
+1. **Gate pass:** waiting.
+2. **Free layer:** not required. Brandon: "Not every lab needs a free layer. That's not a rule." Goodwill rests on fair pricing, the restart and a useful report.
+3. **Rotor Lesson:** approved. *"You don't know your leadership team agrees until you ask each leader alone."*
+4. **Brandon's hours so far:** about 10 minutes per gate review; roughly 11 reviews, so about 1.8 hours.
 
 ## 10. Things this reclassification changes
 
