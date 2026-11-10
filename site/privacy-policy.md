@@ -118,4 +118,4 @@ Write to **contact@franklinkinetics.com**. If you're not satisfied with our answ
 2. **Labs send nothing back:** confirmed. Stated in the policy.
 3. **Contact-form messages:** kept, not deleted on a schedule. The policy says so honestly and offers deletion on request. Vera's note: Canadian privacy law expects information to be kept only as long as it's needed; deleting on request covers most of that, and it's Brandon's call.
 
-**Gate still waiting for pass, pass with changes, or hold.**
+**Gate: pass, 2026-11-10.** Ready to publish once the contact form's sign-up box is set to opt-in.
