@@ -217,7 +217,7 @@ Start a conversation: {start_conversation_link}
 
 **Two things the system checks without trusting the agent:**
 1. **Names:** on arrival, the drop-box removes the leader's name and role from the whole block, not just the "Leader" line, before anything is stored. Before sending, a second, separate AI check reads only the finished report and flags any personal name, role or identifying detail. Any flag holds the report for Brandon. (Names are never stored, so the system can't search for them later.)
-2. **Banned words:** a plain word search, not the agent's own say-so.
+2. **Banned words:** a plain word search of the report only, not the agent's own say-so. The check sheet is left out of the search, because its own line "Any result, savings or ROI claim" would trip it. (Clarified 2026-11-10 after the bench build.)
 
 **One honest limit:** with 3 leaders, a team can sometimes guess who said what from the content alone. The rules lower that risk; they can't remove it. The disclosure note already tells leaders that unattributed quotes may appear.
 
