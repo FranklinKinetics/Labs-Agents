@@ -24,8 +24,9 @@ deliverables:             # each behind its own gate; outcome: pass | pass-with-
   5_sample_report:       {file: "05-sample-report.md", gate: "2026-11-10 pass with changes"}
   6_package_price:       {file: "06-package-price.md", gate: "2026-11-10 pass with changes"}
   7_website_copy:        {file: "07-website-copy.md", gate: "2026-11-10 pass with changes", scope: "diagnostic's own page; 'Not ready for the Beta? Start here' block on How It Works; link on Start a conversation"}
+  9_privacy_and_terms:   {file: "09-privacy-and-terms.md", gate: "waiting"}  # extra item
   8_test_plan:           {file: "08-test-plan.md", gate: "2026-11-10 pass"}
 
 hours:
   brandon: 0
-  crew_sessions: 8
+  crew_sessions: 9
