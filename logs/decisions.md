@@ -22,3 +22,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Labs is the storefront for anything people can take off the shelf and use without Brandon's time, for homes or businesses. Anything needing his consulting time is not a Lab. (Supersedes the 2026-11-09 note that the diagnostic sits outside the Labs store.) | chat |
 | 2026-11-10 | The alignment diagnostic is a Lab: self-serve, priced, in the Labs store, also linked from How It Works and Start a conversation. | chat |
 | 2026-11-10 | The Rotor Beta stays unpriced. Whether a productized Rotor replaces the Beta is decided after that product is complete. | chat |
+| 2026-11-10 | Brandon's time for Rotor consulting: about 5 hours a week, 10 at most, mostly evenings and weekends. Business hours are difficult; he can take a limited number of days off work for clients, planned ahead. | chat |
