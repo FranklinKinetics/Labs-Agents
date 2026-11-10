@@ -4,6 +4,7 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 
 | Date | Lab | Gate | Outcome | Changes requested |
 |---|---|---|---|---|
+| 2026-11-10 | Rotor Product (track) | RP1 options memo | pass, with Ines's recommendation | Before passing, Brandon set days off to 5–6/yr max and ruled out cohort companies meeting; memo revised (section 0). Track gates are not counted in the Lab clean-pass streaks. |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |
