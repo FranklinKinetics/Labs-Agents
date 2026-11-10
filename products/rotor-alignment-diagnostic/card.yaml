@@ -5,7 +5,7 @@
 # (decision 2026-11-09). Adapted from labs/_template/lab.yaml.
 name: "Rotor Alignment Diagnostic"
 slug: "rotor-alignment-diagnostic"
-status: building          # deliverable 3 drafted; waiting at its gate
+status: building          # deliverable 4 drafted; waiting at its gate
 buyer: "CEO of an owner-led company, 20-200 people"
 job_to_be_done: "Show a leadership team where it agrees, where it differs, and which questions it must settle, without Brandon's time."
 site_placement: "own page; linked from How It Works and Start a conversation"
@@ -18,8 +18,8 @@ sources:
 deliverables:             # each behind its own gate; outcome: pass | pass-with-changes | hold
   1_data_flow_memo:      {file: "01-data-flow-memo.md", gate: "2026-11-09 pass (Option C)"}
   2_product_spec:        {file: "02-product-spec.md", gate: "2026-11-10 pass"}
-  3_interviewer:         {file: "03-interviewer.md", gate: "waiting"}
-  4_synthesis_agent:     {file: "", gate: ""}
+  3_interviewer:         {file: "03-interviewer.md", gate: "2026-11-10 pass with changes"}
+  4_synthesis_agent:     {file: "04-synthesis-agent.md", gate: "waiting"}
   5_sample_report:       {file: "", gate: ""}
   6_package_price:       {file: "", gate: ""}
   7_website_copy:        {file: "", gate: "", scope: "diagnostic's own page; 'Not ready for the Beta? Start here' block on How It Works; link on Start a conversation"}
@@ -27,4 +27,4 @@ deliverables:             # each behind its own gate; outcome: pass | pass-with-
 
 hours:
   brandon: 0
-  crew_sessions: 3
+  crew_sessions: 4

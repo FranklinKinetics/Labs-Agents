@@ -6,6 +6,7 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 |---|---|---|---|---|
 | 2026-11-09 | Rotor Alignment Diagnostic | Deliverable 1 · data flow | pass | none. Option C chosen. |
 | 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 2 · product spec | pass | answers folded in before the pass (Squarespace, no refund under 3, one restart in 12 months, check-in email, planned count, no insurance quote) |
+| 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 3 · interviewer | pass with changes | drop question 10; wave 1 built into one paste; contact address added |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |
