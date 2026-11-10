@@ -60,3 +60,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Legal name: Franklin Kinetics Consulting Corp. | Claude Code |
 | 2026-11-10 | Crew drafts a site-wide privacy policy for franklinkinetics.com (`site/privacy-policy.md`). | Claude Code |
 | 2026-11-10 | Environment network: allowed franklinkinetics.com and www.franklinkinetics.com, to check what the site collects. | Claude Code |
+| 2026-11-10 | Collect emails for a future newsletter, by an opt-in tick box on site forms (not pre-ticked). | Claude Code |
+| 2026-11-10 | Labs run on the buyer's own device or accounts and send no data back to Franklin Kinetics. | Claude Code |
+| 2026-11-10 | Contact-form messages are kept, not deleted on a schedule; deleted on request. | Claude Code |

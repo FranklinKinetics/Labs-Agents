@@ -16,8 +16,8 @@ Recommendation: approve. Written from what the live site actually does
   Commerce, Squarespace's own analytics, no advertising trackers, no
   cookie banner. The diagnostic keeps its own, more detailed notice,
   linked from here.
-Two things to confirm (section 3): whether the contact form adds people
-  to a mailing list, and what each Lab collects when it's used.
+Before publishing: the contact form's mailing-list box must be one
+  people tick themselves (section 3).
 Risks / Vera flags: no lawyer review (Brandon's decision)
 Hours so far: Brandon 0h · crew sessions 10
 Reply: pass · pass with changes · hold
@@ -52,7 +52,8 @@ Franklin Kinetics Consulting Corp. ("Franklin Kinetics", "we") runs franklinkine
 
 | When you… | We collect | Why | How long we keep it |
 |---|---|---|---|
-| Use the contact form | Your name, email, subject, and what you choose to tell us | To reply, and to prepare for our conversation | Until the conversation is over and no work follows, then deleted within 12 months; longer if we work together |
+| Tick "send me updates" on a form | Your email, and the date you agreed | To send occasional updates | Until you unsubscribe |
+| Use the contact form | Your name, email, subject, and what you choose to tell us | To reply, and to prepare for our conversation | Kept as a record of past conversations. Ask us any time and we'll delete yours |
 | Buy or download a Lab, free or paid | Your name, email, billing details and what you got | To deliver it, send receipts, and keep business records | As long as tax and business record rules require |
 | Buy the Rotor Alignment Diagnostic | See its own [privacy notice](/alignment-diagnostic/privacy) | | |
 | Visit the site | Basic visit information: pages viewed, browser, rough location from your IP address | To see which pages are useful and to keep the site running | Held by Squarespace under its own policy |
@@ -60,7 +61,9 @@ Franklin Kinetics Consulting Corp. ("Franklin Kinetics", "we") runs franklinkine
 
 **Payments** are handled by Squarespace's payment processor. We don't receive your full card number.
 
-[CONFIRM: mailing list. The contact form's email field has Squarespace's mailing-list setting on. If people can tick a box to get updates, keep this line: "If you choose to get updates, we'll email you occasionally. Every email has an unsubscribe link." If not, switch the setting off in Squarespace and delete this note.]
+**Updates by email.** If you tick the box to get updates, we'll add your email to our mailing list and may send you occasional news from Franklin Kinetics. We won't add you unless you tick it. Every email has an unsubscribe link, and you can ask us to remove you at any time.
+
+**Labs** run on your own device or accounts. They don't send information back to us.
 
 ## Cookies
 
@@ -109,8 +112,10 @@ Write to **contact@franklinkinetics.com**. If you're not satisfied with our answ
 | Plain language, Canadian spelling | Pass. |
 | Consistent with the diagnostic's notice | Pass. Linked, not repeated. |
 
-## 3. To confirm before publishing
+## 3. Answers · 2026-11-10
 
-1. **Mailing list:** does the contact form actually offer to subscribe people? If not, switch off the mailing-list setting on its email field. (Squarespace: edit the form block → the email field → mailing list.)
-2. **What each Lab collects when used:** the policy assumes Labs run on the buyer's own device or accounts and send nothing back to us. If any Lab sends data to Franklin Kinetics, it needs a line here. Ines checks each lab card.
-3. **Contact-form retention:** 12 months after the conversation ends is the crew's suggestion. Change it if you'd rather.
+1. **Mailing list:** Brandon wants to collect emails for a future newsletter. Canada's anti-spam law needs people to agree before they get newsletters, so the form needs a **tick box people choose to tick, not ticked in advance** (guardrail 8). Check in Squarespace that the form's mailing-list setting shows a sign-up box rather than adding everyone automatically. Keep the date each person agreed (Squarespace's mailing list records it).
+2. **Labs send nothing back:** confirmed. Stated in the policy.
+3. **Contact-form messages:** kept, not deleted on a schedule. The policy says so honestly and offers deletion on request. Vera's note: Canadian privacy law expects information to be kept only as long as it's needed; deleting on request covers most of that, and it's Brandon's call.
+
+**Gate still waiting for pass, pass with changes, or hold.**
