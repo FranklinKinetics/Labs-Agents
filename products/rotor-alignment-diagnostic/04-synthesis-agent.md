@@ -208,4 +208,4 @@ Start a conversation: {start_conversation_link}
 1. Main efforts shown side by side: **keep**.
 2. Section 8 Beta description ("over one quarter… agree the main effort, the trade-offs and the warning signs, in your own words"): **accurate**.
 
-**Gate 4 still waiting for pass, pass with changes, or hold.**
+**Gate 4: pass, 2026-11-10.**
