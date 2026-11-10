@@ -58,7 +58,7 @@ The diagnostic asks each leader the same questions, separately, before anyone he
 1. **You buy it and get a setup kit by email.** It works with Claude, ChatGPT, Microsoft Copilot or Google Gemini.
 2. **You add the AI interviewer to your company's AI platform.** One paste. About 15 minutes. [CONFIRM time at dry run]
 3. **Your leaders take the interview, on their own time.** Three to eight leaders, including you. About 20 minutes each, by voice or text.
-4. **You get the report by email.** As soon as the last leader is in, or when the three-week window closes.
+4. **You get the report by email.** You close the interviews once at least three leaders are in, or they close on their own after three weeks.
 
 ### What you get
 
