@@ -47,3 +47,7 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-10 | Whether the fictional sample report appears on the diagnostic's web page: decide at deliverable 7. | Claude Code |
 | 2026-11-10 | Diagnostic report adds a section "What these differences may lead to": 2–4 one-step effects, each joining a split to something leaders named; "may", never "will"; no money estimates; no advice. | Claude Code |
 | 2026-11-10 | Synthesis agent: "all" only when every block supports it; counting different main efforts is allowed. | Claude Code |
+| 2026-11-10 | Squarespace Commerce is on (for the Labs products); the diagnostic uses it for checkout. | Claude Code |
+| 2026-11-10 | Diagnostic: full refund if we don't deliver a report. Stated in the terms as "Your report, or your money back", not as a warning on the page. | Claude Code |
+| 2026-11-10 | GST/HST for the diagnostic: deferred. Brandon is registered for PST; check GST with the accountant before the page goes live. | Claude Code |
+| 2026-11-10 | Environment network: allowed www.tablegroup.com, success.co, www.success.co, www.compono.com, leadershipcircle.com, www.squarespace.com for price verification. | Claude Code |
