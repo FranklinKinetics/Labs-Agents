@@ -38,6 +38,17 @@ Spark ──► Lab ──► Offer ──► Release ──► Signal ──►
 | **Guardrail** | A hard limit. Vera enforces; only Brandon can change one. | Vera | `canon/guardrails.md` |
 | **Decision** | Anything Brandon decides, with date and source. The record of truth. | Ines | `logs/decisions.md` |
 
+## Rotor Product terms
+Approved by Brandon at RP2, 2026-11-10. These are consulting terms, not Lab terms.
+
+| Term | Meaning | Lives in |
+|---|---|---|
+| **Intake** | Up to three companies that start the Rotor Product program within the same three weeks and share one Mirror day. They never meet and never learn each other's names. To a client it is just "the next start date". | `rotor/product/` |
+| **Mirror day** | The one planned day off on which an intake's private Mirrors run. | `rotor/product/` |
+| **Wave 0** | A company's alignment diagnostic results, used with its consent as the program's starting point. | `rotor/product/` |
+| **Waiting room** | The diagnostic's role for a company waiting for the next intake. | `rotor/product/` |
+| **Override log** | Brandon's private record of each change he makes to an AI draft, by step and reason only, with no client content. | Brandon's private library |
+
 ## Lab statuses
 `spark` → `briefed` → `approved` → `building` → `dressed` → `packaged` → `storied` → `cleared` → `released` → `debriefed`
 Side states: `held` (paused at a gate), `killed` (with a one-line reason; kept for the record).

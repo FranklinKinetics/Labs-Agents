@@ -238,6 +238,14 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 
 ## 8. Data flow: where the synthesis runs
 
+> **Decided at RP2 (2026-11-10): option (b).** The AI drafting runs in Brandon's own business-tier AI account. The rules:
+> - one private project per company, named by company code;
+> - an account tier whose terms exclude training on its content (Juno confirms at RP3);
+> - summary blocks reach Brandon as in the Beta;
+> - everything is deleted at close-out, with a written deletion confirmation to the client.
+>
+> No client seat is needed. The text below records the options as they were weighed.
+
 **Recommendation: (a) the client gives Brandon a seat in its own AI.** Brandon's own accounts hold no client strategy data.
 
 ```mermaid
