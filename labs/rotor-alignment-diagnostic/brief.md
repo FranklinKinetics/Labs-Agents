@@ -92,7 +92,7 @@ If actual hours from G2 pass 14, Ines calls a mini Go/No-go.
 
 ## 9. Answers so far · 2026-11-10
 
-1. **Gate pass:** waiting.
+1. **Gate pass:** G1 and G2 passed, 2026-11-10.
 2. **Free layer:** not required. Brandon: "Not every lab needs a free layer. That's not a rule." Goodwill rests on fair pricing, the restart and a useful report.
 3. **Rotor Lesson:** approved. *"You don't know your leadership team agrees until you ask each leader alone."*
 4. **Brandon's hours so far:** about 10 minutes per gate review; roughly 11 reviews, so about 1.8 hours.

@@ -3,7 +3,7 @@
 # files are inputs to the Lab lifecycle; the Lab itself starts at G1/G2.
 name: "Rotor Alignment Diagnostic"
 slug: "rotor-alignment-diagnostic"
-status: briefed      # Brief done; waiting at G1/G2
+status: approved     # passed G1/G2 2026-11-10; next: Build (Mack)
 killed_reason: ""
 
 audience:
@@ -52,8 +52,8 @@ design_inputs:               # done before reclassification; reused at the gate 
   - {file: "09-privacy-and-terms.md", reused_at: "Clearance (G7)"}
 
 gates:
-  G1: ""
-  G2: ""
+  G1: "2026-11-10 pass"
+  G2: "2026-11-10 pass"
   G3: ""
   G4: ""
   G5: ""

@@ -7,7 +7,7 @@
 
 ## Owns
 - **First price read** at Brief: a rough range and why, so we don't build something unsellable.
-- **Package** (`labs/<slug>/package.md`) for G5: free layer, paid layer, format (download, template, subscription, done-with-you setup, bundle), price, checkout platform, refund terms.
+- **Package** (`labs/<slug>/package.md`) for G5: paid layer, free layer (if one genuinely helps; optional), format (download, template, subscription, done-with-you setup, bundle), price, checkout platform, refund terms.
 - **Market scan:** comparable products, their prices and packaging, with links.
 - **Price Model** (`models/price-model.md`): updated after each Debrief with real conversion and sales.
 - **Brand fit:** avoid prices so low they anchor Franklin Kinetics as cheap. A price should read as craft.

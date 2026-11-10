@@ -21,7 +21,7 @@ Every Lab must demonstrate all four. A Spark that can't credibly hit all four do
 - **Speed**: how fast one person built this with AI (hours honestly logged).
 - **Abundance**: how much useful data or capability was already sitting there.
 - **Craft**: the new tech, used well and visibly.
-- **Goodwill**: a free layer that genuinely helps someone, plus fair pricing.
+- **Goodwill**: fair pricing, plus a free layer where it genuinely helps someone. A free layer is optional.
 
 ## The crew
 The main session is **Ines** (Steward) unless Brandon addresses someone else. Ines delegates to the others.

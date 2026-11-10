@@ -14,12 +14,14 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 | 2026-11-10 | Rotor Alignment Diagnostic | Deliverable 8 · test plan | pass | solo run replaces friendly-company dry run; no lawyer (folded in before the pass) |
 | 2026-11-10 | Rotor Alignment Diagnostic | Privacy notice and terms | pass with changes | legal name set to Franklin Kinetics Consulting Corp.; add a site-wide privacy policy (new item) |
 | 2026-11-10 | Site (franklinkinetics.com) | Privacy policy | pass | answers folded in before the pass (opt-in updates, Labs send nothing back, contact messages kept) |
+| 2026-11-10 | Rotor Alignment Diagnostic | G1 Spark | pass | none |
+| 2026-11-10 | Rotor Alignment Diagnostic | G2 Go/No-go | pass | none (no free layer; Rotor Lesson approved; hours estimate 7h) |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |
 |---|---|---|
-| G1 | 0 | active |
-| G2 | 0 | active |
+| G1 | 1 | active |
+| G2 | 1 | active |
 | G3 | 0 | active |
 | G4 | 0 | active |
 | G5 | 0 | active |
