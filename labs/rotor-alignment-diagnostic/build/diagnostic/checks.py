@@ -22,6 +22,10 @@ EXPECTED_CHECKS = [
     ("Every effect in section 4 joins a split to something leaders named", "yes"),
 ]
 
+# Fenn's sentence, added to section 9 on 2026-11-11 (reconciliation M1). The full section is
+# still compared word for word against the template; this names the missing piece plainly.
+DISTILLATION_SENTENCE = "If there's little to settle, the Rotor Distillation takes your strategy into your AI tools."
+
 BANNED = re.compile(r"(?<!\w)(pilot|schwerpunkt|roi|alignment\s+score)(?!\w)", re.IGNORECASE)
 INSUFFICIENT = re.compile(r"^\s*INSUFFICIENT:\s*(\d+)\s+valid blocks\s*$")
 
@@ -96,6 +100,8 @@ def check_output(output: str, *, company: str, date: str, n: int, link: str) -> 
     nine = "## 9. Next step"
     if nine in want and _squash(section(report, nine)) != _squash(section(template, nine)):
         problems.append("section 9 (Next step) does not match the approved wording")
+    if nine in want and DISTILLATION_SENTENCE not in _squash(section(report, nine)):
+        problems.append("section 9 (Next step) is missing the Rotor Distillation sentence")
 
     # 3. check sheet
     if sheet is None:

@@ -213,6 +213,8 @@ Leave out of the summary: none
 
 ## 3. The report the CEO receives
 
+(Amended 2026-11-11 after the reconciliation with Rotor Product.) Section 9 of the report below gains one sentence, on the Rotor Distillation. The Beta paragraph is unchanged.
+
 ---
 
 # Leadership alignment report · Larchmere Fabrication
@@ -313,6 +315,8 @@ Two of these beliefs pull against each other: whether regulars will wait, or are
 These are your team's questions to settle. Many teams do that on their own, and this report is yours to use however you like.
 
 If you'd like help, settling these questions is what the Rotor Beta does. Over one quarter, we work with your leadership team to agree the main effort, the trade-offs and the warning signs, in your own words, and put them where your people make decisions.
+
+If there's little to settle, the Rotor Distillation takes your strategy into your AI tools.
 
 Start a conversation: [link]
 

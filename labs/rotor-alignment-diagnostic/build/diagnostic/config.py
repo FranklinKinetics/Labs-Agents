@@ -11,11 +11,11 @@ PLACEHOLDER_ADDRESS = "[MAILING ADDRESS: Brandon to supply before launch]"
 @dataclass
 class Config:
     app_base_url: str = "http://localhost:8080"          # decided before Release
-    start_conversation_link: str = "https://www.franklinkinetics.com/start-a-conversation"  # confirm real URL
+    start_conversation_link: str = "https://www.franklinkinetics.com/contact"           # confirmed 2026-11-11
     privacy_url: str = "https://www.franklinkinetics.com/alignment-diagnostic/privacy"
     terms_url: str = "https://www.franklinkinetics.com/alignment-diagnostic/terms"
-    sender_name: str = "Franklin Kinetics Consulting Corp."
-    sender_address: str = PLACEHOLDER_ADDRESS               # required by CASL on the check-in email
+    sender_name: str = "Franklin Kinetics Consulting Corporation"
+    sender_address: str = "1400-2500 Victoria Ave, Regina SK S4P 3X2"   # CASL mailing address, decided 2026-11-11
     contact_email: str = "contact@franklinkinetics.com"
     alert_email: str = "contact@franklinkinetics.com"       # held-report alerts go here
     window_days: int = 21

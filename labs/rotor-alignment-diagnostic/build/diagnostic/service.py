@@ -126,7 +126,10 @@ class App:
         c = self.store.find_by_status_token(status_token)
         if c is None:
             return None
-        return f"{len(self.store.summaries(c.id))} of {c.planned_leaders} received"
+        got = len(self.store.summaries(c.id))
+        if got > c.planned_leaders:       # extra leaders are welcome, up to max_leaders (decision 2026-11-11)
+            return f"{got} received ({c.planned_leaders} planned)"
+        return f"{got} of {c.planned_leaders} received"
 
     # ------------------------------------------------------------ window
 
