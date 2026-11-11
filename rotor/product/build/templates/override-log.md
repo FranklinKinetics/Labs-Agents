@@ -1,6 +1,8 @@
 # Override log (template)
 
-**This is a blank template.** Copy it to your private library before the first intake. The filled-in log never goes in this repo, never in anything a client sees, and never into a client's workspace.
+*Updated 2026-11-11 for the Rotor Distillation: step S12 (A13, the document distiller) added. Companies now start on a rolling basis, so "intake" no longer applies; the tally runs across all companies. S1 to S12 apply to the Distillation (not every step is used there: S3, S4, S7 and the noise audit are Beta-only).*
+
+**This is a blank template.** Copy it to your private library before the first company. The filled-in log never goes in this repo, never in anything a client sees, and never into a client's workspace.
 
 The override log applies Rotor's own rule to Brandon: repeated overrides are information, not noise.
 
@@ -9,7 +11,7 @@ The override log applies Rotor's own rule to Brandon: repeated overrides are inf
 Every time you change an AI draft, one line:
 
 ```
-date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut · added · reworded · reordered · replaced
+date | company code (e.g. CO-1) | step (S1–S12) | change: none · cut · added · reworded · reordered · replaced
      | why: wrong · weak · tone · missing context · judgment call | minutes spent | method note (optional, about the agent's instructions, never about the client)
 ```
 
@@ -27,7 +29,8 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 | S8 | A8 | Red-team annotations |
 | S9 | A9 | Flight logs |
 | S10 | A11 | Pulse syntheses |
-| S11 | A12 | Results pack |
+| S11 | A12 | Results pack (Distillation mode: before/after within the beta team; Beta mode: against a comparison team) |
+| S12 | A13 | Document extraction (made in the client's own AI, emailed to Brandon). Log what Brandon changes, discards or has to ask the CEO about when he works from it |
 
 ## Rules
 
@@ -37,14 +40,14 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 - **A step becomes a candidate to hand further to AI** when it has 15 or more observations across 3 or more companies, an override rate under 15%, and no "wrong" in its last 10.
 - **Handing a step over is decided at a track gate**, never silently.
 - **S5 (schwerpunkt candidates) is never handed over**, whatever the numbers say. The Mirror and the CEO review are not logged steps; they stay Brandon's.
-- **S5 is logged for learning only.** For the first two intakes, write your own one-line view before opening A5's draft; keep that note in the client's workspace. The log records only whether your view matched A5's options: yes · partly · no.
-- **Reviewed at each intake's end.** Ines produces the override-rate table below, and Brandon decides. The same review compares actual minutes against the spec's budgets.
+- **S5 is logged for learning only.** For the first two companies, write your own one-line view before opening A5's draft; keep that note in the client's workspace. The log records only whether your view matched A5's options: yes · partly · no.
+- **Reviewed periodically** (after every four companies, or at a track gate). Ines produces the override-rate table below, and Brandon decides. The same review compares actual minutes against the spec's budgets.
 
 ## The log (blank)
 
 | Date | Code | Step | Change | Why | Min | Method note |
 |---|---|---|---|---|---|---|
-| [YYYY-MM-DD] | [27A-1] | [S1–S11] | [none / cut / added / reworded / reordered / replaced] | [wrong / weak / tone / missing context / judgment call] | [ ] | [optional] |
+| [YYYY-MM-DD] | [CO-1] | [S1–S12] | [none / cut / added / reworded / reordered / replaced] | [wrong / weak / tone / missing context / judgment call] | [ ] | [optional] |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
@@ -65,8 +68,9 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 | S9 | | | | | |
 | S10 | | | | | |
 | S11 | | | | | |
+| S12 | | | | | |
 
-## Override-rate review (at each intake's end)
+## Override-rate review (periodic)
 
 Override rate = changed ÷ total. Candidate = 15+ observations, 3+ companies, rate under 15%, no "wrong" in last 10. S5 is never a candidate.
 
@@ -83,3 +87,4 @@ Override rate = changed ÷ total. Candidate = 15+ observations, 3+ companies, ra
 | S9 | | | | | | | | |
 | S10 | | | | | | | | |
 | S11 | | | | | | | | |
+| S12 | | | | | | | | |

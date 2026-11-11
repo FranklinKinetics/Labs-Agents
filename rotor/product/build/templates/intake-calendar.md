@@ -1,3 +1,5 @@
+> **RETIRED (2026-11-11).** "Intake" is retired as a term and as a way of working. The Rotor Distillation now has rolling starts, with no shared Mirror day and no intake calendar. Use `client-tracker.md` instead. This file is kept for the Beta's planning only and is not for any new Distillation client.
+
 # Intake calendar (template)
 
 **Brandon only.** This lists all three companies in an intake. Never share it with a client.

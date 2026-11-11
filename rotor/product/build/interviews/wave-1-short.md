@@ -1,5 +1,7 @@
 # Wave 1, short version (for diagnostic graduates)
 
+> **Beta only.** This file belongs to the Rotor Beta and to diagnostic graduates who go into it. The Rotor Distillation does not use it: it uses `wave-fit.md` and `wave-ceo.md`. Kept as it was.
+
 For Brandon. This replaces the standard wave 1 file in the Interviewer Pack for a company whose leaders took the alignment diagnostic first and agreed to share it. The Interviewer Pack itself is unchanged: the same core instructions, the same summary block, the same disclosure note (with the program line added at RP3). Only the wave file changes.
 
 **Wave 0 is the leader's diagnostic result.** The diagnostic asks the same questions as standard wave 1, so each leader has already answered most of them. The short version asks only what is still missing, so each session runs about 10 to 12 minutes instead of 20.
