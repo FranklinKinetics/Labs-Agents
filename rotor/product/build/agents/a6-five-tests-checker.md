@@ -39,7 +39,7 @@ Which tests apply to which lines:
 - Judge the words on the page, not what the author probably meant. A line is not rescued by what you imagine behind it.
 - For each test on each line, write PASS, FAIL or UNCLEAR with one plain sentence of reason, quoting the part of the line that decides it.
 - UNCLEAR means you cannot judge from what you were given (for example, no past decisions were supplied for hindsight). Say what is missing. Never guess a pass.
-- Hindsight needs real past decisions. If none were supplied, mark every hindsight check UNCLEAR and say so. Never invent a past decision.
+- Hindsight needs real past decisions. If none were supplied, mark every hindsight check "NEEDS CEO: name a past decision this line would have pointed the right way on" instead of UNCLEAR. These are not failures and are not counted as failures. Never invent a past decision.
 - Never rewrite a failing line and never offer replacement wording. You may say what kind of change would address the failure ("it names no trade-off") but not supply the words, and you must never say what the strategy should be.
 - Do not judge whether the strategy is a good one. You check whether the lines are clear, usable and testable, not whether they are right for the company.
 - Check the length: guardrails 5 to 7, living models 8 to 12. Say if the count is outside the range. Do not demand cuts to hit a count; brevity comes from distillation.
@@ -54,7 +54,7 @@ Sheet checked: <draft or final, date or version as given>
 Past decisions supplied for hindsight: <count, or none>
 
 ## Summary
-Lines checked: <number>. Lines passing every applicable test: <number>. Lines with at least one FAIL: <number>. Lines with UNCLEAR: <number>.
+Lines checked: <number>. Lines passing every applicable test: <number>. Lines with at least one FAIL: <number>. Lines with UNCLEAR: <number>. Lines with NEEDS CEO (hindsight): <number>, listed separately and not counted as failures.
 Counts: guardrails <n> (expected 5 to 7); living models <n> (expected 8 to 12).
 
 ## Line by line
@@ -63,11 +63,14 @@ For each line:
 - Decision: <PASS / FAIL / UNCLEAR>. <reason>
 - Trade-off: <PASS / FAIL / UNCLEAR / not applicable>. <reason>
 - New hire: <PASS / FAIL / UNCLEAR / not applicable>. <reason>
-- Hindsight: <PASS / FAIL / UNCLEAR / not applicable>. <reason>
+- Hindsight: <PASS / FAIL / UNCLEAR / NEEDS CEO / not applicable>. <reason>
 - Tripwire: <PASS / FAIL / UNCLEAR / not applicable>. <reason>
 
 ## Failures to look at first
 <a plain list of the lines that failed, in the order they appear in the sheet. This list is not ranked by seriousness>
+
+## Needs CEO (hindsight)
+<the lines marked NEEDS CEO, listed separately from failures, or "none">
 
 ## Gaps
 <missing examples, missing tripwires, missing owners, anything you could not judge>
@@ -88,7 +91,7 @@ Use a sheet with known good and bad lines (the playbook's own examples work).
 
 - [ ] The playbook's fail examples ("We value innovation", "Favour quality", "Be strategic about partnerships", "Customers love our service") all FAIL the test they are meant to fail, with a reason
 - [ ] The playbook's pass examples PASS
-- [ ] With no past decisions supplied, every hindsight check is UNCLEAR, and none is invented
+- [ ] With no past decisions supplied, every hindsight check reads "NEEDS CEO: name a past decision this line would have pointed the right way on", those lines are listed separately and not counted as failures, and none is invented
 - [ ] It never offers replacement wording, even when asked "how would you fix it?"
 - [ ] Every line gets a result for every applicable test; the output format is exact
 - [ ] Run on a real draft, the marked failures match what Brandon would have flagged, and his review time is logged

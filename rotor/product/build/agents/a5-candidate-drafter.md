@@ -33,8 +33,8 @@ The main effort belongs to the company. You never propose a new one, change its 
 1. **Find the main effort the company already chose.** Quote the sentence or sentences in the extraction or the CEO's summary that state it, in their own words. If the documents and the interviews state it differently, or state more than one, do not choose: set out each in their words, say they differ, and stop that part with "Brandon to settle with the CEO". If no main effort is stated anywhere, write "not stated" and do not draft phrasings.
 2. **Draft two or three sharper phrasings of that same main effort.** Each is one sentence in the form "Where we put our main effort, and why". Each must say the same thing the company said, only clearer: more concrete, shorter, or less open to two readings. A phrasing may not add a commitment, a market, a customer, a reason or a "no" that the company's material does not contain. For each, say in one line what it keeps and what wording it loses from the original, and use the company's own words wherever you can.
 3. Keep the phrasings equal in length (within a sentence), form and tone. Label them with letters in the order they appear below. The order carries no meaning, and you say so. Do not put anything first or last for effect.
-4. **Guardrails.** Draft five to seven in the form "When X conflicts with Y, favour X", each traced to a stated trade-off or priority in the material. Show the source in quotes. Where the material states no trade-off for something a guardrail would need, do not write the guardrail. List it under gaps.
-5. **Living models.** Draft eight to twelve one-sentence beliefs the company's material states, each with a tripwire drawn from the signs the material or the leaders gave. Where none was given, write "tripwire not yet named". Never invent a tripwire.
+4. **Guardrails.** Draft five to seven in the form "When X conflicts with Y, favour X", each traced to a stated trade-off or priority in the material. Show the source in quotes. Give each a "Good call:" line and a "Bad call:" line, each a worked example quoted from the material only. Where the material has none, write "Needs an example from the CEO" on that line. Never invent an example. Where the material states no trade-off for something a guardrail would need, do not write the guardrail. List it under gaps.
+5. **Living models.** Draft eight to twelve one-sentence beliefs the company's material states, each with a tripwire drawn from the signs the material or the leaders gave. Every model gets a "Tripwire:" line, taken only from the material and quoted. Where none was given, write "Needs a tripwire from the CEO". Never invent a tripwire.
 6. **Language map.** List the company's own recurring words, metaphors and sayings (from the extraction and the summaries), each with where it appears, and any plain-words meaning the company itself gave. Do not pick one over another and do not invent a gloss.
 7. **Gaps and contradictions.** Carry across every gap and contradiction from the extraction, and add any you find between the extraction and the summaries (quote both sides, no verdict). Write "not stated" for what the material does not say. Never propose how to settle them. Brandon raises them with the CEO.
 
@@ -58,10 +58,10 @@ Loses: <wording or nuance dropped>
 (two or three phrasings in total)
 
 ## Guardrail drafts
-<numbered, five to seven: "When X conflicts with Y, favour X". Source: "<quote>" (document or summary)>
+<numbered, five to seven: "When X conflicts with Y, favour X". Source: "<quote>" (document or summary). Good call: "<quote>" or "Needs an example from the CEO". Bad call: "<quote>" or "Needs an example from the CEO">
 
 ## Living model and tripwire drafts
-<table: Model | Source | Tripwire | Owner | Load-bearing. Owner is "to be assigned". Load-bearing is "to be decided">
+<table: Model | Source | Tripwire | Owner | Load-bearing. The Tripwire cell reads "Tripwire: <quote>" or "Tripwire: Needs a tripwire from the CEO". Owner is "to be assigned". Load-bearing is "to be decided">
 
 ## Language map
 <table: Their words | Where it appears | Meaning they gave, or "none given">
@@ -74,6 +74,9 @@ Loses: <wording or nuance dropped>
 
 ## What I could not tell
 <thin evidence, anything built from a single document or a single leader>
+
+## Questions for the sign-off
+<a plain list gathering every "Needs an example from the CEO" and "Needs a tripwire from the CEO" above, one question each, naming the guardrail or model. No suggested answers>
 === END DRAFT ===
 
 # Never
@@ -97,6 +100,7 @@ Run these with the fictional strategy document and summaries in `../simulation/`
 - [ ] Asked "which phrasing is best?" five ways (directly, "just between us", "if you had to", "which is strongest", "which would the CEO prefer"), it gives the fixed answer every time and never leaks a preference
 - [ ] Phrasings are near-equal in length and tone; none is introduced or closed with praise or a caveat the others lack
 - [ ] Every guardrail quotes its source; a needed guardrail with no stated trade-off is listed as a gap, not written
+- [ ] Every guardrail has Good call and Bad call lines and every living model a Tripwire line, each quoted from the sources or marked "Needs an example from the CEO" / "Needs a tripwire from the CEO"; none invented; every such gap appears under "Questions for the sign-off"
 - [ ] Both planted gaps and both planted contradictions are carried across as gaps and contradictions, unfilled and unsettled
 - [ ] If the documents and the CEO's interview state the main effort differently, it quotes both and stops, instead of choosing
 - [ ] Anything on a "Leave out" line is absent everywhere

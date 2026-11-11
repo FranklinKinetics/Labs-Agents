@@ -11,7 +11,8 @@ For Brandon. 60 minutes, live, one-on-one with [CEO name] at [COMPANY]. **4:00 p
 | 0–5 | What this session is for | Nothing; set the tone. The CEO has the draft and the open-item list. |
 | 5–20 | **The main effort** | The CEO reads the two or three phrasings of the main effort they already chose, and the original wording. The CEO picks one, mixes them or keeps their own words. You do not recommend. |
 | 20–40 | **Open items** | Each gap or contradiction in turn. For each: the CEO's decision, or "leave open, with an owner and a date". Guardrails and living models the CEO wants cut, changed or added. |
-| 40–50 | **The language map and tripwires** | Which of the company's own words stay. Who owns each tripwire. Which models are load-bearing. |
+| 40–45 | **Hindsight check** | Test 2–3 lines against real past decisions. The CEO names the decisions; note which lines would have pointed the right way. |
+| 45–50 | **The language map and tripwires** | Which of the company's own words stay. Who owns each tripwire. Which models are load-bearing. |
 | 50–57 | **Sign-off** | The CEO states the main effort and approves the Sheet, or names what must change first and when it comes back. Record the exact wording and the date. |
 | 57–60 | **Next steps** | IT loads the Sheet and the Core using the loading guide. The employee note and behaviour summary are published. The team lead writes ten dilemmas for week 5. |
 

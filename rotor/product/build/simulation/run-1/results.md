@@ -31,8 +31,8 @@ A2 put this side by side ("0 of 2 match") without recommending anything.
 | # | Finding | Fix | Status |
 |---|---|---|---|
 | F1 | The fit wave's question "is it written down?" has no field in the fixed summary block (both fit runs) | Moved to Brandon's discovery call; wave-fit trimmed; checklist updated | **Fixed** |
-| F2 | A6 failed 20 of 23 draft lines, mostly on **new hire** (12) and **tripwire** (8). A5's draft lines lack worked examples and concrete tripwires, because the documents rarely contain them | A5 drafts each guardrail with good-call and bad-call slots, and each model with a tripwire. Where the sources have none, it writes "needs an example from the CEO" instead of leaving the line bare. Those become sign-off questions | Proposed (Mack) |
-| F3 | A6 marks every **hindsight** test "unclear": it has no past decisions to test against | A6 labels hindsight "needs CEO: name a past decision", and the sign-off agenda gets 2–3 hindsight checks | Proposed (Mack) |
+| F2 | A6 failed 20 of 23 draft lines, mostly on **new hire** (12) and **tripwire** (8). A5's draft lines lack worked examples and concrete tripwires, because the documents rarely contain them | A5 drafts each guardrail with good-call and bad-call slots, and each model with a tripwire. Where the sources have none, it writes "needs an example from the CEO" instead of leaving the line bare. Those become sign-off questions | **Fixed** (Mack, 2026-11-11) |
+| F3 | A6 marks every **hindsight** test "unclear": it has no past decisions to test against | A6 labels hindsight "needs CEO: name a past decision", and the sign-off agenda gets 2–3 hindsight checks | **Fixed** (Mack, 2026-11-11) |
 | F4 | A5's phrasing C leans on one reading of an ambiguous line in the plan ("This is the one…"). A5 flagged this itself | Correct behaviour. Keep A5's rule to flag interpretive risk | No change |
 
 ## What only Brandon can do (timed against rp2b budgets)
