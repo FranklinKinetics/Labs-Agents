@@ -4,7 +4,7 @@ For Brandon to send, and for the person at [COMPANY] who looks after IT and AI t
 
 **What this guide covers.** How to load two files into the AI tool your beta team already uses, so the AI works from them in every chat:
 1. **The Rotor Sheet:** your signed-off strategy, written in your own words. Dated version: [SHEET VERSION AND DATE].
-2. **The Rotor Core:** Brandon's licensed set of reasoning models. It is the file Brandon sends, kept apart from the Sheet. This guide does not describe what is in it. Do not edit it, copy it into other documents or share it outside the team's project.
+2. **The Rotor Core:** licensed material from Brandon. It is the file Brandon sends, kept apart from the Sheet. This guide does not describe what is in it. Do not edit it, copy it into other documents or share it outside the team's project.
 
 **Time.** 30 to 60 minutes for the person loading. Brandon then checks the setup and finalises the two notes below (about 45 minutes of his time).
 
@@ -46,7 +46,7 @@ Both go to the beta team, and on the intranet or wherever staff will see them, b
 >
 > From [DATE], [TEAM] uses an AI project that carries [COMPANY]'s agreed strategy. This note says what it is and what it does and does not do.
 >
-> **What it carries.** Two things: [COMPANY]'s Rotor Sheet, which is our strategy in our own words, and a licensed set of reasoning models. Everyone can read the Rotor Sheet. A summary of how the AI behaves is below.
+> **What it carries.** Two things: [COMPANY]'s Rotor Sheet, which is our strategy in our own words, and licensed material from Brandon. Everyone can read the Rotor Sheet. A summary of how the AI behaves is below.
 >
 > **What it logs.** [Plain statement of what the platform records, who can see it, and for how long. For example: "Your chats are kept in your own account under our existing agreement with [VENDOR]. [Administrators / nobody] can read them. [Describe retention.]" Fill in from the IT checklist.]
 >

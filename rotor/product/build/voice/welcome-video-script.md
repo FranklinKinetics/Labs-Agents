@@ -28,7 +28,7 @@ You've already done the hard part. Your leaders agree on where [company] is goin
 
 [Direction: hold up or point to the pack.]
 
-Here's what's in the pack. A short video for your leaders on how this works. A note about the interviews: who sees what. A one-page on how the AI will be set up. And a guide for IT, so they can plan the time to load the sheet around week five.
+Here's what's in the pack. A short video for your leaders on how this works. A note about the interviews: who sees what. A one-page on how the AI will be set up. And a checklist for IT, so they can plan the time to load the sheet around week five.
 
 Before we meet on [kickoff date] at [time], three things.
 

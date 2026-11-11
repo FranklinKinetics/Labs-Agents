@@ -116,12 +116,11 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 
 > **You'd be among the first.**
 >
-> I want to be straight with you before you decide. The Rotor Distillation is new. The method behind it draws on the Rotor Beta and on well-tested work on strategy and decision-making, but this format hasn't run with a client before. Yours would be among the first companies to take it.
+> I want to be straight with you before you decide. The Rotor Distillation is new. The method behind it draws on the Rotor Beta and the Rotor Framework, but this format hasn't run with a client before. Yours would be among the first companies to take it.
 >
 > **What that means for you**
 > - Everything on the offer sheet still applies: the fit check, the three calls, the reply standard, the data rules and the written deletion at the end.
 > - Some of the materials will change as we go. When something doesn't work, I'll fix it and tell you what I changed.
-> - I've kept extra room in my calendar for these first companies.
 > - I track my own time on every step. That's how I find out what the work really takes, and it's my problem, not yours.
 >
 > **What I'd ask in return**

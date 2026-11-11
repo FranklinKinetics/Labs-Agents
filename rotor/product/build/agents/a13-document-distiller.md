@@ -4,7 +4,7 @@ For Brandon. Part of the Distillation's agent packs, kept beside the Interviewer
 
 | | |
 |---|---|
-| **Purpose** | Reads the strategy material the CEO already has (plan, EOS or OKR pages, offsite notes, values, sayings people repeat) and extracts what it **says**: stated priorities, trade-offs, beliefs, measures and recurring language, quoted in the documents' own words. It flags gaps and contradictions. It never fills a gap, never recommends a strategy and never leaves the CEO's own AI. |
+| **Purpose** | Reads the strategy material the CEO already has (plan, EOS or OKR pages, offsite notes, values, sayings people repeat) and extracts what it **says**: stated priorities, trade-offs, beliefs, measures and recurring language, quoted in the documents' own words. It flags gaps and contradictions. It never fills a gap, never recommends a strategy and the documents never leave the CEO's own AI. |
 | **When to run** | Week 0, after signing and after the disclosure note is sent. Run again only if the CEO adds material. |
 | **Runs in** | **The client's own AI**, in a chat or project the CEO controls (the same platform as the interviewer, but its own project so it is not mixed with the leaders' interviews). |
 | **Input** | The documents, pasted by the CEO. The CEO removes or marks anything confidential or excluded first. |

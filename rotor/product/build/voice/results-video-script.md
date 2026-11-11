@@ -31,7 +31,7 @@ A reminder of the setup. The [beta team] worked with the Rotor Sheet in their AI
 
 [Direction: one chart. The team's ratings before go-live and in use.]
 
-[IF CLEARLY GOOD] On the ten test dilemmas, the team rated [share] of the AI's answers as right, rather than too pushy, too quiet or wrong. In real use, [share]. That's one team over six weeks. It's a real signal, not proof.
+[IF CLEARLY GOOD] On the ten test dilemmas, the team rated [share] of the AI's answers as right, rather than too pushy, too quiet or wrong. In real use, [share]. That's one team over six weeks. It's an early, indicative signal, not proof.
 
 [IF MIXED] Some of it worked and some didn't. On [type of decision], the team rated the guidance right [share] of the time. On [type of decision], [share]. My best guess at why is [reason]. That's a guess, and the review is where we test it.
 

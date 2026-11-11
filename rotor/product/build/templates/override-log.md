@@ -23,7 +23,7 @@ date | company code (e.g. CO-1) | step (S1–S12) | change: none · cut · added
 | S2 | A2 | Wave syntheses |
 | S3 | A3 | Wave 2 follow-ups and wave 3 file |
 | S4 | A4 | Divergence summary and language harvest |
-| S5 | A5 | Schwerpunkt candidates, guardrails, living models, tripwires |
+| S5 | A5 | Distillation: Rotor Sheet drafts (phrasings, guardrails, models). Beta: schwerpunkt candidates, guardrails, living models, tripwires |
 | S6 | A6 | Five-tests mark-up |
 | S7 | A7 | CEO video script and guardrail clips |
 | S8 | A8 | Red-team annotations |
