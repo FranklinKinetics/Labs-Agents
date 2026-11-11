@@ -113,3 +113,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-11 | Up to two Rotor Beta clients a year (internal planning rule; never stated in client copy). | Claude Code |
 | 2026-11-11 | Ontology terms "intake", "Mirror day" and "waiting room" retired. "Wave 0" and "override log" stay. | Claude Code |
 | 2026-11-11 | RP3 rework passed. Client copy never contrasts the Distillation and the Beta on how much of Brandon each includes; the ladder's "me in the room" sentence is cut. | Claude Code |
+| 2026-11-11 | RP5 passed: the website and playbook change lists in `rotor/product/story/` are approved. Brandon pastes them into the Claude Doc masters; the repo copies are then synced. | Claude Code |
+| 2026-11-11 | After the Distillation, the client keeps the Rotor Sheet. The Rotor Core is licensed for the engagement; the licence ends when the work ends unless renewed. | Claude Code |
+| 2026-11-11 | RP6 (Beta decision packet) waits for evidence: the simulation dry run and the first two Distillation clients. | Claude Code |

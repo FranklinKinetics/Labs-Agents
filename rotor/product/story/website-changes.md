@@ -225,7 +225,7 @@ Fenn, 2026-11-11. **Redone for the reshaped Rotor Distillation** (the AI side), 
   >
   > At the review you decide: keep it, extend it to more teams, set up a quarterly review of the sheet, or stop. There is no obligation to continue, and you keep the Rotor Sheet. If disagreements surfaced during the live weeks, the Rotor Beta is the place to settle them.
   >
-  > [NOTE: Confirm what happens to the AI setup after the Distillation, as for the Beta, since the Rotor Core is licensed.]
+  > [NOTE, decided 2026-11-11: the client keeps the Rotor Sheet. The Rotor Core is licensed; its licence covers use during the engagement and ends when the work ends unless renewed.]
   >
   > Button: **Book a 30-minute conversation**
 - **Why:** spec §2, week 12. Mirrors the Beta's "If it doesn't work" without new terms.

@@ -22,6 +22,7 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 | 2026-11-11 | Rotor Product (track) | RP4 package | pass with changes | Name chosen by Brandon (Rotor Distillation; Rotor Term rejected); Fenn's three voice lines rewritten (A A A); "one a year" removed from client copy; Sol's diagnostic price withdrawn, CAD $790 confirmed; five tests cleared to publish. |
 | 2026-11-11 | Rotor Product (track) | RP2 re-run (Distillation reshaped to the AI side) | pass | Brandon approved all three asks: the A13 digest is sent to Brandon; up to 2 Betas a year; intake, Mirror day and waiting room retired. |
 | 2026-11-11 | Rotor Product (track) | RP3 build rework (reshaped Distillation) | pass | Beta ladder sentence comparing how much of Brandon was cut (option A). |
+| 2026-11-11 | Rotor Product (track) | RP5 story and clearance (redo) | pass | Vera cleared. The client keeps the Rotor Sheet; the Rotor Core licence ends with the engagement unless renewed. |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |
