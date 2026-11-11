@@ -16,7 +16,9 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 | **the Rotor Quarter** | Names the heart of it: one team, one live quarter, measured against a comparison team. Concrete and businesslike. | The whole thing runs about five months, not three, so the name undersells the build. The Beta also has a live quarter, so it doesn't tell the two rungs apart. |
 | **the Rotor Season** | Borrows from the grove imagery already on the site: a set start, a growing stretch, a harvest at the review. Warm, and memorable. | Soft. A CEO may hear "seasonal" or "once a year", and it says nothing about what they get. |
 
-**Recommendation: the Rotor Term.** It explains fixed start dates as a feature of how the work is organized, not as a sales device, and it doesn't make the Beta sound like the "real" one. Used in a sentence: *"The next Rotor Term starts in January."*
+> **Decided 2026-11-11 (RP4): the program is called the Rotor Distillation.** "Rotor Term" was rejected. The options below are kept for the record.
+
+**Original recommendation: the Rotor Term.** It explains fixed start dates as a feature of how the work is organized, not as a sales device, and it doesn't make the Beta sound like the "real" one. Used in a sentence: *"The next Rotor Term starts in January."*
 
 *Avoided on purpose:* anything with "pilot", "flight", "mission", "squadron", "wing" or "cohort" (cohort implies a group that meets).
 
@@ -32,21 +34,21 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > **The alignment diagnostic** shows where your leaders agree and where they don't. You run it yourselves; it's useful even if you stop there.
 >
-> **The Rotor Term** is the full build: each leader heard on their own time, the hard calls settled at the Mirror, then one team working from it for a quarter. I read every interview and make every judgment. It starts on set dates.
+> **The Rotor Distillation** is the full build: each leader heard on their own time, the hard calls settled at the Mirror, then one team working from it for a quarter. I read every interview and make every judgment. It starts on set dates.
 >
 > **The Rotor Beta** is the same journey with me in the room for every session, and a timetable built around your company instead of a set start date.
 
 ---
 
-## 3. Offer sheet: the Rotor Term
+## 3. Offer sheet: the Rotor Distillation
 
 *What Brandon sends after a discovery call. One page. Brackets are for Brandon to fill.*
 
-> # The Rotor Term
+> # The Rotor Distillation
 > **Franklin Kinetics · for [COMPANY] · after our conversation on [DATE]**
 >
 > ## What it is
-> Your strategy is written down. It isn't yet steering the small decisions your people make every day, with or without an AI tool at their elbow. The Rotor Term turns it into one main effort, clear rules for the trade-offs you'll accept, and the beliefs your plan rests on, each with a warning sign. Then it puts that strategy where decisions happen: in your people's heads and in the AI tools they already use. One team works from it for a full quarter, and we measure what changed.
+> Your strategy is written down. It isn't yet steering the small decisions your people make every day, with or without an AI tool at their elbow. The Rotor Distillation turns it into one main effort, clear rules for the trade-offs you'll accept, and the beliefs your plan rests on, each with a warning sign. Then it puts that strategy where decisions happen: in your people's heads and in the AI tools they already use. One team works from it for a full quarter, and we measure what changed.
 >
 > ## Who it's for
 > - Owner-led or founder-led companies of roughly 20 to 200 people.
@@ -105,7 +107,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 
 > **You'd be on the first run.**
 >
-> I want to be straight with you before you decide. The Rotor Term is new. The method behind it draws on the Rotor Beta and on well-tested work on strategy and decision-making, but this format has not run with a client before. Yours would be among the first start dates.
+> I want to be straight with you before you decide. The Rotor Distillation is new. The method behind it draws on the Rotor Beta and on well-tested work on strategy and decision-making, but this format has not run with a client before. Yours would be among the first start dates.
 >
 > **What that means for you**
 > - Everything on the offer sheet still applies: the three live moments, the reply standard, the data rules and the written deletion at the end.
@@ -129,11 +131,11 @@ Page names from `rotor/website-copy.md`.
 2. **Home, section 4 ("What the Rotor Beta delivers"):** written for the Beta alone; needs the ladder.
 3. **Home, section 11 (closing call to action):** repeats the Beta scarcity line.
 4. **How It Works, intro and "At a glance":** "about 18 weeks", the Fee row, and "one pilot team". "Pilot team" appears again in the time table and the phases; it becomes "beta team" everywhere.
-5. **How It Works, "Three meetings":** the two-working-day reply standard is the Beta's; the Term's is three.
-6. **How It Works, "Your data":** "Franklin Kinetics does not host your strategy data" is no longer true for the Term (drafting runs in Brandon's own account). Needs the RP2/RP3 wording.
+5. **How It Works, "Three meetings":** the two-working-day reply standard is the Beta's; the Distillation's is three.
+6. **How It Works, "Your data":** "Franklin Kinetics does not host your strategy data" is no longer true for the Distillation (drafting runs in Brandon's own account). Needs the RP2/RP3 wording.
 7. **FAQ, "Is our strategy safe?":** same problem ("never hosts your strategy data").
 8. **FAQ, "How much of our leaders' time does this take?":** Beta-only.
 9. **Start a conversation, "What happens next" step 3:** describes only the Beta, with "fixed fee". Needs the ladder and the next start date. The diagnostic link (decided 2026-11-10) goes here and on How It Works.
-10. **How It Works, "After the Beta":** needs an equivalent for the Term.
+10. **How It Works, "After the Beta":** needs an equivalent for the Distillation.
 11. **SEO titles and descriptions** for Home, How It Works and Start a conversation.
-12. **For Brandon's decision, not the crew's:** the About teaser, the About page, the FAQ "first officer" answer and "Why it works: commander's intent" lean on flying and military experience, which guardrail 1 keeps out of everything the crew writes. RP5 copy for the Term should not lean on them.
+12. **For Brandon's decision, not the crew's:** the About teaser, the About page, the FAQ "first officer" answer and "Why it works: commander's intent" lean on flying and military experience, which guardrail 1 keeps out of everything the crew writes. RP5 copy for the Distillation should not lean on them.

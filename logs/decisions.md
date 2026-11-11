@@ -101,3 +101,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-11 | The five tests (decision, trade-off, new hire, hindsight, tripwire) may be published. The five-tests checker goes ahead as a free goodwill tool, through the Lab lifecycle. | Claude Code |
 | 2026-11-11 | "Rotor Term" is rejected as the program's name; Fenn proposes new names. | Claude Code |
 | 2026-11-11 | Merged the diagnostic branch (`claude/wizardly-edison-rzb2c9`) into main, with Brandon's approval. | Claude Code |
+| 2026-11-11 | The program's name: **the Rotor Distillation** (Brandon's wording). | Claude Code |
+| 2026-11-11 | Rotor Alignment Diagnostic price confirmed: CAD $790 flat per company. | Claude Code |
+| 2026-11-11 | RP4 passed: package. The Lab side is the diagnostic (CAD $790, priced at its own gates) and the five-tests checker (a free goodwill tool, through the Lab lifecycle). The consulting side is the Rotor Distillation and the Rotor Beta, both unpriced, offered with Fenn's offer sheet, ladder and founding-intake wording (`rotor/product/package/offer.md`). | Claude Code |
