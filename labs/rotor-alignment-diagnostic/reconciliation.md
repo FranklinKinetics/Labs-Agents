@@ -242,3 +242,9 @@ Not asked, because you already decided: the price (CAD $790, 2026-11-11), the se
 - **Held reports.** The build README asks how long a held report's summaries may wait (`build/README.md`, "Brandon decides", item 2). The no-hosting rule makes a limit more worth having. Still Brandon's call at G3.
 - **GST/HST.** Still open from 2026-11-10. Check with the accountant before the page goes live.
 - **Guardrail numbering.** `canon/guardrails.md` has two rules numbered 8 (already in the friction log). This memo names them in words to avoid confusion.
+
+---
+
+## Outcome · 2026-11-11
+
+**Agreed.** Brandon accepted every recommended answer. The five must-resolve fixes are applied before building resumes.
