@@ -1,3 +1,5 @@
+> **Beta only — not used in the Distillation.**
+
 # Pre-Mirror video script (T7)
 
 **Purpose:** tell the leadership team what the Mirror is for, what is already agreed, what the room must settle, and how to come ready, so the two hours go to the hard calls.

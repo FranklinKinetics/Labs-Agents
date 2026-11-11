@@ -1,13 +1,13 @@
-# Welcome video script (T2)
+# Welcome video script (T2, Rotor Distillation)
 
-**Purpose:** a personal welcome to the CEO, sent with the welcome pack, so being heard starts before the first meeting.
-**Target length:** about 3 minutes (roughly 400 words spoken).
-**Adapt time:** under 10 minutes. Fill the brackets from your discovery-call notes, then record on your phone in one take.
+**Purpose:** a personal welcome to the CEO, sent with the welcome pack, so the work starts with you listening, not with a contract.
+**Target length:** about 2.5 minutes (roughly 380 words spoken).
+**Adapt time:** under 10 minutes. Fill the brackets from your discovery-call and fit-check notes, then record on your phone in one take.
 
 **Fill before recording**
 - [CEO first name] · [company]
 - [one specific thing from the discovery call, in their words if you wrote them down]
-- [kickoff date and time] · [Mirror date] · [their AI platform]
+- [kickoff date and time] · [their AI platform] · [what their strategy lives in: EOS, OKRs, a plan]
 - Only use what they actually said. If your notes are thin, use the shorter option in that block.
 
 ---
@@ -22,25 +22,23 @@ Thank you for signing on. I wanted you to hear that from me, not from a contract
 
 When we talked [last week / on (date)], you said [specific thing from the discovery call]. That stuck with me. [Optional, one sentence: why it stuck, or what you want to understand better about it.]
 
-[Shorter option if your notes are thin: "When we talked, what came through was how much you care about [what they care about]. I want to understand that better."]
+[Shorter option if your notes are thin: "When we talked, what came through was how much you care about (what they care about). I want to understand that better."]
 
-I'm not going to try to solve it in a video. I'm going to listen first. You know [company] far better than I do, and so do your leaders.
+You've already done the hard part. Your leaders agree on where [company] is going. My job is to get that strategy out of [your EOS pages / your OKRs / the plan] and into the AI tools your people use every day. The main effort stays yours. I'll help you say it more sharply, and you sign off every line.
 
 [Direction: hold up or point to the pack.]
 
-Here's what's in the pack. A short video for your whole leadership team on how the program runs. A checklist for IT, so the interviewer is set up on [platform] and tested before anyone uses it. A note for your leaders about the interviews: who sees what. And a one-page on governance, so you can see exactly how the AI will be set up.
+Here's what's in the pack. A short video for your leaders on how this works. A note about the interviews: who sees what. A one-page on how the AI will be set up. And a guide for IT, so they can plan the time to load the sheet around week five.
 
 Before we meet on [kickoff date] at [time], three things.
 
-One: pass the pack to your leadership team, and send the checklist to IT. I'll run a test session once they're done, so nobody's first interview is the one that finds the bugs.
+One: gather your strategy material. [Your plan / your EOS or OKR pages], offsite notes, values, and the sayings people actually repeat. Paste them into the reading guide in your own [platform], and email me the digest it produces. Just the digest. Your documents stay with you.
 
-Two: start thinking about two teams. One will be the beta team, which works with the strategy and the AI for a quarter. The other is the comparison team, which carries on as usual. We'll choose together at the kickoff. A good beta team makes real decisions every week, and has a lead who'll tell you plainly when something isn't working.
+Two: think about one team. At least five people, who make real decisions every week, with a lead who'll tell you plainly when something isn't working. They'll work with the sheet for six weeks, and the lead writes ten real dilemmas to test it against.
 
-Three: gather what you've already got. Plans, board decks, offsite notes, [OKRs / EOS documents / your planning documents]. And the company's own language: the stories people retell, the sayings that get repeated. Those matter more than they look.
+Three: think about what's off limits. Acquisitions, people decisions, anything unannounced. Whatever you name stays out of everything.
 
-The Mirror is on [Mirror date]. It's fixed. Please protect it for the whole leadership team.
-
-The kickoff is forty-five minutes. We'll settle the scope, what we'll measure, anything that's off limits, and how I'll answer your questions. Until then, just reply to any message. You'll hear back within three working days.
+The kickoff is forty-five minutes. We'll settle the scope, which team, which AI tools, and what we'll measure. Until then, just reply to any message. You'll hear back within three working days.
 
 [Optional personal close, one line, only if true: something they mentioned, e.g. a busy season ending, a new hire starting.]
 
