@@ -240,7 +240,8 @@ def test_not_enough_email_mentions_restart_deadline_and_no_refund():
 
 def test_checkin_placeholder_address_is_flagged_by_config():
     from diagnostic.config import Config
-    assert any("sender_address" in p for p in Config().problems())
+    from diagnostic.config import PLACEHOLDER_ADDRESS
+    assert any("sender_address" in p for p in Config(sender_address=PLACEHOLDER_ADDRESS).problems())
     assert not [p for p in Config(sender_address="1 Example St", app_base_url="https://x.example").problems()]
 
 

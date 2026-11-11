@@ -43,7 +43,7 @@ flowchart TD
   S7 -- yes --> S8["8 · Agent writes the report<br/>automatic quality checks"]
   S7 -- no --> R["No report, no refund<br/>blocks deleted<br/>purchase stays valid"]
   R -->|"CEO restarts later<br/>with more leaders"| S4
-  S8 -- pass --> S9["9 · Report emailed to CEO<br/>blocks deleted · ends with one offer: the Beta"]
+  S8 -- pass --> S9["9 · Report emailed to CEO<br/>blocks deleted · ends with one next step: a conversation"]
   S8 -- fail --> X["Held for Brandon<br/>(exception)"]
   X --> S9
   S9 --> C14["Check-in email at 14 days"]
@@ -67,9 +67,9 @@ The pink box is the only place Brandon might touch a sale.
 | 4 | **Invites** | CEO sends the invitation to 3–8 leaders, including themself. **Franklin Kinetics never emails leaders.** | CEO | n.a. |
 | 5 | **Interview** | Each leader takes one ~20 min interview, by voice or text, on their own time. The interviewer uses wave 1 questions unchanged and ends with the fixed-format summary block. The leader reads it and can edit or remove anything. | Leader | n.a. |
 | 6 | **Submits** | Leader pastes the block into the drop-box. They read the disclosure note and tick "I understand unattributed quotes may appear" (required). The drop-box checks the format, **strips name and role before storing**, and shows "Received." No leader email is collected. | Leader, then system | Yes |
-| 7 | **Window** | The window is open 21 days from purchase. The CEO's status page shows **the count against the plan** ("4 of 6 received"), never who or what. The CEO can close early once 3 are in, or extend once by 14 days. Under 3 at close: no report, no refund, blocks deleted, CEO told by email. **The purchase stays valid:** the CEO can restart once, within 12 months of purchase, from the status page, with a fresh 21-day window, when more leaders can take part. Leaders who already took part paste their saved block again (or retake the interview). | System | Yes |
+| 7 | **Window** | The window is open 21 days from purchase. The CEO's status page shows **the count against the plan** ("4 of 6 received"), never who or what. (Amended 2026-11-11 after the reconciliation with Rotor Product.) The drop-box takes up to 8 summaries whatever was planned. When more arrive than planned the page reads "6 received (5 planned)". The CEO can close early once 3 are in, or extend once by 14 days. Under 3 at close: no report, no refund, blocks deleted, CEO told by email. **The purchase stays valid:** the CEO can restart once, within 12 months of purchase, from the status page, with a fresh 21-day window, when more leaders can take part. Leaders who already took part paste their saved block again (or retake the interview). | System | Yes |
 | 8 | **Report** | The synthesis agent (deliverable 4) writes the report. Automatic checks before sending: 3+ blocks; no names or roles; quotes unattributed; no recommendation of a main effort; no ROI or results language; every section present. A failed check holds the report for Brandon. | Agent | Yes |
-| 9 | **Delivery and offer** | Report emailed to the CEO (PDF). Blocks and name fingerprints deleted at once; the deletion is logged (date and count only). The report is kept only if the CEO consented. The report ends with one offer: help settling the open questions, the Rotor Beta, via Start a conversation. One plain check-in email to the CEO 14 days later (with sender details and an unsubscribe link, as Canada's anti-spam law requires). | System | Yes |
+| 9 | **Delivery and offer** | Report emailed to the CEO (PDF). Blocks and name fingerprints deleted at once; the deletion is logged (date and count only). The report is kept only if the CEO consented. The report ends with one offer: help settling the open questions, the Rotor Beta, via Start a conversation. (Amended 2026-11-11 after the reconciliation with Rotor Product.) Section 9 keeps that Beta paragraph and adds one sentence on the Rotor Distillation, still with one link and no verdict on which fits. One plain check-in email to the CEO 14 days later (with sender details and an unsubscribe link, as Canada's anti-spam law requires). | System | Yes |
 
 ## 3. What Brandon touches
 
@@ -138,5 +138,5 @@ Read 2026-11-09 from `rotor/interviewer-pack.md`. Carried forward, not decided h
 
 ## 9. Gate outcome so far · 2026-11-09
 
-Answers recorded: Squarespace. No refund if under 3 leaders; one restart within 12 months. Check-in email at 14 days. Status page shows the planned number. Franklin Kinetics is a corporation. No insurance quote.
+Answers recorded: Squarespace. No refund if under 3 leaders; one restart within 12 months. Check-in email at 14 days. Status page shows the planned number. (Amended 2026-11-11 after the reconciliation with Rotor Product.) With extra leaders it reads "6 received (5 planned)". Franklin Kinetics is a corporation. No insurance quote.
 **Gate 2: pass, 2026-11-10.**

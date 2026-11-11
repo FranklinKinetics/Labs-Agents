@@ -16,7 +16,7 @@ Recommendation: approve. Three stages: (1) bench tests with invented
   blocks, (2) a solo run: Brandon plays 3-5 leaders on real platforms,
   (3) the first one or two paid sales run by hand, then automate. Four checks
   you asked for each have a pass line: 3-leader minimum, anonymity,
-  fixed format, Beta handoff.
+  fixed format, Beta handoff. (Amended 2026-11-11 after the reconciliation with Rotor Product.) Check D is now "The handoff": section 9 names the Beta and the Rotor Distillation.
 Before the first sale: crew-drafted privacy notice and terms (no
   lawyer, decision 2026-11-10).
 Four Proofs check: Speed: Brandon's hours measured, not guessed ·
@@ -73,7 +73,7 @@ Run by Mack, checked by Vera. Uses only invented blocks: the five Larchmere bloc
 | Force the agent to run on 2 blocks (bypass the drop-box count) | Agent outputs exactly `INSUFFICIENT: 2 valid blocks` and nothing else |
 | 3 valid blocks plus 1 malformed | Report runs on 3; the malformed one never reached storage |
 | Restart after a failed window | New 21-day window opens; restart allowed once; a second restart is refused; refused after 12 months |
-| Status page | Shows "2 of 5 received" and nothing else: no names, no times, no content |
+| Status page | Shows "2 of 5 received" and nothing else: no names, no times, no content. (Amended 2026-11-11 after the reconciliation with Rotor Product.) When more arrive than planned it reads "6 received (5 planned)"; the drop-box takes up to 8 whatever was planned, and refuses the ninth. |
 
 ### Check B · Anonymity
 
@@ -85,6 +85,15 @@ Run by Mack, checked by Vera. Uses only invented blocks: the five Larchmere bloc
 | Counting | Only "all, most, some, a few, one leader" about people. "All" only where every block supports it. |
 | Guess test (human) | Vera and one other reader get the 5 blocks *with* names and the report. They try to match each quote to a person. Any quote both match correctly is reviewed; if it's the "Main effort" list, that's accepted (decision 2026-11-10); anything else is trimmed and the rule tightened. |
 
+### Check B2 · An aligned team (Amended 2026-11-11 after the reconciliation with Rotor Product.)
+
+An invented, broadly aligned company, Tamarack Supply (FICTIONAL), is a second bench set: five blocks and a canned aligned report (`build/tests/aligned.py`).
+
+| Test | Pass if |
+|---|---|
+| Aligned report through the automatic checks | Passes every check, is delivered, and is not held. It shows the shared main effort, says "Your views don't split here" where there is nothing, invents no split, and still fills every heading. A short report is a warning, not a hold. |
+| Reading test (human, with the real AI at Stage 2) | Run Brandon's fit-check list (`rotor/product/build/checklists/review-checklists.md`, lines 7 to 13) on the Larchmere report and on the aligned one. Expect "Beta" for Larchmere and "Distillation is possible" for the aligned one. Not yet tried on any report. |
+
 ### Check C · Fixed format
 
 | Test | Pass if |
@@ -95,11 +104,13 @@ Run by Mack, checked by Vera. Uses only invented blocks: the five Larchmere bloc
 | Banned words | Plain word search finds none of: pilot, schwerpunkt, ROI, alignment score |
 | Interviewer checklist | All 14 items in `03-interviewer.md` section 6 pass on each platform, including "asks nine questions, never a tenth" |
 
-### Check D · The Beta handoff
+### Check D · The handoff (Amended 2026-11-11 after the reconciliation with Rotor Product.)
+
+The heading was "The Beta handoff". Section 9 now names both ways forward.
 
 | Test | Pass if |
 |---|---|
-| Report section 9 | Text matches the approved wording exactly; Start a conversation link works |
+| Report section 9 | Text matches the approved wording exactly: the Beta paragraph word for word, then "If there's little to settle, the Rotor Distillation takes your strategy into your AI tools.", then one Start a conversation link (`https://www.franklinkinetics.com/contact`). A report missing the Distillation sentence is held. (Amended 2026-11-11 after the reconciliation with Rotor Product.) |
 | No price | No price for anything in the report, the How It Works block or the Start a conversation link. $790 appears only on the diagnostic's page. |
 | How It Works block | "See the diagnostic" goes to `/alignment-diagnostic` |
 | Start a conversation | The diagnostic link works; the form offers "I've done the alignment diagnostic" |
@@ -112,6 +123,7 @@ Run by Mack, checked by Vera. Uses only invented blocks: the five Larchmere bloc
 - **Report kept only with consent:** with the checkout box unticked, the report is deleted at delivery; ticked, it's kept.
 - **Quality-check hold:** a report that fails any check is held, Brandon is alerted, and nothing goes to the CEO.
 - **Quebec:** a Quebec head office can't complete checkout.
+- **Held reports wait:** summaries of a held report stay until Brandon acts, with no time limit; a year passes and nothing is deleted. (Amended 2026-11-11 after the reconciliation with Rotor Product.)
 
 ## 3. Stage 2 · Solo run
 

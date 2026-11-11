@@ -3,7 +3,7 @@
 # files are inputs to the Lab lifecycle; the Lab itself starts at G1/G2.
 name: "Rotor Alignment Diagnostic"
 slug: "rotor-alignment-diagnostic"
-status: building     # paused 2026-11-11: reconciling with Rotor Product (reconciliation.md); no building until Brandon agrees
+status: building     # reconciliation agreed and applied 2026-11-11 (168 tests pass); next: Step 2, accounts
 killed_reason: ""
 
 audience:
@@ -67,3 +67,4 @@ release:
   store_url: ""
 
 signals: []
+# 2026-11-11: the report now names both ways forward (Rotor Beta and Rotor Distillation); see reconciliation.md.

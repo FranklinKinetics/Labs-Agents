@@ -30,7 +30,7 @@ Reply: pass · pass with changes · hold
 
 ## 1. What it is
 
-A self-serve diagnostic. Each of 3–8 leaders takes one ~20-minute AI interview in their company's own AI platform. An agent combines their summaries into a report on where the leadership team agrees, where it differs, and what it must settle. The report ends with one offer: the Rotor Beta.
+A self-serve diagnostic. Each of 3–8 leaders takes one ~20-minute AI interview in their company's own AI platform. An agent combines their summaries into a report on where the leadership team agrees, where it differs, and what it must settle. The report ends with one offer: the Rotor Beta. (Amended 2026-11-11: the report now names both ways forward, the Rotor Beta and the Rotor Distillation, with one link and no verdict.)
 
 ## 2. Who it's for, and the job
 

@@ -105,6 +105,7 @@ Nothing here blocks the build. Each is parked at the gate where it belongs.
 | # | Where | What disagrees | Decision that governs | Recommended resolution |
 |---|---|---|---|---|
 | **W1** | `brief.md:33`, `02-product-spec.md:46, 72`, `04:19`, `08-test-plan.md:19, 98`, `lab.yaml:19`, `labs/sparks.md` | They describe the report as ending in "one offer: the Beta", or "useful without the Beta". | 2026-11-11 "sorts buyers between them". | After M1, add a dated note to each. Do not rewrite gate-passed files. |
+
 | **W2** | `canon/ontology.md:46` | Wave 0 is defined as the diagnostic's "results". It should say "report". Also, "Rotor Distillation", "Rotor Sheet" and "fit check" are used everywhere but are not in the ontology. | 2026-11-11: "Wave 0" stays. The ontology says not to coin terms silently. | Ines proposes the three terms and the one-word fix at the next gate. |
 | **W3** | `rotor/product/package/price-read.md:5, 34, 44, 64`; `labs/sparks.md` (five-tests row); `build/agents/a6-five-tests-checker.md:13` | Stale notes: "he recalls 699", "CAD 199", "waiting room", "the diagnostic's own free layer", and "Brandon to confirm the five tests". | 2026-11-11: price confirmed CAD $790; five tests may be published; "waiting room" retired. 2026-11-10: no free layer. | Mark each as superseded. A chore, not a decision. |
 | **W4** | `playbook-changes.md:182` | "follow up on every report, and use it to sort them". Brandon never sees a report unless the CEO sends it. The only follow-up is the one automatic check-in email. | 2026-11-09: "no person reads the blocks"; one check-in email at 14 days. | Reword: "sort them when a CEO brings the report to a conversation". |
@@ -113,6 +114,8 @@ Nothing here blocks the build. Each is parked at the gate where it belongs.
 | **W7** | `brief.md:47`, `03-interviewer.md:43`, `beta-playbook.md:566` | Kept reports are "for comparison with Beta data". RP now says "program data" (`playbook-changes.md:135`). | 2026-11-09 (kept for comparison). | Use "Beta and Distillation data". |
 | **W8** | `canon/guardrails.md`, guardrail 1 | Guardrail 1 reads as absolute. Your later decision keeps existing references on the site and in the playbook. | 2026-11-11: existing references stay; new material adds none. | No change to the diagnostic: it has none and adds none. Vera notes at G7 that the Lab's own page stays clean. |
 | **W9** | `lab.yaml:40–42` | The card lists two links to the diagnostic. RP5 added more ways in: the Home ladder, the How It Works intro and a new FAQ answer (`website-changes.md:77, 107, 272`). | 2026-11-11: RP5 change lists approved. | Update the card at G6. |
+
+(Amended 2026-11-11: W1 partly done by Mack. Dated notes added in `02-product-spec.md`, `04-synthesis-agent.md` and `08-test-plan.md`. Still to note: `brief.md`, `lab.yaml`, `labs/sparks.md`.)
 
 ### Interview questions: how comparable is the data?
 
@@ -248,3 +251,5 @@ Not asked, because you already decided: the price (CAD $790, 2026-11-11), the se
 ## Outcome · 2026-11-11
 
 **Agreed.** Brandon accepted every recommended answer. The five must-resolve fixes are applied before building resumes.
+
+Applied 2026-11-11: M1–M5 done (M1, M2, M5 by Mack in the diagnostic; M3, M4 by Ines in `rotor/product/` and the ontology). W1 notes added to `brief.md`, `lab.yaml` and `labs/sparks.md`. Bench suite: 168 passed.
