@@ -42,7 +42,7 @@ Starts are rolling, with no intakes and no shared days. At most two companies ar
 
 | Week | Client does | AI does | Brandon does (min) | When |
 |---|---|---|---|---|
-| −2 to 0 | Discovery conversation. **Fit check:** the diagnostic report if they have one; otherwise the CEO and 1–2 leaders each do one 20-min AI interview (main-effort essentials) | A1 with a short "fit" wave file · A2 combines the blocks | Discovery **45** · read the fit summaries and decide Distillation or Beta **20** | 4 pm or evening |
+| −2 to 0 | Discovery conversation. **Fit check:** the diagnostic report if they have one; otherwise, after the disclosure note is sent, the CEO and 1–2 leaders each do one 20-min AI interview (main-effort essentials) | A1 with a short "fit" wave file · A2 combines the blocks | Discovery **45** · read the fit summaries and decide Distillation or Beta **20** | 4 pm or evening |
 | 0 | Signs. Receives the welcome pack and disclosure note. **Pastes its existing strategy material** (plan, EOS/OKR pages, offsite notes, values, sayings) into **A13 in its own AI** and emails Brandon the extraction | **A13 Document distiller** (new) | Read the extraction **20** | Async |
 | 1 | **CEO kickoff:** scope, exclusions, which team and which AI tools, a beta team of 5+, measures | — | Prep **15** · call **45** | **4 pm or evening** |
 | 1–2 | CEO does one 20-min AI interview; 1–2 more leaders optional | A1 · A2 | Read summaries **20** | Evenings |
@@ -80,9 +80,9 @@ Those are the Beta's, and they make it the Beta.
 | Plan at 5 h/week | Clients | Brandon h (est.) | Days off | 4 pm / evening calls |
 |---|---|---|---|---|
 | 8 Distillations | 8 | ~100 | 0 | 24 |
-| Beta clients | 1–2 | ~30–70 | 2–3 each, so **3–6** | — |
+| Beta clients | 1–2 | ~30–70 | 2–3 each, so **2–6** | — |
 | Selling and admin | — | ~45 | — | — |
-| **Total** | **9–10** | **~175–215 of 240** | **3–6 (max 5–6)** | ~2 a month |
+| **Total** | **9–10** | **~175–215 of 240** | **2–6 (max 5–6)** | ~2 a month |
 
 **With days off freed, the Beta could go to two a year.** That stays inside the 5–6 days off. Brandon decides. Client copy never states the number.
 
@@ -105,9 +105,9 @@ Those are the Beta's, and they make it the Beta.
 | A10 Noise audit | **Not used** (needs a comparison team and a quarter) |
 | A11 Pulse | **Reused**, once |
 | A12 Results compiler | **Changed:** before/after within the team; no comparison-team claims |
-| **A13 Document distiller** | **New.** It runs **in the client's own AI**. It reads their strategy material and extracts stated priorities, trade-offs, beliefs, measures and recurring language, and flags gaps and contradictions. Output is a fixed-format block the CEO emails to Brandon. Override-log step S12. |
+| **A13 Document distiller** | **New.** It runs **in the client's own AI**. It reads their strategy material and extracts stated priorities, trade-offs, beliefs, measures and recurring language, and flags gaps and contradictions. Output is a fixed-format block the CEO emails to Brandon. Override-log step S12. *Sending this extraction to Brandon is an addition to data option B and needs Brandon's approval at this gate (section 5).* |
 
-- **Override log:** unchanged rules, plus step S12 for A13. S5 (the main effort) is never handed to AI.
+- **Override log:** unchanged rules, plus step S12 for A13. S5 (Brandon's judgment on the main effort) is never handed to AI: A5 drafts phrasings, Brandon judges them, and the CEO signs off, as Brandon's rule allows.
 - **Simulation kit:** reusable. Mack adds a fictional strategy document and a "fit" run.
 - **Client pack:**
   - welcome email, kickoff agenda, governance one-pager and disclosure note get rewritten, shorter;
@@ -120,7 +120,8 @@ Those are the Beta's, and they make it the Beta.
 Same principle as the RP5 decision B: Brandon receives distilled blocks, not raw material.
 
 - **Stays in the client's own AI:** interviews and A13's reading of their strategy documents.
-- **Emailed to Brandon:** the summary blocks and A13's extraction block. **He does not receive their strategy documents** unless the CEO chooses to send a specific one.
+- **Emailed to Brandon:** the summary blocks (fit-check summaries follow the same rule), plus A13's extraction block **if Brandon approves it at this gate**. It is a new kind of data beyond option B: a structured digest of their strategy documents. **Strategy documents themselves are never sent.**
+- **If not approved:** the CEO runs A13 in their own AI and reads the extraction aloud or summarizes it in the kickoff call; Brandon works from his notes. That is slower and weaker.
 - **Drafting:** in Brandon's own AI account, one project per company, training switched off; deleted at close-out with written confirmation, and vendor retention stated.
 - **The Sheet and the Rotor Core** go into the client's AI under licence, as in the Beta.
 
