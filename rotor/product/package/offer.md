@@ -34,7 +34,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > **The Rotor Term** is the full build: each leader heard on their own time, the hard calls settled at the Mirror, then one team working from it for a quarter. I read every interview and make every judgment. It starts on set dates.
 >
-> **The Rotor Beta** is the same journey with more of me in it: longer live sessions, faster replies, a start date we agree together. I take one a year.
+> **The Rotor Beta** is the same journey with me in the room for every session, and a timetable built around your company instead of a set start date.
 
 ---
 
@@ -72,7 +72,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > Between those, your leaders each have two or three short conversations with an AI interviewer, about 20 minutes each, whenever suits them. I read every transcript. Every message you send me gets a reply within three working days, and anything you flag as urgent is answered first.
 >
-> **Why the start dates are fixed:** I do this work around other commitments, and I book the Mirror days well ahead so I can be fully present for them. The Mirror date is set the day you sign, so your leadership team can hold it too. If the next start date doesn't suit you, or it's already full, I'll say so plainly and offer the one after. While you wait, the alignment diagnostic gives your team a useful head start.
+> **Why the start dates are fixed:** a fixed start means a fixed Mirror. Your Mirror date is set the day you sign, so your leaders can protect it in their calendars, and I keep those days clear so you have my full attention. If the next start date doesn't suit you, or it's already full, I'll say so plainly and offer the one after. While you wait, the alignment diagnostic gives your team a useful head start.
 >
 > ## What we'll ask of your team
 > - **You:** the kickoff, the review, a few minutes a week with the weekly updates, and recording the strategy video.
@@ -115,7 +115,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > **What I'd ask in return**
 > - **Honest feedback, as we go and at the end.** At the close, three short questions to your leaders: did you feel heard, was there enough of me, and what was annoying. Blunt answers help most.
-> - **That's all.** Any testimonial, quote or write-up about your company would come only later, only if you want to, and only with your separate written permission. Saying no changes nothing about your program.
+> - **The rest is your choice.** Any testimonial, quote or write-up about your company would come only later, if you want it, and only with your separate written permission. Saying no changes nothing about your program.
 
 *Fenn's notes for Vera:* no discount, "special terms" or "founding rate" language anywhere, because each would imply a price. "First run" is used instead of "pilot". The calendar line is true under the dry-run plan (no Beta client in parallel with the founding build); it says nothing about other Term companies.
 

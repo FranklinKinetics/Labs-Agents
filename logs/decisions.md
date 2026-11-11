@@ -96,3 +96,8 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-11 | The program's beta team must have at least five people, set at kickoff, so pulse and noise-audit results never single anyone out. | Claude Code |
 | 2026-11-11 | RP3 passed with changes. Brandon has no friendly company for the dry run, so the dry-run plan must be replaced (see the RP3 gates-log row). | Claude Code |
 | 2026-11-11 | Dry run in two stages: (1) a simulated company with four AI-played leaders, to test the AI helpers and Brandon's minutes; (2) a founding intake of at most two real companies, told they are the first run, with the dry-run measures applied. The simulation is fictional and is never shown or used as a result. | Claude Code |
+| 2026-11-11 | Offer copy: Fenn's rewrites (option A for all three) replace the Beta ladder line, the "why the start dates are fixed" line and the founding note's closing line. | Claude Code |
+| 2026-11-11 | Client-facing copy never states how many Beta clients Brandon takes a year. The one-a-year cap stays as an internal planning rule. | Claude Code |
+| 2026-11-11 | The five tests (decision, trade-off, new hire, hindsight, tripwire) may be published. The five-tests checker goes ahead as a free goodwill tool, through the Lab lifecycle. | Claude Code |
+| 2026-11-11 | "Rotor Term" is rejected as the program's name; Fenn proposes new names. | Claude Code |
+| 2026-11-11 | Merged the diagnostic branch (`claude/wizardly-edison-rzb2c9`) into main, with Brandon's approval. | Claude Code |
