@@ -58,7 +58,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 > - **Your Rotor Sheet:** the main effort, trade-off rules with worked examples, and the beliefs behind your plan with their warning signs, in your company's own words. Signed off by your leadership team.
 > - **A short strategy video** in your voice. I draft the script; you record it.
 > - **Your beta team's AI tools set up** to work from your Rotor Sheet and the Rotor Core, and tested against real dilemmas from that team before they go live.
-> - **Regular progress notes** to you, so there's no status meeting.
+> - **Regular updates** to you, so there's no status meeting.
 > - **A results pack and a short video from me**, comparing your beta team with a comparison team, before we meet to decide what's next.
 >
 > ## How it runs
@@ -75,7 +75,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 > **Why the start dates are fixed:** I do this work around other commitments, and I book the Mirror days well ahead so I can be fully present for them. The Mirror date is set the day you sign, so your leadership team can hold it too. If the next start date doesn't suit you, or it's already full, I'll say so plainly and offer the one after. While you wait, the alignment diagnostic gives your team a useful head start.
 >
 > ## What we'll ask of your team
-> - **You:** the kickoff, the review, a few minutes a week with the progress notes, and recording the strategy video.
+> - **You:** the kickoff, the review, a few minutes a week with the weekly updates, and recording the strategy video.
 > - **Your leaders:** two or three short AI interviews each, a reaction to the draft, and the Mirror.
 > - **A beta team of at least five people**, named at kickoff, who work from the strategy for the quarter and answer a few short questions each month. At least five, so no result ever points at one person.
 > - **A similar comparison team** that carries on as normal. Both teams answer the same set of realistic decision cases before and after.
@@ -83,8 +83,9 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > ## Your data, in plain words
 > - Your leaders' interviews run in your company's own AI platform, under your existing agreement with that vendor.
-> - I do my drafting (summaries, progress notes, the Sheet) in my own AI account, in one private project used only for your company. Training on that account's content is switched off in its settings, and I confirm that in writing before the first interview.
-> - At the end, I delete that project and every copy I hold, and send you written confirmation.
+> - At the end of each interview, the leader's AI produces a short summary, which they email to me.
+> - I do my drafting (summaries, weekly updates, the Sheet) in my own AI account (a one-person plan), in one private project used only for your company. Training on that account's content is switched off in its settings, and I confirm that in writing before the first interview.
+> - At the end, I delete that project, the summary emails and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
 > - Quotes from your leaders are never attributed unless that leader agrees. Results are reported by team, never about a person, and are never used in performance reviews.
 > - Anything you name at kickoff (acquisitions, people decisions, legal matters, unannounced numbers) stays out of every interview and every document.
 >
@@ -104,7 +105,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 
 > **You'd be on the first run.**
 >
-> I want to be straight with you before you decide. The Rotor Term is new. The method behind it draws on the Rotor Beta and on well-tested work on strategy and decision-making, but this format has not run with a client before. Yours would be the first start date.
+> I want to be straight with you before you decide. The Rotor Term is new. The method behind it draws on the Rotor Beta and on well-tested work on strategy and decision-making, but this format has not run with a client before. Yours would be among the first start dates.
 >
 > **What that means for you**
 > - Everything on the offer sheet still applies: the three live moments, the reply standard, the data rules and the written deletion at the end.

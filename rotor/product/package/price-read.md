@@ -18,7 +18,7 @@ Track recommendation for the two Lab parts. Each is confirmed or changed at its 
 - The price is stated once, with no countdown, no pre-ticked extras, no "limited seats".
 - Flag to Brandon as revenue nears the GST/HST registration threshold.
 
-**Refund, plain words.** "If it didn't work for you, tell us within 30 days and we refund the full price. No form, no reasons required." (Brandon to confirm the 30 days.)
+**Refund, plain words.** "If it didn't work for you, tell us within 30 days and we refund the full price. No form, no reasons required." (Brandon to confirm the 30 days.) Refunds are handled through the checkout platform's own refund process, which needs none of Brandon's time beyond a click. Sol confirms this when the platform is chosen.
 
 **Comparables** (all from search summaries only; Sol did not open the pages; prices likely USD and may have changed):
 1. Custom Insight Team Assessment: about $95 per team plus a $0 to $750 setup fee. [source](https://custominsight.net/team-assessment/pricing.asp) (unverified)
