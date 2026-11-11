@@ -20,7 +20,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 
 **Original recommendation: the Rotor Term.** It explains fixed start dates as a feature of how the work is organized, not as a sales device, and it doesn't make the Beta sound like the "real" one. Used in a sentence: *"The next Rotor Term starts in January."*
 
-*Avoided on purpose:* anything with "pilot", "flight", "mission", "squadron", "wing" or "cohort" (cohort implies a group that meets).
+*Avoided on purpose:* aviation and military words, and "cohort" (it implies a group that meets).
 
 ---
 

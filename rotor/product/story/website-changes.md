@@ -215,7 +215,7 @@ Fenn, 2026-11-11. **Redone for the reshaped Rotor Distillation** (the AI side), 
 - **New:**
   > **What it doesn't include**
   >
-  > Because your leaders already agree, the Distillation skips the work of getting them there: no rounds of leader-by-leader interviews, no leadership working session to settle contested calls, no CEO video or one-page visual, and no comparison team. If that work is what you need, it's the Rotor Beta.
+  > The Distillation starts from a strategy your leaders already share, so it doesn't include the work of getting them there. If that work is what you need, it's the Rotor Beta.
 - **Why:** spec §2 ("Those are the Beta's, and they make it the Beta"). Says what's in each by problem, not by price or by how much of Brandon.
 
 ### HW13 · How It Works › Rotor Distillation › "If it doesn't work, and after" (new)
@@ -288,7 +288,7 @@ Fenn, 2026-11-11. **Redone for the reshaped Rotor Distillation** (the AI side), 
 
 ### S3 · Start a conversation › What happens next › step 3
 - **Current:** "**The Beta begins.** About four and a half months, fixed fee: a build, one live quarter, and a review where you decide whether to scale. Three meetings; the rest runs on your schedule."
-- **New:** "**We begin.** The Rotor Distillation takes about 12 weeks, with three calls with your CEO, and starts when you're ready. The Rotor Beta takes about four and a half months, fixed fee: a build, one live quarter, and a review where you decide whether to scale. Three meetings; the rest runs on your schedule."
+- **New:** "**We begin.** The Rotor Distillation takes about 12 weeks, with three calls with your CEO, and starts when you're ready. The Rotor Beta takes about four and a half months: a build, one live quarter, and a review where you decide whether to scale. Three meetings; the rest runs on your schedule."
 - **Why:** the Beta's sentence is kept as it is (Beta terms unchanged). *For Vera:* "fixed fee" now sits beside an offer whose fee terms aren't stated; if she reads it as a contrast on price, drop "fixed fee" from the Beta's sentence.
 
 ### S4 · Start a conversation › A good fit if › after the list

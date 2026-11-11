@@ -1,26 +1,50 @@
-CLEARANCE · Rotor Product RP5 (website-changes.md, playbook-changes.md) · 2026-11-11 · Vera
+CLEARANCE · Rotor Distillation, RP5 Story (redo) · 2026-11-11
 
-Guardrails: 1 FAIL (see Must fix 3) · 2 pass (X1/M5 hold-lines for Brandon) · 3 pass · 4 pass · 5 pass · 6 pass (numbers trace to spec/offer sheet) · 7 FAIL (playbook P1 table) · 8a pass (conditional: [MONTH YEAR] must be a real, current date) · 8b pass · 9-11 n.a. · 12 pass · 13 pass · 14 n.a.
-Other checks: "Beta" never "pilot" pass; Beta not retired/renamed/repriced pass; no Beta-per-year count in client copy pass (internal-only in playbook P1/P11); intake companies never revealed pass; reply standards (Beta 2, Distillation 3) pass; diagnostic data lines pass.
-Claims checked: all new numbers/claims traced to the spec or offer sheet except items below.
+Reviewed: every new text line in `story/website-changes.md` (H1–H9, HW1–HW14, F1–F6, S1–S4, SEO1–SEO3, O1), `story/playbook-changes.md` (P1–P14, private), and `package/offer.md` (sections 1–5). Decisions in force to 2026-11-11 applied: existing military references stay, the playbook's Beta range is private, no Beta count in client copy, no Distillation/Beta contrast on how much of Brandon.
 
-Must fix
-1. playbook P1 table, diagnostic row: "CAD $790, on its own page only" sits beside the Beta and Distillation rows. Replace with "Priced on its own page, in the Labs store".
-2. website H7 and playbook (also offer.md): "I read every interview and make every judgment." Decisions say Brandon receives emailed summary blocks. Replace with "I read every leader's interview summary and make every judgment."
-3. website HW14 "In both", first bullet: "Transcripts are read only by me." Not true of the Distillation. Replace with "Full transcripts stay in your company's AI platform. In the Beta, they are read only by me."
-4. website F1: "At the end I delete everything and confirm it in writing." Omits vendor retention. Replace with "At the end I delete everything I hold and confirm it in writing; the AI vendor may keep deleted content briefly, as set out under Your data." Same fix for playbook P4 ("deleted from my side, with written confirmation; the vendor may retain it for [X days]").
-5. Civilian bio (M1/X1/M7): "I've spent years teaching people to hold a complex situation in their heads and decide well under pressure" is the flight-instructor credential with the noun removed (guardrail 1, "leans on it for credibility"). Delete that sentence; keep "I help leadership teams turn a written strategy into the calls their people make every day. I have an MBA." (M1 itself notes this.) M13, M6, M8, M14, X4, X5 are clean.
+## Guardrails 1–14
+1. No DND/CAF endorsement or connection: pass. No new military reference (the playbook's existing "DND specifics" line in P14 stays by decision).
+2. Military aviation course: pass (not mentioned).
+3. No ROI: pass. "What it doesn't promise" says plainly that six weeks can't show up on the books.
+4. No client results: pass. H8 placeholder and founding wording require separate written permission.
+5. No invented testimonials, customers, quotes or numbers: pass. No clients or results are claimed.
+6. Traceable data claims: pass. Figures (12 weeks, 3 calls, 45/60/60 min, 20-min interview, 10 dilemmas, 6 weeks live, team of at least 5, 3 working days) match `rp2b-spec.md` and `offer.md`.
+7. Pricing: pass. Neither Distillation nor Beta carries a price, range, discount or credit in client copy. The $790 appears only in a rule line (website-changes line 13), not in copy. The playbook's CAD range is private and marked internal-only (P6).
+8a. No Brandon time for Labs: pass. The diagnostic is described as needing none of his time (private playbook). The consulting offers are consulting.
+8b. No dark patterns: pass with one note (S3 below). The "places are limited" scarcity line is removed in H3, H9, S1 and SEO3. The playbook's founding discount and "time-limited line" are removed (P6).
+9. Public or licensed data: n.a. (no new data sources).
+10. No profiling of individuals: pass. Results are by team only, the beta team has at least five people, and quotes are unattributed.
+11. Customer data minimal: pass. See data check below.
+12. Rotor Core contents: pass. Named only (HW10, offer §3), never described.
+13. Reader knows more than the AI: pass.
+14. Accessible: pass (text and tables; no new images).
 
-Nice to fix
-- HW4: drop ", or it's already full" (true, but reads as a scarcity cue and hints at an intake size). Keep "I'll say so plainly and offer the one after."
-- D1 replacement "The next Rotor Distillation starts in [MONTH YEAR]" is a fact, not urgency: PASS. Rule: real date only; remove or update once passed; never add "places left".
-- X4 new answer: "you'll see it on your own leaders' answers within weeks" reads as an outcome promise; use "you can see how it works on your own leaders' answers early on".
-- M4/X3 "mission command": prefer the "turning strategy into action" variant.
-- Playbook D2 (existing "reduced fixed fee" / "time-limited" founding offer) is not new text but conflicts with guardrails 7 and 8b; resolve before any Beta proposal.
+## Specific checks
+- "Pilot": none in client copy. It appears once in `offer.md` line 23 (see Nice to fix).
+- Betas a year: not in the website or offer copy. It appears only in the private playbook (P1, P14), labelled internal.
+- Fake scarcity: none. "You'd be among the first" is a true statement, with no countdown or limit.
+- Offers compared on price: none, except the S3 problem below.
+- Offers compared on how much of Brandon: none in client copy. The ladder (H7, offer §2) sorts by "do your leaders already agree". HW12 is borderline (see Nice to fix).
+- Data wording, in HW11, F3, F5, offer §3 and P5, P8: pass.
+  - Interviews and document reading run in the client's own AI.
+  - Brandon receives short summaries and a structured digest by email, never documents or full conversations.
+  - Drafting is in his own account with training "switched off in settings", and never "excluded by contract".
+  - Deleted at close-out with written confirmation.
+  - Vendor retention is bracketed as [X days] (tracked in O1).
+  - Beta line ("full transcripts read only by you", "never hosts your strategy data") and diagnostic line (drop-box, names removed, deleted once the report is delivered) are accurate to their own decisions.
+- Reply standards: Beta two working days (HW4, P11), Distillation three, urgent flags first (HW7, offer §3, P1, P11). Pass.
+- F3 diagnostic sentence ("The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered.") is word for word the approved text. The Beta sentence is also intact (split by the inserted Distillation sentence). Brandon is flagged in the Why line that an approved answer was edited. Pass.
 
-Verdict: NOT CLEARED. Clears once Must fix 1-5 are applied.
+Claims checked: 22 of 22 have sources (the spec, offer §3, governance one-pager, decisions log, and the existing site copy for "Works with ChatGPT, Claude or Microsoft Copilot").
 
-RE-CHECK · 2026-11-11
-Fixed and verified: #1 (P1 row), #4 (F1, P4 retention), #5 (bios), HW4 "already full".
-Must fix (new): #2/#3 resolved by changing the data flow: leaders now email Brandon the summary block plus a full conversation copy. The decision in force says "summary blocks emailed to Brandon"; full transcripts in his account is more client data held (guardrail 11; "no hosting of client strategy data unless Brandon approves"). No decision in logs/decisions.md covers it. Brandon must record it (source RP5 gate) before this wording goes live; otherwise revert to summary-block-only wording (H7 "summary", HW14 "transcripts" bullet). Once recorded, wording is consistent across HW14, F1, P4, P6 and accurate.
-Verdict: NOT CLEARED until that decision is logged; then CLEARED. No other must-fix.
+## Must fix before release
+1. **S3 (website-changes.md, "Start a conversation" step 3).** "fixed fee" sits only beside the Beta, so the sentence contrasts the two offers on price and hints at a fee structure. Replace with: "**We begin.** The Rotor Distillation takes about 12 weeks, with three calls with your CEO, and starts when you're ready. The Rotor Beta takes about four and a half months: a build, one live quarter, and a review where you decide whether to scale. Three meetings; the rest runs on your schedule." (Fenn's own note offers this fallback.)
+
+## Nice to fix
+1. **HW12 ("What it doesn't include").** It lists what the Distillation leaves out (the leadership working session, video, interview rounds) and ends "it's the Rotor Beta". Read cold, that is "less of Brandon in the room". Suggested: "The Distillation starts from a strategy your leaders already share, so it doesn't include the work of getting them there. If that work is what you need, it's the Rotor Beta."
+2. **`offer.md` line 23.** The naming record lists "pilot", "flight", "mission", "squadron", "wing". It's internal, but the repo grep for "pilot" will hit it. Suggested: delete the line, or reduce it to "Avoided on purpose: anything that sounds like a trial run, or a group that meets."
+3. **F4 versus HW8/HW9.** F4 says "the other leaders send a short written reaction", while HW8 and HW9 say one or two more leaders may also do an interview. Suggested: "...and the other leaders send a short written reaction to the draft (one or two may also do a short interview)."
+4. **HW13 note.** "you keep the Rotor Sheet" against "the Rotor Sheet and the Rotor Core go into your AI tools under licence" (offer §3, spec). The open [NOTE] already flags it. Resolve before publishing.
+5. **P12.** "your own account's company project" is ambiguous. Suggested: "the private project for that company in your own account".
+
+Verdict: NOT CLEARED until the S3 fix is applied. With that single change, CLEARED. The nice-to-fix items do not block release.
