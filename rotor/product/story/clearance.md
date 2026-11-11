@@ -19,3 +19,8 @@ Nice to fix
 - Playbook D2 (existing "reduced fixed fee" / "time-limited" founding offer) is not new text but conflicts with guardrails 7 and 8b; resolve before any Beta proposal.
 
 Verdict: NOT CLEARED. Clears once Must fix 1-5 are applied.
+
+RE-CHECK · 2026-11-11
+Fixed and verified: #1 (P1 row), #4 (F1, P4 retention), #5 (bios), HW4 "already full".
+Must fix (new): #2/#3 resolved by changing the data flow: leaders now email Brandon the summary block plus a full conversation copy. The decision in force says "summary blocks emailed to Brandon"; full transcripts in his account is more client data held (guardrail 11; "no hosting of client strategy data unless Brandon approves"). No decision in logs/decisions.md covers it. Brandon must record it (source RP5 gate) before this wording goes live; otherwise revert to summary-block-only wording (H7 "summary", HW14 "transcripts" bullet). Once recorded, wording is consistent across HW14, F1, P4, P6 and accurate.
+Verdict: NOT CLEARED until that decision is logged; then CLEARED. No other must-fix.
