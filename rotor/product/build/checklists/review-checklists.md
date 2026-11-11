@@ -6,7 +6,7 @@ Tick through, then log the step in the override log (changed or not, and why). B
 ### Fit check (~20 min): Distillation or Beta?
 - [ ] Read the fit summaries, or the diagnostic report if the client has one.
 - [ ] Do the CEO and the leaders name the **same main effort** in substance, even if their words differ?
-- [ ] Is there a written strategy to start from (a plan, EOS or OKR pages, offsite notes)?
+- [ ] Is there a written strategy to start from (a plan, EOS or OKR pages, offsite notes)? *(Ask this in the discovery call; the fit interview doesn't cover it.)*
 - [ ] Decide:
   - **Distillation** if the main efforts match and a strategy exists;
   - **Beta** (or the diagnostic first) if the main efforts differ, or the strategy would need a real argument to pass the five tests.

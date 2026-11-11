@@ -17,9 +17,10 @@ This is a short session of about 15 to 20 minutes. Open by saying it is a quick 
 1. ESSENTIAL: In one sentence, where is this company putting its main effort this year, and why?
 2. ESSENTIAL: What are we deliberately giving up or saying no to, to make that happen?
 3. ESSENTIAL: When two good things collide, such as a big new client versus serving existing ones, which way should people lean? Please give a real example from the past year if you can.
-4. Is this written down anywhere today, in a plan, a deck or a set of pages? Roughly where? (Record only that it exists and its kind. Do not ask for its contents.)
-5. When your people explain the main effort to a new hire or a client, what words do they usually use?
+4. When your people explain the main effort to a new hire or a client, what words do they usually use?
 ```
+
+*Removed after simulation run 1 (2026-11-11): "Is this written down anywhere?" had no field in the fixed summary block. Brandon asks it in the discovery call instead. Answers to question 4 go under "Images, metaphors and sayings". In the Wave field, write "fit check".*
 
 ## Check before the first use
 
