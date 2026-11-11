@@ -5,7 +5,7 @@ The shared vocabulary of Franklin Kinetics Labs. Every persona uses these words 
 ## The core chain
 ```
 Spark ──► Lab ──► Offer ──► Release ──► Signal ──► Debrief ──► Living Models
-                 (Free layer + Paid layer)                          │
+                 (Paid layer + optional Free layer)                 │
    ▲                                                                │
    └──────────── new Sparks, revised Price Model ◄──────────────────┘
 ```
@@ -23,7 +23,7 @@ Spark ──► Lab ──► Offer ──► Release ──► Signal ──►
 | **Rotor Lesson** | The one management idea this Lab demonstrates, in one sentence. No Lesson, no Lab. | Fenn | lab card |
 | **Build** | The working product, starting ugly. | Mack | `labs/<slug>/build/` |
 | **Look** | The visual direction and the one memorable image. | Iris | `labs/<slug>/look/` |
-| **Offer** | What a customer can get: a **Free layer** (goodwill) and a **Paid layer** (value capture). | Sol | lab card |
+| **Offer** | What a customer can get: a **Paid layer** (value capture) and, where it genuinely helps, a **Free layer** (goodwill). The free layer is optional. | Sol | lab card |
 | **Package** | The final Offer: format, what's included, price, checkout, refund terms. | Sol | `labs/<slug>/package.md` |
 | **Story** | The Lab page copy and Substack note that bridge the Offer to the Rotor Lesson. | Fenn | `labs/<slug>/story.md` |
 | **Clearance** | Vera's written check against the guardrails. Required before Release. | Vera | `labs/<slug>/clearance.md` |

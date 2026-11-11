@@ -1,0 +1,69 @@
+# Lab card. Reclassified as a Lab on 2026-11-10 (Brandon). Earlier work was done
+# as a non-Labs product with its own per-deliverable gates (files 01-09). Those
+# files are inputs to the Lab lifecycle; the Lab itself starts at G1/G2.
+name: "Rotor Alignment Diagnostic"
+slug: "rotor-alignment-diagnostic"
+status: building     # build plan approved 2026-11-10; step 1 (bench build, no spend) in progress
+killed_reason: ""
+
+audience:
+  buyer: sme-owner           # CEO of an owner-led company, 20-200 people
+  story_speaks_to: "sme-owner"
+job_to_be_done: "Show a leadership team where it agrees, where it differs, and which questions it must settle, without a consultant in the room."
+rotor_lesson: "You don't know your leadership team agrees until you ask each leader alone."   # approved 2026-11-10
+
+four_proofs:
+  speed: "TBD at Release, from hours below"
+  abundance: "What each leader already knows, plus the AI tools the company already pays for."
+  craft: "One AI interviewer that runs on Claude, ChatGPT, Copilot or Gemini; a sealed drop-box; an AI-written report with automatic checks."
+  goodwill: "Fair flat price, a free restart, and a report that's useful without the Beta. No free layer (Brandon, 2026-11-10: a free layer is not required)."
+
+sources:
+  - {name: "Rotor Interviewer Pack, wave 1 questions 1-9", url: "rotor/interviewer-pack.md", licence: "Franklin Kinetics' own material", notes: "Master is a Claude Doc. No Rotor Core content."}
+  - {name: "Anthropic Claude API", url: "https://www.anthropic.com", licence: "Commercial API terms", notes: "Juno to confirm data retention and no-training terms before build"}
+  - {name: "Google Cloud Run, Firestore, Scheduler, Secret Manager (Montréal)", url: "https://cloud.google.com/run/pricing", licence: "Commercial terms", notes: "Free tiers verified 2026-11-10"}
+  - {name: "Squarespace Orders API", url: "https://support.squarespace.com/hc/en-us/articles/236297987-Squarespace-API-keys", licence: "Squarespace terms", notes: "Core plan or higher"}
+
+hours:
+  estimate_brandon: 7        # Ines, proposed at G1/G2; see brief.md
+  brandon: 1.8              # ~11 gate reviews x 10 min (Brandon's estimate, 2026-11-10)
+  crew_sessions: 13
+
+offer:
+  free_layer: "none"
+  paid_layer: "The full diagnostic: interviews for 3-8 leaders and the written report"
+  price_cad: 790             # approved 2026-11-10 (pre-Lab gate); re-confirmed at G5
+  format: "setup-service"
+  checkout: "Squarespace Commerce, Labs store"
+  refund_terms: "No report and no refund if fewer than 3 leaders take part; one restart within 12 months. Your report, or your money back."
+
+links:                       # also linked from these pages (decision 2026-11-10)
+  - "How It Works: 'Not ready for the Beta? Start here'"
+  - "Start a conversation"
+
+design_inputs:               # done before reclassification; reused at the gate shown
+  - {file: "01-data-flow-memo.md", reused_at: "Build (G3)", note: "Option C, sealed drop-box"}
+  - {file: "02-product-spec.md", reused_at: "Build (G3)"}
+  - {file: "03-interviewer.md", reused_at: "Build (G3)"}
+  - {file: "04-synthesis-agent.md", reused_at: "Build (G3)"}
+  - {file: "05-sample-report.md", reused_at: "Build (G3) and Story (G6)", note: "fictional"}
+  - {file: "06-package-price.md", reused_at: "Package (G5)"}
+  - {file: "07-website-copy.md", reused_at: "Story (G6)", note: "needs a store-page version and a Substack note"}
+  - {file: "08-test-plan.md", reused_at: "Build (G3) and Clearance"}
+  - {file: "09-privacy-and-terms.md", reused_at: "Clearance (G7)"}
+
+gates:
+  G1: "2026-11-10 pass"
+  G2: "2026-11-10 pass"
+  G3: ""
+  G4: ""
+  G5: ""
+  G6: ""
+  G7: ""
+  G8: ""
+
+release:
+  date: ""
+  store_url: ""
+
+signals: []
