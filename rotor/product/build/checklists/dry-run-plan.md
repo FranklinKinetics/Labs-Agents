@@ -1,4 +1,29 @@
-# Dry-run plan: the program on a friendly company
+# Dry-run plan: two stages (amended 2026-11-11)
+
+**What changed:** Brandon has no friendly company, so the original plan below is replaced by two stages (decision 2026-11-11).
+
+## Stage 1 · Simulated company (now)
+- **Setup:** a fictional company with four leaders, each played by an AI persona (kit in `../simulation/`).
+- **What Brandon does:** runs waves 1–3 through the real interviewer and the A2–A7 helpers, does his real T4, T5, T6 and T9 work, and times every touchpoint. There is no Mirror: he writes the draft sheet himself. A8 is run against a few dilemmas.
+- **Time:** about 6–8 h of Brandon over 2–3 weeks.
+- **It tests:** every AI helper's "Never" rules (the planted traps), output formats, and Brandon's minutes against spec section 4.
+- **It cannot test:** whether leaders feel heard, real politics, the Mirror, or the 4 pm calls.
+- **Exit criteria:**
+  - every planted trap is handled correctly after at most one fix;
+  - A5 never ranks a candidate;
+  - Brandon's minutes on T4–T6 and T9 are within 30% of budget, or the budgets are re-estimated before RP4 pricing work.
+- **Labelling:** fictional. Never shown to anyone, never used as a result, case study or example (guardrails 4 and 5).
+
+## Stage 2 · Founding intake (the first real clients)
+- **Size:** two companies at most. They are told plainly that they are founding clients of a new program.
+- **Measures:** the dry-run measures below (minutes, override rates, agent faults, leader experience, calendar fit) apply to them in full.
+- **Brandon's protection:** a written, honest note that this is the program's first run. Brandon keeps extra margin: no Beta client in parallel with the founding intake's build.
+- **Exit:** a one-page debrief by Ines feeds RP4 and the RP6 evidence.
+
+---
+
+## Original plan (kept for reference; its measures and exit criteria now apply to stage 2)
+
 
 **Purpose:** run the whole program once, on a friendly company, before the first real intake. It tests the agents, the touchpoints and Brandon's real minutes. Nothing from the dry run is shown to anyone as a result or a case study (guardrails 4 and 5).
 

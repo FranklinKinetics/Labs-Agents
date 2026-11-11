@@ -41,3 +41,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-11 | Leader quotes in client-facing program material are unattributed unless that leader agrees, matching the Interviewer Pack's disclosure note. No AI helper may ever attribute a quote. | Claude Code |
 | 2026-11-11 | The program's beta team must have at least five people, set at kickoff, so pulse and noise-audit results never single anyone out. | Claude Code |
 | 2026-11-11 | RP3 passed with changes. Brandon has no friendly company for the dry run, so the dry-run plan must be replaced (see the RP3 gates-log row). | Claude Code |
+| 2026-11-11 | Dry run in two stages: (1) a simulated company with four AI-played leaders, to test the AI helpers and Brandon's minutes; (2) a founding intake of at most two real companies, told they are the first run, with the dry-run measures applied. The simulation is fictional and is never shown or used as a result. | Claude Code |
