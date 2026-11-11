@@ -224,9 +224,9 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 ### The diagnostic
 - **Same questions:** the diagnostic asks the wave 1 questions (playbook), so its data maps straight onto the program.
 - **Diagnostic graduates:**
-  - with the client's consent, their diagnostic divergence report becomes **wave 0**;
-  - wave 1 then drops the essentials already answered and asks only the gaps (shorter interviews);
-  - leader agreement at the diagnostic becomes the "before" baseline.
+  - if the CEO sends their copy, the diagnostic report becomes **wave 0** (amended 2026-11-11: never the copy kept for research);
+  - a leader who forwards their own saved summary gets the short wave 1, which asks only the gaps; everyone else gets the standard wave 1;
+  - the report's count of different main efforts becomes the "before" baseline (team level, not per leader).
 - **The waiting room:** a company that signs for an intake months away takes the diagnostic first. That gives Brandon a head start and keeps the client engaged.
 - **No dependence on Brandon's time:** the diagnostic stays a Lab. Brandon reads nothing from it unless the client becomes a program client and sends it.
 - **Correction (2026-11-11):** the diagnostic was already built on another branch (`claude/wizardly-edison-rzb2c9`), which this spec did not know about. Its decisions stand:
@@ -234,7 +234,7 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
   - **The report is kept** with the client's consent, for comparison with Beta data.
   - **Questions:** wave 1 questions 1–9 word for word; question 10 is dropped.
   - **Price:** CAD $790 flat, with no free layer.
-  - **What that means for wave 0:** it is the **diagnostic report** (already kept with consent), not the summary blocks, which are deleted. The short wave 1 must also ask question 10, since the diagnostic skips it.
+  - **What that means for wave 0:** it is the **diagnostic report** (sent by the CEO; amended 2026-11-11), not the summary blocks, which are deleted. The short wave 1 must also ask question 10, since the diagnostic skips it.
 
 ---
 

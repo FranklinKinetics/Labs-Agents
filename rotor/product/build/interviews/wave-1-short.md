@@ -4,11 +4,11 @@
 
 For Brandon. This replaces the standard wave 1 file in the Interviewer Pack for a company whose leaders took the alignment diagnostic first and agreed to share it. The Interviewer Pack itself is unchanged: the same core instructions, the same summary block, the same disclosure note (with the program line added at RP3). Only the wave file changes.
 
-**Wave 0 is the leader's diagnostic result.** The diagnostic asks the same questions as standard wave 1, so each leader has already answered most of them. The short version asks only what is still missing, so each session runs about 10 to 12 minutes instead of 20.
+**Wave 0 is the company's diagnostic report.** It is about the team. It cannot tell you what one leader said: summaries arrive with names removed and are deleted once the report is delivered. A leader gets this short version only if they choose to forward their own saved diagnostic summary (it stays in their own AI chat). The diagnostic asks the same questions as standard wave 1, so that leader has already answered most of them, and the session runs about 10 to 12 minutes instead of 20. *(Amended 2026-11-11 after the reconciliation with the diagnostic.)*
 
 ## How you fill it in
 
-Before you attach the file, read each leader's wave 0 answers and fill in the "Already answered" line for that leader, using the question numbers from the standard wave 1 list below.
+Before you attach the file, read the summary each forwarding leader sent you and fill in the "Already answered" line for that leader, using the question numbers from the standard wave 1 list below.
 
 Mark a question as answered only when the diagnostic answer is specific enough to use: a real decision, a real example, a clear sentence. If it is vague, leave the question off the answered list so it gets asked again. When in doubt, ask. The leader can always say "I covered that already" and skip it.
 

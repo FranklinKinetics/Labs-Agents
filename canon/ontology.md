@@ -43,7 +43,7 @@ Approved by Brandon at RP2, 2026-11-10. These are consulting terms, not Lab term
 
 | Term | Meaning | Lives in |
 |---|---|---|
-| **Wave 0** | A company's alignment diagnostic results, used with its consent as the program's starting point. | `rotor/product/` |
+| **Wave 0** | A company's alignment diagnostic report, sent by its CEO, used as the program's starting point. | `rotor/product/` |
 | **Override log** | Brandon's private record of each change he makes to an AI draft, by step and reason only, with no client content. | Brandon's private library |
 
 ## Lab statuses

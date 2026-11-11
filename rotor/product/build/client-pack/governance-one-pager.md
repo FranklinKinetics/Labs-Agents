@@ -18,7 +18,7 @@ We agree these points in writing before the work starts. Anything unclear gets s
 ## Where your data goes
 
 - **Interviews and the document helper run in [COMPANY]'s own [PLATFORM] account**, under your existing agreement with that vendor. The full interview conversations stay there. Brandon does not receive or read them.
-- **What Brandon receives, by email:** each leader's interview summary block, and the CEO's extraction block from the document helper. The summary blocks follow the same rule for the fit check before signing. **Brandon never receives the strategy documents themselves, or any full transcript.**
+- **What Brandon receives, by email:** each leader's interview summary block, the CEO's extraction block from the document helper, and, if the CEO chooses to send it, the company's alignment diagnostic report. The summary blocks follow the same rule for the fit check before signing. **Brandon never receives the strategy documents themselves, or any full transcript.**
 - **Who reads what.** Only Brandon reads the blocks. What reaches the leadership team is a summary of where views agree and differ. Quotes are unattributed unless the leader agrees otherwise.
 - **Where drafting happens.** In Brandon's own AI account: one private project for [COMPANY], named by a code, used for no other client. Training on that account's content is switched off in its settings. Brandon confirms the setting in writing before the first block arrives. [CONFIRMATION DATE]
 - **What stays out.** No one in [COMPANY] needs to create an account for Brandon.

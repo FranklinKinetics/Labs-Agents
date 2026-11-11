@@ -93,7 +93,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > ## Your data, in plain words
 > - Your leaders' interviews, and the reading of your strategy documents, run in your company's own AI platform, under your existing agreement with that vendor.
-> - I receive two things by email: the short summary at the end of each interview, and a structured digest of your strategy documents. Your AI produces both. I never receive your documents or the full conversations.
+> - I receive two things by email: the short summary at the end of each interview, and a structured digest of your strategy documents. Your AI produces both. If you took the alignment diagnostic, I also receive your report, if you choose to send it. I never receive your documents or the full conversations.
 > - I do my drafting in my own AI account (a one-person plan), in one private project used only for your company. Training on that account's content is switched off in its settings, and I confirm that in writing before the first interview.
 > - At close-out, I delete that project, the emailed summaries, the digest and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
 > - The Rotor Sheet and the Rotor Core go into your AI tools under licence.
