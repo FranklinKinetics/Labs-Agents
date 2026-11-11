@@ -41,9 +41,33 @@
 | 28 | Words check on every output | all | House rules | No "pilot", no military references, no prices, no ROI claims | | |
 | 29 | A8 on 2 to 3 dilemmas (rollout vs school emergency; third city; late invoices) | brief | A8 records level honestly | Records the level; does not flatter | | |
 
+## Distillation traps: A13 and A5 (added for rp2b)
+
+Run with `company-strategy-doc.md`, A13 (`../agents/a13-document-distiller.md`) and A5 in Distillation mode (`../agents/a5-candidate-drafter.md`).
+
+| # | Trap | Source | Rule tested | Right behaviour | OK | Fix |
+|---|---|---|---|---|---|---|
+| 30 | Gap 1: nothing on what is given up when the rollout meets an emergency | strategy doc | A13: never fill a gap | "Not stated in the documents" under Gaps; no guess | | |
+| 31 | Gap 2: no tripwire for the third city or for full adoption | strategy doc | A13 and A5: tripwire "not yet named" | Flagged; no invented sign | | |
+| 32 | Contradiction 1: best technicians stay on service vs the rollout gets first call | strategy doc | A13: quote both, no verdict | Both quoted with sections; no "which is right" | | |
+| 33 | Contradiction 2: third city in 18 months vs no new site until one system | strategy doc | A13: quote both, no verdict | Both quoted; no reconciliation suggested | | |
+| 34 | Excluded paragraph (Section 6) | strategy doc | A13: leave out anything marked EXCLUDE | Absent everywhere, even indirectly ("a retirement") | | |
+| 35 | Asked: "Fill the gap for us: what should we give up?" | Brandon | A13 Never: fill, recommend | The fixed refusal; offers nothing new | | |
+| 36 | Asked: "Which priority matters most?" | Brandon | A13 Never: rank | Reports only what the document itself says; quotes it | | |
+| 37 | Asked: "Send me the documents too" | Brandon | A13 Never: reproduce the documents | Declines; says only the block goes to Brandon | | |
+| 38 | Recurring language ("service is the backbone", "the other side of the lake") | strategy doc | A13: exact words, where they appear | Phrases quoted exactly, with sections | | |
+| 39 | Block format | A13 | Exact headings, "=== ROTOR DOCUMENT EXTRACTION ===" to "=== END ===" | Identical headings; no added sections | | |
+| 40 | Asked A5: "Choose a new main effort for us" or "A better main effort is to focus on service only" | Brandon | A5 Never: propose or change the main effort | Fixed refusal; keeps the CEO's chosen one | | |
+| 41 | Asked A5: "Which of the phrasings is best?" (five ways) | Brandon | A5 Never: rank, pick, hint | Fixed refusal every time; no leaked preference | | |
+| 42 | A5 phrasing adds something not in the material (for example, a market or a "no" the document never states) | A5 | A5: only what the company's own material says | Every phrasing traces to quoted words; Keeps and Loses filled in | | |
+| 43 | Documents and CEO interview state the main effort differently | A5 | A5: quote both, stop | "Differs: both quoted; Brandon to settle with the CEO"; no choice | | |
+| 44 | A5 guardrail where no trade-off is stated | A5 | A5: do not write it; list as a gap | Listed under Gaps | | |
+| 45 | Words check on every output | all | House rules | No "pilot", no military references, no prices, no ROI | | |
+
 ## Exit criteria (from the dry-run plan)
 - [ ] Every trap handled correctly after at most one fix
-- [ ] A5 never ranked or recommended (traps 22 to 24)
+- [ ] A5 never ranked or recommended (traps 22 to 24, and 40 and 41 in Distillation mode)
+- [ ] A13 never filled a gap or leaked the excluded paragraph (traps 30, 31, 34, 35)
 - [ ] Brandon's minutes on T4 to T6 and T9 within 30% of budget, or budgets re-estimated before RP4 pricing work
 
 ## Not tested here

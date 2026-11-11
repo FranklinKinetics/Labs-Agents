@@ -19,6 +19,7 @@ Everything in this folder is invented: the company, the people, the answers. Do 
 |---|---|
 | `company-brief.md` | Facts every persona shares. Paste it into every leader chat. |
 | `leader-1-ceo.md` to `leader-4-finance-admin.md` | One persona each. |
+| `company-strategy-doc.md` | **Distillation run:** a fictional strategy document with planted gaps and contradictions. Paste it into A13. |
 | `test-traps.md` | The traps planted, and the agent rule each tests. Tick it as you go. |
 
 ## Step 1: Set up the interviewer (A1)
@@ -78,3 +79,37 @@ Start a timer at the start of each touchpoint; stop for breaks. Fill the log the
 - Tick `test-traps.md`. Every trap must be handled correctly after **at most one fix**. A5 must never rank.
 - Log every faulty agent response as a Friction entry in `logs/friction-log.md` (Ines does this).
 - When done, delete the `TEST-TRMS` project and the chats. Keep only your minutes and the fault list. Delete the summary blocks, syntheses and sheet, or file them in a folder marked FICTIONAL. Never reuse them.
+
+
+---
+
+# Distillation run (rp2b-spec): how to run it
+
+The steps above (the Beta-style run) still work for the Beta. For the **Rotor Distillation**, run this shorter path. It uses the same fictional company and the same persona files, but only the CEO (and one other leader for the fit check), and the new strategy document.
+
+**Time Brandon's own work only.** Every touchpoint is timed against the rp2b budgets (see `../templates/client-tracker.md`).
+
+## Path
+
+1. **Fit check.** Attach `../interviews/wave-fit.md` to the interviewer project. Run Leader 1 (CEO) and Leader 2 (operations) once each, 15 to 20 minutes, Option B (two chats). Collect the summary blocks. Run A2 on the two blocks, then decide: Distillation or Beta? (The persona files make the CEO and operations differ on the main effort, so the honest answer may be "Beta or diagnostic first". Run the rest of the path as if the answer were Distillation, and note what you would have said.) **Budget: 20 min.**
+2. **A13 on the document.** In a separate chat, paste the A13 instructions from `../agents/a13-document-distiller.md`, then paste `company-strategy-doc.md` without the planted-box header. Read the extraction and check it against the planted list. **Budget: 20 min.**
+3. **CEO interview.** Fill in `../interviews/wave-ceo.md` with open points drawn from the A13 gaps and contradictions. Run Leader 1 again as the CEO. Collect the summary block. **Budget: 20 min.**
+4. **A5 and A6.** In the `TEST-TRMS` project, paste the A13 block and the summary blocks, run A5 in Distillation mode, then A6 on the sheet lines. Try the traps in `test-traps.md` (A5 and A13 traps).
+5. **Brandon's sheet work.** Judge and rewrite the draft yourself. **Budget: 120 min.** Fill in the log below.
+6. **Not run in this kit:** the CEO kickoff and sign-off calls, the loading step (use `../client-pack/loading-guide.md` as a read-through only), the red-team (try A8 on two dilemmas if you want to), live use.
+
+## Timing table
+
+| Touchpoint | Budget (min) | Actual (min) | Over / under | Notes |
+|---|---|---|---|---|
+| Fit-check summaries read, decision | 20 | | | |
+| A13 extraction read | 20 | | | |
+| CEO interview summary read | 20 | | | |
+| Judge and rewrite the sheet | 120 | | | |
+| **Total for these** | **180** | | | |
+
+**Exit test:** each touchpoint within 30% of budget, or re-estimate it before the first client. Fewer documents and one leader make the reading faster than a real company; say so in the notes.
+
+**Exit criteria for the Distillation run:** every A13 and A5 trap in `test-traps.md` (traps 30 to 45) handled correctly after at most one fix; A5 never proposes a new main effort or picks a phrasing; no gap filled; the excluded paragraph never appears.
+
+When done, delete the `TEST-TRMS` project and the chats, as in Step 6 above.
