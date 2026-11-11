@@ -122,7 +122,7 @@ Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5 (Story). The master is the
 
 > **Why the Distillation starts on set dates**
 >
-> A fixed start means a fixed Mirror. Your Mirror date is set the day you sign, so your leaders can protect it in their calendars, and I keep those days clear so you have my full attention. If the next start date doesn't suit you, or it's already full, I'll say so plainly and offer the one after. While you wait, the alignment diagnostic gives your team a useful head start.
+> A fixed start means a fixed Mirror. Your Mirror date is set the day you sign, so your leaders can protect it in their calendars, and I keep those days clear so you have my full attention. If the next start date doesn't suit you, I'll say so plainly and offer the one after. While you wait, the alignment diagnostic gives your team a useful head start.
 >
 > Next start date: [MONTH YEAR].
 
@@ -201,9 +201,9 @@ Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5 (Story). The master is the
   > - Everyone in the company can see the strategy the AI works from and a plain-language summary of how it behaves.
   >
   > **In the Rotor Distillation**
-  > - At the end of each interview, the leader's AI produces a short summary, which they email to me.
+  > - At the end of each interview, the leader emails me the summary their AI produces and a copy of the conversation.
   > - I do my drafting in my own AI account (a one-person plan), in one private project used only for your company. Training on that account's content is switched off in its settings, and I confirm that in writing before the first interview.
-  > - At the end, I delete that project, the summary emails and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
+  > - At the end, I delete that project, the emailed summaries and conversations, and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
   >
   > **In the Rotor Beta**
   > - Your strategy stays in AI tools your company already uses, and Franklin Kinetics does not host your strategy data.
@@ -222,7 +222,7 @@ Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5 (Story). The master is the
 
 ### F1 · FAQ › "Is our strategy safe?" *(D2; keeps the approved Beta and diagnostic sentences word for word)*
 - **Current:** "Your strategy stays in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered."
-- **New:** "Your leaders' interviews run in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. In the Rotor Distillation, each leader emails me a short summary, and I draft in my own AI account, in one private project for your company, with training switched off in its settings. At the end I delete everything and confirm it in writing. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered."
+- **New:** "Your leaders' interviews run in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. In the Rotor Distillation, each leader emails me their interview summary and a copy of the conversation, and I draft in my own AI account, in one private project for your company, with training switched off in its settings. At the end I delete everything I hold and confirm it in writing; the AI vendor may keep deleted content briefly, as set out under Your data. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered."
 - **Why:** the first sentence was true for the Beta only. The two approved sentences are untouched. Never "we never host your data" for the Distillation.
 
 ### F2 · FAQ › "How much of our leaders' time does this take?"
@@ -307,7 +307,7 @@ Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5 (Story). The master is the
 
 | # | Location | Current (exact) | Proposed civilian replacement | Note |
 |---|---|---|---|---|
-| M1 | Home › 7. About teaser | "I'm a military flight instructor with an MBA. My job is teaching people to hold a complex situation in their heads and make good decisions under pressure. Rotor brings that to business strategy, for your people and the AI tools they now work with." | "I help leadership teams turn a written strategy into the calls their people make every day. I have an MBA, and I've spent years teaching people to hold a complex situation in their heads and decide well under pressure. Rotor brings that to business strategy, for your people and the AI tools they now work with." | "Teaching people…" is kept without naming where. Drop that clause too if you want no trace. |
+| M1 | Home › 7. About teaser | "I'm a military flight instructor with an MBA. My job is teaching people to hold a complex situation in their heads and make good decisions under pressure. Rotor brings that to business strategy, for your people and the AI tools they now work with." | "I help leadership teams turn a written strategy into the calls their people make every day. I have an MBA. Rotor brings that to business strategy, for your people and the AI tools they now work with." | "Teaching people…" is kept without naming where. Drop that clause too if you want no trace. |
 | M2 | Home › 7. About teaser › small line | "Views expressed are my own and not those of the Canadian Armed Forces, the Department of National Defence or the Government of Canada." | Keep as is **until checked**. If your guidance allows it once M1 is civilian, move it to the site footer (once, every page) instead of under the teaser. | **May be required** by your conflict-of-interest guidance. Your call only. |
 | M3 | How It Works › Why it works › "Commander's intent" (heading and its four paragraphs, from "Militaries learned long ago…" to "Rotor applies that principle to business.") | Heading "Commander's intent"; opens "Militaries learned long ago that they can't control every decision." | Heading **"Intent, not instructions."** Body: "No leader can be in every decision. Once a plan meets reality, the people closest to the problem have to act on their own, often with no one senior to ask. What they need is intent: a short, clear statement of what the work is for and what matters most. With it, people can make the call in the moment. If the call isn't perfect, they can explain how they reasoned from the intent, and they aren't punished for using their judgment. The Rotor Sheet is your intent, written down, and the AI tools help people reason back to it. If you want your people to act on their own, they need a strong sense of your intent. If you'd rather they wait for instructions, you don't need Rotor." | Not about your service, but it leans on military doctrine for credibility (guardrail 1, last line). The idea survives without the uniform. |
 | M4 | How It Works › Research behind it | "Stephen Bungay: mission command applied to business." | Keep (a published author), or: "Stephen Bungay: turning strategy into action, from *The Art of Action*." | A citation, not your service. Low risk; listed for completeness. |

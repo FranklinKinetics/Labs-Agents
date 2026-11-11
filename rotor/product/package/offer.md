@@ -85,9 +85,9 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > ## Your data, in plain words
 > - Your leaders' interviews run in your company's own AI platform, under your existing agreement with that vendor.
-> - At the end of each interview, the leader's AI produces a short summary, which they email to me.
+> - At the end of each interview, the leader emails me the summary their AI produces and a copy of the conversation. Only I read them.
 > - I do my drafting (summaries, weekly updates, the Sheet) in my own AI account (a one-person plan), in one private project used only for your company. Training on that account's content is switched off in its settings, and I confirm that in writing before the first interview.
-> - At the end, I delete that project, the summary emails and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
+> - At the end, I delete that project, the emailed summaries and conversations, and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
 > - Quotes from your leaders are never attributed unless that leader agrees. Results are reported by team, never about a person, and are never used in performance reviews.
 > - Anything you name at kickoff (acquisitions, people decisions, legal matters, unannounced numbers) stays out of every interview and every document.
 >

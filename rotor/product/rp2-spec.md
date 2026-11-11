@@ -243,7 +243,7 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 > **Decided at RP2 (2026-11-10): option (b).** The AI drafting runs in Brandon's own AI account. The rules:
 > - one private project per company, named by company code;
 > - training on its content switched off. Amended at RP3 (2026-11-11): Brandon chose a one-person plan (e.g. Claude Pro/Max) with training switched off in settings, for now, instead of a commercial tier where no-training is a contract term;
-> - summary blocks reach Brandon as in the Beta;
+> - each leader emails Brandon the summary block and the chat export (so he can read every transcript, T4);
 > - everything is deleted at close-out, with a written deletion confirmation to the client.
 >
 > No client seat is needed. The text below records the options as they were weighed.
@@ -259,7 +259,7 @@ flowchart LR
   subgraph BR["Brandon's own AI account (decided at RP2)"]
     W["One private project per company<br/>A2–A7, A9, A12 run here<br/>deleted at close-out"]
   end
-  L -->|"summary block, by email<br/>(as in the Beta)"| W
+  L -->|"summary block + chat export,<br/>by email"| W
   W -->|"signed-off Rotor Sheet"| T
   W -.->|"step labels only:<br/>override log"| LIB["Brandon's private library"]
 ```

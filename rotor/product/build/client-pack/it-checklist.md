@@ -4,7 +4,7 @@ For the person at [COMPANY] who looks after IT and AI tools. Please complete it 
 
 **Why we ask.** The program runs inside the AI tools your company already uses. Your leaders will talk to an AI interviewer, and later your beta team will use an AI project that carries the company's agreed strategy. We want to set both up on your terms, and in a way your policies allow.
 
-**About your data.** Brandon does not need a seat or an account in your systems. Leaders send their interview summaries to Brandon, and the drafting work happens in Brandon's own AI account, in one private project for [COMPANY] only. Brandon deletes the project and the summary emails at the end of the engagement and confirms it to you in writing. The vendor's own retention for deleted projects is [X days, confirmed before kickoff]. The governance one-pager has the full detail.
+**About your data.** Brandon does not need a seat or an account in your systems. Leaders email their interview summaries and a copy of each conversation to Brandon, and the drafting work happens in Brandon's own AI account, in one private project for [COMPANY] only. Brandon deletes the project and the summary emails at the end of the engagement and confirms it to you in writing. The vendor's own retention for deleted projects is [X days, confirmed before kickoff]. The governance one-pager has the full detail.
 
 ## Your AI tools
 - [ ] Which AI tools does the company approve, and on which plans? (Shared projects, custom assistants and agents usually need a business or enterprise plan.) Answer: [ ]
