@@ -229,10 +229,12 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
   - leader agreement at the diagnostic becomes the "before" baseline.
 - **The waiting room:** a company that signs for an intake months away takes the diagnostic first. That gives Brandon a head start and keeps the client engaged.
 - **No dependence on Brandon's time:** the diagnostic stays a Lab. Brandon reads nothing from it unless the client becomes a program client and sends it.
-- **Data flow** is the diagnostic's own Lab G2 decision. **Recommendation for that gate:** the diagnostic combines summaries *in the client's own AI*.
-  - That means no hosting. The cost is that whoever runs it, the CEO or a convener the client names, sees individual answers.
-  - The disclosure note says so up front.
-  - No report for fewer than three leaders, and quotes unattributed. These are already rules.
+- **Correction (2026-11-11):** the diagnostic was already built on another branch (`claude/wizardly-edison-rzb2c9`), which this spec did not know about. Its decisions stand:
+  - **Data flow:** a sealed drop-box. Leaders submit their blocks to a Franklin Kinetics drop-box, an agent writes the report, no person reads the blocks, and the blocks are deleted on delivery.
+  - **The report is kept** with the client's consent, for comparison with Beta data.
+  - **Questions:** wave 1 questions 1–9 word for word; question 10 is dropped.
+  - **Price:** CAD $790 flat, with no free layer.
+  - **What that means for wave 0:** it is the **diagnostic report** (already kept with consent), not the summary blocks, which are deleted. The short wave 1 must also ask question 10, since the diagnostic skips it.
 
 ---
 
@@ -311,7 +313,7 @@ A member account works everywhere in principle. Juno re-verifies against officia
 ## 11. Sparks added (Lab parts)
 
 Added to `labs/sparks.md`, awaiting Lab G1:
-1. **Alignment diagnostic.** Already decided as a Lab (2026-11-10) but missing from the queue; added so it gets a lab card and a Brief. The program depends on it.
+1. **Alignment diagnostic.** *(Correction 2026-11-11: already a Lab past G1/G2 on branch `claude/wizardly-edison-rzb2c9`; the Spark row was withdrawn.)* The program depends on it.
 2. **Five-tests checker.** Self-serve: paste a strategy and it tests each line. It runs in the buyer's own AI, with nothing hosted. Before it can be a Lab, Brandon confirms the five tests are fine to publish.
 
 ---

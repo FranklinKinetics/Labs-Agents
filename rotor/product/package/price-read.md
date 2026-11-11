@@ -2,7 +2,9 @@
 
 Track recommendation for the two Lab parts. Each is confirmed or changed at its own G5, after its own Brief. Consulting parts (the intake program, the Beta) are not priced here and nothing below implies a price for them. No sales or conversion data exists; none is claimed.
 
-## 1. Alignment diagnostic
+> **Section 1 withdrawn (2026-11-11).** The diagnostic was already priced at its own gate, on branch `claude/wizardly-edison-rzb2c9`: CAD $790 flat, no free layer, no credit toward the Beta (decision 2026-11-10). This track does not reprice it. Brandon to confirm the figure (he recalls 699).
+
+## 1. Alignment diagnostic (withdrawn, kept for the record)
 
 **Free layer.** Each leader runs the AI interview in their own AI and gets their own short summary back. The interview alone is useful to a leader thinking about where they stand, and needs nothing from us.
 
