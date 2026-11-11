@@ -108,3 +108,7 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-11 | Remove the playbook's founding-Beta offer of a "reduced fixed fee, time-limited" in exchange for a testimonial. It conflicts with no-discount and no-scarcity. | Claude Code |
 | 2026-11-11 | Existing military references on the website and in the playbook stay. The RP5 replacement tables are not applied. New Rotor Product material still adds none. | Claude Code |
 | 2026-11-11 | Reshape the Rotor Distillation to address the AI side: it starts from a strategy the leaders already agree on and distills it into a Rotor Sheet loaded into their AI tools. The Beta (alignment, people and AI) is unchanged. The diagnostic sorts buyers between them. RP2 re-runs on `rotor/product/rp2b-spec.md`. | Claude Code |
+| 2026-11-11 | RP2 re-run passed: the Rotor Distillation is specified by `rotor/product/rp2b-spec.md`. It is the AI side, with rolling starts, ~12 weeks, ~12 h of Brandon, 3 calls at 4 pm or in the evening, and 0 days off. | Claude Code |
+| 2026-11-11 | Data, an addition to option B: Brandon may receive the A13 extraction (a structured digest of the client's strategy documents, made in the client's own AI). The strategy documents themselves are never sent. | Claude Code |
+| 2026-11-11 | Up to two Rotor Beta clients a year (internal planning rule; never stated in client copy). | Claude Code |
+| 2026-11-11 | Ontology terms "intake", "Mirror day" and "waiting room" retired. "Wave 0" and "override log" stay. | Claude Code |
