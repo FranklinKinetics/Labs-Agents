@@ -24,7 +24,7 @@ hours:
   crew_sessions: 0         # number of crew work sessions
 
 offer:
-  free_layer: ""
+  free_layer: ""     # optional; "none" is fine
   paid_layer: ""
   price_cad: null
   format: ""         # download | template | claude-skill | web-app | subscription | setup-service | bundle

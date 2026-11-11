@@ -24,7 +24,6 @@ This is paste-ready copy for every page of the rebuilt franklinkinetics.com, in 
 
 - [x] Set 301 redirects: /rotor → /how-it-works, /work-with-me → /contact
 - [x] Fix the footer Contact link (currently half-pointed at squarespace.com)
-- [ ] Turn off commerce so the cart icon disappears
 - [x] Replace the About background image (helicopter silhouette) with a civilian image
 - [ ] Update site title, search description and social card (see SEO section)
 - [x] Host the Aspen Grove promo on Vimeo or YouTube (unlisted) and embed it
@@ -167,7 +166,7 @@ The rest of this page covers the practical details: time, cost, deliverables, me
 | --- | --- |
 | Length | About 18 weeks: 5–6 weeks to build, 12 weeks live, then a review |
 | Meetings | Three: a kickoff, the Mirror and the review. The rest runs on your schedule. |
-| Who's involved | The CEO, the leadership team, one pilot team and one comparison team |
+| Who's involved | The CEO, the leadership team, one Beta team and one comparison team |
 | Fee | Fixed, agreed before work starts [CONFIRM] |
 | Tools | Works with ChatGPT, Claude or Microsoft Copilot. The basic setup needs no new software. |
 | Fits with | EOS, Scaling Up, OKRs or your own planning process |
@@ -180,7 +179,7 @@ Everything else happens on your schedule:
 
 - **Leader interviews, run by AI.** Each leader talks with an AI interviewer in two or three short sessions, by voice or text, whenever it suits them. I design the questions and read every transcript.
 - **A weekly progress note.** The CEO gets a short written update every week instead of a status meeting.
-- **Light check-ins with the pilot team.** A few questions a month, through the AI tools they already use.
+- **Light check-ins with the Beta team.** A few questions a month, through the AI tools they already use.
 - **Replies within two working days.** Every question gets an answer without waiting for a meeting. [CONFIRM]
 
 The interviewer runs on the AI platform your company already uses, such as ChatGPT, Claude or Copilot.
@@ -193,7 +192,7 @@ The interviewer runs on the AI platform your company already uses, such as ChatG
 | --- | --- | --- | --- |
 | CEO | Kickoff, two or three short AI interviews, the Mirror session, video recorded on your own time [CONFIRM: ~X hours] | A short weekly note to read; optional 20-minute check-in [~X hours] | Review meeting [~X hours] |
 | Leadership team | Two or three short AI interviews each, a short reaction to the draft, and the Mirror session [~X hours each] | None required | Review meeting |
-| Pilot team | Baseline decision cases, answered with an AI interviewer [~X minutes each] | Normal work, using the strategy and their AI tools, plus a few pulse questions a month | Repeat the decision cases |
+| Beta team | Baseline decision cases, answered with an AI interviewer [~X minutes each] | Normal work, using the strategy and their AI tools, plus a few pulse questions a month | Repeat the decision cases |
 | Comparison team | Baseline decision cases, answered with an AI interviewer | No change | Repeat the decision cases |
 | IT | Help connect the AI tools [~X hours] | None | None |
 
@@ -204,7 +203,7 @@ The interviewer runs on the AI platform your company already uses, such as ChatG
 | Phase | Length | What happens | Output |
 | --- | --- | --- | --- |
 | Build | 5–6 weeks | AI-led leadership interviews on each leader's own schedule. Review of your existing strategy documents. The Mirror: one working session to settle the main effort, trade-off rules and key assumptions. CEO video recorded. AI tools set up and tested. Baseline measures taken. | Rotor Sheet, one-page visual, strategy video, AI setup, baseline |
-| Live run | 12 weeks | The pilot team uses the strategy and AI guidance in normal work. A weekly progress note to the CEO and light monthly check-ins with the team. | Weekly progress notes and a decision log |
+| Live run | 12 weeks | The Beta team uses the strategy and AI guidance in normal work. A weekly progress note to the CEO and light monthly check-ins with the team. | Weekly progress notes and a decision log |
 | Review | End of the quarter | Measures repeated and compared with the baseline and the comparison team. First quarterly review of the assumptions. | Results report and a recommendation: scale, adjust or stop |
 
 ### What you receive
@@ -217,14 +216,14 @@ The interviewer runs on the AI platform your company already uses, such as ChatG
 | One-page visual | The Rotor Sheet as a graphic for meetings and onboarding |
 | Strategy video | 2–3 minutes, narrated by the CEO |
 | AI setup | Your AI tools configured with the Rotor Core and your Rotor Sheet |
-| Results report | Baseline and end-of-quarter measures, pilot team against comparison team |
+| Results report | Baseline and end-of-quarter measures, Beta team against comparison team |
 | Recommendation | Scale, adjust or stop, with the evidence behind it |
 
 ### How results are measured
 
 We report measures that can change within one quarter. We do not promise financial results. Those are written down as hypotheses at the start and tracked in later quarterly reviews.
 
-**Decision consistency (a noise audit).** Before and after the live run, the pilot and comparison teams answer the same set of realistic decision cases, presented by an AI that also records the reasoning behind each answer. We compare how far apart their answers are. For reference: in an insurance company studied in *Noise* (Kahneman, Sibony and Sunstein, 2021), executives expected their underwriters' prices for the same case to differ by about 10%. The actual difference was about 55%.
+**Decision consistency (a noise audit).** Before and after the live run, the Beta and comparison teams answer the same set of realistic decision cases, presented by an AI that also records the reasoning behind each answer. We compare how far apart their answers are. For reference: in an insurance company studied in *Noise* (Kahneman, Sibony and Sunstein, 2021), executives expected their underwriters' prices for the same case to differ by about 10%. The actual difference was about 55%.
 
 **Supporting measures**
 
@@ -352,7 +351,7 @@ You can, and you'll get guidance as clear as the deck. Most strategy documents a
 
 **Is our strategy safe?**
 
-Your strategy stays in tools your company already controls, under your existing agreements with those vendors. Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software.
+Your strategy stays in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered.
 
 **Will staff feel monitored?**
 
