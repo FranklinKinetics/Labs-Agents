@@ -65,7 +65,7 @@ Start a timer at the start of each touchpoint; stop for breaks. Fill the log the
 | Touchpoint | Budget (min) | Actual (min) | Over / under | Notes |
 |---|---|---|---|---|
 | T2 Install check (the simulation's share) | 25 | | | |
-| T4 Transcript reading (all waves, four leaders) | 140 | | | |
+| T4 Summary reading (all waves, four leaders) | 75 | | | |
 | T5 Synthesis, wave 2 file, divergence summary edits | 95 | | | |
 | T6 Choosing the candidates | 105 | | | |
 | T9 Sheet, script, red-team | 120 | | | |

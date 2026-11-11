@@ -20,7 +20,7 @@ Thank you for choosing to work with me. Here is what the next few weeks look lik
 4. Name the team that will take part in the beta (the beta team) and a similar team that will not (the comparison team). We will confirm both at kickoff.
 
 **What happens next**
-Your leaders will each have two or three short conversations with an AI interviewer, about 20 minutes each, on [PLATFORM], whenever suits them. I read every transcript myself. Before the first one, each leader gets a short note explaining who sees what. I will send you a short progress note [every week / every second week], and every message you send me gets a reply within three working days.
+Your leaders will each have two or three short conversations with an AI interviewer, about 20 minutes each, on [PLATFORM], whenever suits them. I read each leader's summary myself; the full conversations stay in your own account. Before the first one, each leader gets a short note explaining who sees what. I will send you a short progress note [every week / every second week], and every message you send me gets a reply within three working days.
 
 I work on this around other commitments, so I keep to that reply standard and I flag anything that needs an answer sooner. If something is urgent for you, say so in the subject line and I will answer that first.
 

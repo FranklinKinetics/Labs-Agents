@@ -66,7 +66,7 @@ Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5 (Story). The master is the
 >
 > **The alignment diagnostic** shows where your leaders agree and where they don't. You run it yourselves; it's useful even if you stop there.
 >
-> **The Rotor Distillation** is the full build: each leader heard on their own time, the hard calls settled at the Mirror, then one team working from it for a quarter. I read every interview and make every judgment. It starts on set dates.
+> **The Rotor Distillation** is the full build: each leader heard on their own time, the hard calls settled at the Mirror, then one team working from it for a quarter. I read every leader's interview summary and make every judgment. It starts on set dates.
 >
 > **The Rotor Beta** is the same journey with me in the room for every session, and a timetable built around your company instead of a set start date.
 
@@ -195,15 +195,15 @@ Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5 (Story). The master is the
   > - Results are reported by team, not by individual. [CONFIRM]
 - **New:**
   > **In both**
-  > - Your leaders' interviews run in your company's own AI platform, under your existing agreement with that vendor. Transcripts are read only by me. Before the first interview, every leader is told what will be attributed and what stays anonymous.
+  > - Your leaders' interviews run in your company's own AI platform, under your existing agreement with that vendor. The full conversations stay there; I receive only each leader's summary. Before the first interview, every leader is told what will be attributed and what stays anonymous.
   > - Quotes from your leaders are never attributed unless that leader agrees. Results are reported by team, never about a person.
   > - Anything you name at kickoff (acquisitions, people decisions, legal matters, unannounced numbers) stays out of every interview and every document.
   > - Everyone in the company can see the strategy the AI works from and a plain-language summary of how it behaves.
   >
   > **In the Rotor Distillation**
-  > - At the end of each interview, the leader emails me the summary their AI produces and a copy of the conversation.
+  > - At the end of each interview, the leader emails me the summary their AI produces. The full conversation stays in your account.
   > - I do my drafting in my own AI account (a one-person plan), in one private project used only for your company. Training on that account's content is switched off in its settings, and I confirm that in writing before the first interview.
-  > - At the end, I delete that project, the emailed summaries and conversations, and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
+  > - At the end, I delete that project, the emailed summaries and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
   >
   > **In the Rotor Beta**
   > - Your strategy stays in AI tools your company already uses, and Franklin Kinetics does not host your strategy data.
@@ -222,7 +222,7 @@ Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5 (Story). The master is the
 
 ### F1 · FAQ › "Is our strategy safe?" *(D2; keeps the approved Beta and diagnostic sentences word for word)*
 - **Current:** "Your strategy stays in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered."
-- **New:** "Your leaders' interviews run in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. In the Rotor Distillation, each leader emails me their interview summary and a copy of the conversation, and I draft in my own AI account, in one private project for your company, with training switched off in its settings. At the end I delete everything I hold and confirm it in writing; the AI vendor may keep deleted content briefly, as set out under Your data. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered."
+- **New:** "Your leaders' interviews run in tools your company already controls, under your existing agreements with those vendors. In the Beta, Franklin Kinetics never hosts your strategy data, and the basic setup needs no new software. In the Rotor Distillation, each leader emails me their interview summary, and I draft in my own AI account, in one private project for your company, with training switched off in its settings. At the end I delete everything I hold and confirm it in writing; the AI vendor may keep deleted content briefly, as set out under Your data. The alignment diagnostic briefly holds each leader's summary, with names removed, and deletes it once your report is delivered."
 - **Why:** the first sentence was true for the Beta only. The two approved sentences are untouched. Never "we never host your data" for the Distillation.
 
 ### F2 · FAQ › "How much of our leaders' time does this take?"

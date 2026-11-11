@@ -34,7 +34,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > **The alignment diagnostic** shows where your leaders agree and where they don't. You run it yourselves; it's useful even if you stop there.
 >
-> **The Rotor Distillation** is the full build: each leader heard on their own time, the hard calls settled at the Mirror, then one team working from it for a quarter. I read every interview and make every judgment. It starts on set dates.
+> **The Rotor Distillation** is the full build: each leader heard on their own time, the hard calls settled at the Mirror, then one team working from it for a quarter. I read every leader's interview summary and make every judgment. It starts on set dates.
 >
 > **The Rotor Beta** is the same journey with me in the room for every session, and a timetable built around your company instead of a set start date.
 
@@ -72,7 +72,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 > | About week 8 | **The Mirror**, 2 hours. Your strategy reflected back in your leaders' own words; the contested calls settled; the Rotor Sheet signed off. Remote by default. | Your leadership team and me |
 > | About week 21 | **Review**, 60 minutes, late afternoon. Scale it, adjust it or stop. | You and me |
 >
-> Between those, your leaders each have two or three short conversations with an AI interviewer, about 20 minutes each, whenever suits them. I read every transcript. Every message you send me gets a reply within three working days, and anything you flag as urgent is answered first.
+> Between those, your leaders each have two or three short conversations with an AI interviewer, about 20 minutes each, whenever suits them. I read every leader's interview summary; the full conversations stay in your company's own AI account, and nobody at Franklin Kinetics reads them. Every message you send me gets a reply within three working days, and anything you flag as urgent is answered first.
 >
 > **Why the start dates are fixed:** a fixed start means a fixed Mirror. Your Mirror date is set the day you sign, so your leaders can protect it in their calendars, and I keep those days clear so you have my full attention. If the next start date doesn't suit you, or it's already full, I'll say so plainly and offer the one after. While you wait, the alignment diagnostic gives your team a useful head start.
 >
@@ -85,9 +85,9 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > ## Your data, in plain words
 > - Your leaders' interviews run in your company's own AI platform, under your existing agreement with that vendor.
-> - At the end of each interview, the leader emails me the summary their AI produces and a copy of the conversation. Only I read them.
+> - At the end of each interview, the leader emails me the summary their AI produces. Only I read it. The full conversation stays in your account.
 > - I do my drafting (summaries, weekly updates, the Sheet) in my own AI account (a one-person plan), in one private project used only for your company. Training on that account's content is switched off in its settings, and I confirm that in writing before the first interview.
-> - At the end, I delete that project, the emailed summaries and conversations, and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
+> - At the end, I delete that project, the emailed summaries and every copy I hold, and send you written confirmation. The AI vendor may keep deleted content for [X days, from the vendor's current policy].
 > - Quotes from your leaders are never attributed unless that leader agrees. Results are reported by team, never about a person, and are never used in performance reviews.
 > - Anything you name at kickoff (acquisitions, people decisions, legal matters, unannounced numbers) stays out of every interview and every document.
 >

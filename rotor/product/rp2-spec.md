@@ -138,7 +138,7 @@ These are estimates. The hard cap in section 4 applies to the real numbers.
 | T1 | Discovery conversation | Live, 4 pm or evening | 45 | Trust; fit |
 | T2 | Welcome video and install check | Async | 25 | Being heard begins here |
 | T3 | CEO kickoff | **Live 4 pm, one-on-one** | 60 | Scope and governance are commitments |
-| T4 | Transcript reading | Async | 140 | Promised in the disclosure note; the source of judgment |
+| T4 | Summary reading (amended RP5; was transcript reading, 140) | Async | 75 | The source of judgment; full transcripts stay with the client |
 | T5 | Synthesis, wave 2 file and divergence summary edits | Async | 95 | Quality of the mirror |
 | **T6** | **Choosing the schwerpunkt candidates** | Async | **105** | **The judgment clients pay for. Never automated.** |
 | T7 | Mirror prep and pre-Mirror video | Async | 60 | |
@@ -166,7 +166,7 @@ Every agent is a plain-text instruction pack in the style of the Interviewer Pac
 
 | Agent | What it does | Input → output | Runs in | Checked by | Override-log step |
 |---|---|---|---|---|---|
-| **A1** Interviewer | Leader interviews, waves 1–3 | Wave file → summary block | Client's AI (existing) | Brandon reads every transcript | S1 |
+| **A1** Interviewer | Leader interviews, waves 1–3 | Wave file → summary block | Client's AI (existing) | Brandon reads every summary block | S1 |
 | **A2** Synthesizer | After each wave: themes, agreements, differences, unattributed quotes, language harvest, contested items | Summary blocks → wave synthesis | Brandon's account (section 8) | Brandon | S2 |
 | **A3** Wave drafter | Per-leader wave 2 follow-ups; the wave 3 file | Synthesis → wave file | Brandon's account (section 8) | Brandon | S3 |
 | **A4** Divergence drafter | Two-page divergence summary and language harvest, nobody quoted by name | Syntheses → draft summary | Brandon's account (section 8) | Brandon | S4 |
@@ -243,7 +243,7 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 > **Decided at RP2 (2026-11-10): option (b).** The AI drafting runs in Brandon's own AI account. The rules:
 > - one private project per company, named by company code;
 > - training on its content switched off. Amended at RP3 (2026-11-11): Brandon chose a one-person plan (e.g. Claude Pro/Max) with training switched off in settings, for now, instead of a commercial tier where no-training is a contract term;
-> - each leader emails Brandon the summary block and the chat export (so he can read every transcript, T4);
+> - each leader emails Brandon the summary block only (amended at RP5, 2026-11-11: Brandon does not receive or read full transcripts in the Distillation; T4 becomes reading summary blocks, budget 75 min (was 140), so the per-company total is about 1,227 min ≈ 20.5 h);
 > - everything is deleted at close-out, with a written deletion confirmation to the client.
 >
 > No client seat is needed. The text below records the options as they were weighed.
@@ -259,7 +259,7 @@ flowchart LR
   subgraph BR["Brandon's own AI account (decided at RP2)"]
     W["One private project per company<br/>A2–A7, A9, A12 run here<br/>deleted at close-out"]
   end
-  L -->|"summary block + chat export,<br/>by email"| W
+  L -->|"summary block only,<br/>by email"| W
   W -->|"signed-off Rotor Sheet"| T
   W -.->|"step labels only:<br/>override log"| LIB["Brandon's private library"]
 ```
