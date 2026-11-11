@@ -1,5 +1,48 @@
 # Brandon's review checklists
 
+## Rotor Distillation (reshaped 2026-11-11, spec `rp2b-spec.md`)
+Tick through, then log the step in the override log (changed or not, and why). Budgets are from rp2b section 2.
+
+### Fit check (~20 min): Distillation or Beta?
+- [ ] Read the fit summaries, or the diagnostic report if the client has one.
+- [ ] Do the CEO and the leaders name the **same main effort** in substance, even if their words differ?
+- [ ] Is there a written strategy to start from (a plan, EOS or OKR pages, offsite notes)?
+- [ ] Decide:
+  - **Distillation** if the main efforts match and a strategy exists;
+  - **Beta** (or the diagnostic first) if the main efforts differ, or the strategy would need a real argument to pass the five tests.
+- [ ] Tell the CEO your reasoning plainly. This is your call; it is never automated.
+
+### A13 extraction (~20 min)
+- [ ] Every item quotes their documents. Nothing is invented.
+- [ ] Gaps and contradictions are flagged, not filled.
+- [ ] Nothing marked confidential or excluded appears.
+- [ ] Note the 2–3 questions to raise at the kickoff.
+
+### The sheet (~120 min): the judgment clients pay for
+1. [ ] **Before opening A5's draft** (first three clients): write your own one-line read of their main effort in the company's project. The override log records only whether it matched (yes / partly / no).
+2. [ ] Check A5's 2–3 phrasings. Each must be **their** main effort, sharpened, never a new one. Keep the clearest, or write your own, in their words.
+3. [ ] Guardrails: 5–7, taken from trade-offs they already named, each with a good call and a bad call from their material.
+4. [ ] Living models: 8–12, each with a tripwire and an owner to confirm.
+5. [ ] Language map from their own words.
+6. [ ] Run A6. Fix or cut every line that fails a test.
+7. [ ] List the open items for the CEO sign-off session. Anything only the CEO can decide goes there, not into the sheet.
+
+### Before the CEO sign-off (~20 min)
+- [ ] Read the leaders' written reactions (wave 3 file).
+- [ ] Open items: at most five, each a clear either/or.
+
+### Setup check (~45 min)
+- [ ] The Sheet and the current Rotor Core version are loaded (record the version).
+- [ ] The behaviour summary and the employee note are published internally.
+- [ ] One test question per behaviour level (ambient, nudge, explicit) gives a sensible answer.
+
+### Red-team (~60 min)
+Same as the Beta's T9 red-team list below.
+
+---
+
+## Rotor Beta
+
 One checklist for each judgment touchpoint in the spec (T4, T5, T6, T9). Each fits on a phone screen. Tick through it, then log the step in the override log: changed or not, and why. Times are budgets from spec section 4.
 
 ---

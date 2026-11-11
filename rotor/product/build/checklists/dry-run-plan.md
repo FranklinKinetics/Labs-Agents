@@ -1,4 +1,9 @@
-# Dry-run plan: two stages (amended 2026-11-11)
+# Dry-run plan: two stages (amended 2026-11-11, reshaped Distillation)
+
+> **Reshape note:** the Distillation now follows `rp2b-spec.md`.
+> - **Stage 1** runs fit check → A13 on the fictional strategy document → CEO interview → A5/A6 → Brandon's sheet work → A8, timed against the rp2b budgets.
+> - **Stage 2** is the first two real Distillation clients, rolling starts, told plainly they are among the first. There is no intake, no Mirror and no comparison team.
+> - Stage 2 exit: Brandon's minutes within 30% of ~740 per company; A5 never proposes a new main effort; A13 never fills a gap.
 
 **What changed:** Brandon has no friendly company, so the original plan below is replaced by two stages (decision 2026-11-11).
 
