@@ -112,3 +112,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-11 | Data, an addition to option B: Brandon may receive the A13 extraction (a structured digest of the client's strategy documents, made in the client's own AI). The strategy documents themselves are never sent. | Claude Code |
 | 2026-11-11 | Up to two Rotor Beta clients a year (internal planning rule; never stated in client copy). | Claude Code |
 | 2026-11-11 | Ontology terms "intake", "Mirror day" and "waiting room" retired. "Wave 0" and "override log" stay. | Claude Code |
+| 2026-11-11 | RP3 rework passed. Client copy never contrasts the Distillation and the Beta on how much of Brandon each includes; the ladder's "me in the room" sentence is cut. | Claude Code |

@@ -21,6 +21,7 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 | 2026-11-11 | Rotor Product (track) | RP3 build | pass with changes | No friendly company is available for the dry run, so the plan is to be replaced. Quotes stay unattributed unless the leader agrees; the beta team needs 5+ people; the AI account is a one-person plan with training off. |
 | 2026-11-11 | Rotor Product (track) | RP4 package | pass with changes | Name chosen by Brandon (Rotor Distillation; Rotor Term rejected); Fenn's three voice lines rewritten (A A A); "one a year" removed from client copy; Sol's diagnostic price withdrawn, CAD $790 confirmed; five tests cleared to publish. |
 | 2026-11-11 | Rotor Product (track) | RP2 re-run (Distillation reshaped to the AI side) | pass | Brandon approved all three asks: the A13 digest is sent to Brandon; up to 2 Betas a year; intake, Mirror day and waiting room retired. |
+| 2026-11-11 | Rotor Product (track) | RP3 build rework (reshaped Distillation) | pass | Beta ladder sentence comparing how much of Brandon was cut (option A). |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |

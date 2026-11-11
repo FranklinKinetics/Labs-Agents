@@ -36,7 +36,7 @@ The name has to sit in one breath with the other two rungs: *the alignment diagn
 >
 > **If you agree: the Rotor Distillation.** You have a strategy, on EOS, OKRs or a plan of your own, and your leaders stand behind it. Your AI tools have never seen it. We distill what you've already decided into one page, load it into the tools your people use, test it, and put it to work with one team.
 >
-> **If you don't: the Rotor Beta.** When the split is the real problem, the AI can wait. The Beta settles the hard calls with your leadership team first, then carries the result to your people and your AI tools. It's me in the room for every session, and a timetable built around your company.
+> **If you don't: the Rotor Beta.** When the split is the real problem, the AI can wait. The Beta settles the hard calls with your leadership team first, then carries the result to your people and your AI tools.
 >
 > If you'd rather talk it through, start with a conversation. I'll tell you plainly which one fits, including when it's neither.
 
