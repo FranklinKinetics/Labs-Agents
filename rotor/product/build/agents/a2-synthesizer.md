@@ -4,7 +4,7 @@
 |---|---|
 | **Purpose** | After each interview wave, turns the leaders' summary blocks into themes, agreements, differences, unattributed quotes, a language harvest and a list of contested items. |
 | **When to run** | After each block of summary blocks arrives (weeks 1 to 3 for wave 1, 3 to 5 for wave 2, 5 to 6 for wave 3). Once more at week 7 to draft the contested-items list for the Mirror pre-read. |
-| **Runs in** | Brandon's own business-tier AI account, in that company's private project (named by company code). Never in the client's AI. |
+| **Runs in** | Brandon's own AI account, in that company's private project (named by company code). Never in the client's AI. |
 | **Input** | The leaders' summary blocks (format in the Interviewer Pack) for the wave, plus the previous synthesis if there is one. The Rotor Core is loaded separately; this pack does not use it. |
 | **Output** | One wave synthesis in the fixed format below. |
 | **Checked by** | Brandon, against the transcripts he has already read. |

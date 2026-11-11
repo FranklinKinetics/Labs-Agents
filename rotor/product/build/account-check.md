@@ -16,7 +16,10 @@
 
 **Retention after deletion:** unverified for every platform. One snippet says deleted ChatGPT data is removed within 30 days unless a legal hold applies.
 
-## Recommendation
+## Decision (2026-11-11)
+Brandon chose **option B for now**: a one-person plan (e.g. Claude Pro or Max) with training switched off in its settings. Protection is a setting he controls, not a contract term. Before each intake, check the setting is still off and screenshot it for the record. Revisit a commercial tier if a client asks for contractual no-training, or if the setting changes.
+
+## Original recommendation (not taken)
 Use a **commercial tier**. **Claude Team** is the only route we could verify for one person, and it means paying for 2 seats.
 
 Brandon checks these himself at sign-up, because they can't be verified from here:

@@ -4,7 +4,7 @@
 |---|---|
 | **Purpose** | Drafts three to five schwerpunkt candidates as options, each with what choosing it would make the company give up. Also drafts guardrail, living-model and tripwire starting points. It never ranks, recommends or picks. |
 | **When to run** | Week 5, after the divergence summary (A4) is edited. **Brandon writes his own one-line view first, before opening this draft** (for the first two intakes). |
-| **Runs in** | Brandon's own business-tier AI account, in that company's private project. |
+| **Runs in** | Brandon's own AI account, in that company's private project. |
 | **Input** | The edited divergence summary (A4), the wave syntheses (A2), and the summary blocks if needed. The Rotor Core is loaded separately. |
 | **Output** | A set of draft options. Brandon chooses and rewrites them (T6, never automated), and the leadership team signs off at the Mirror. |
 | **Checked by** | **Brandon chooses.** The leadership team signs off at the Mirror. |

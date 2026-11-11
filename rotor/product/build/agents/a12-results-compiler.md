@@ -4,7 +4,7 @@
 |---|---|
 | **Purpose** | Compiles the measures into a results pack: beta team versus comparison team, null results reported honestly, no financial claims. |
 | **When to run** | Week 21, before the CEO review. Brandon uses the pack for the results video and the review one-on-one. |
-| **Runs in** | Brandon's own business-tier AI account, in that company's private project. |
+| **Runs in** | Brandon's own AI account, in that company's private project. |
 | **Input** | All the measures, as agreed at kickoff: noise audit blocks (before and end of quarter, both teams), leader agreement counts, recall pulse results, time sample, decision speed, guidance quality ratings, early warnings, friction found, decision log. Plus the pulse syntheses (A11) and the kickoff scope showing which teams are the beta team and the comparison team. The Rotor Core is loaded separately. |
 | **Output** | A results pack in the fixed format below. |
 | **Checked by** | Brandon, against the raw measures. |

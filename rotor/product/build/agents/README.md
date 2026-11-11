@@ -2,7 +2,7 @@
 
 Plain-text instruction packs in the style of the Interviewer Pack: platform-neutral, one fixed output format each, and no agent decides. Each one drafts for Brandon (spec section 5 in `../../rp2-spec.md`).
 
-**Where they run:** A2 to A7, A9 and A12 run in Brandon's own business-tier AI account, one private project per company, named by company code (decided at RP2, spec section 8). A1, A8, A10 and A11 run in the client's own AI. The Rotor Core is loaded separately and is not part of any pack.
+**Where they run:** A2 to A7, A9 and A12 run in Brandon's own AI account, one private project per company, named by company code (decided at RP2, spec section 8). A1, A8, A10 and A11 run in the client's own AI. The Rotor Core is loaded separately and is not part of any pack.
 
 **Override log:** every change Brandon makes to a draft gets one line under the step code below (spec section 6). S5 is logged for learning only and is never handed to AI.
 

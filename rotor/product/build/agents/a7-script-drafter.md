@@ -4,7 +4,7 @@
 |---|---|
 | **Purpose** | Drafts the 2 to 3 minute strategy video script, for the CEO to narrate, and a 20 to 30 second clip script for each guardrail, all in the company's own language map. |
 | **When to run** | Weeks 8 to 9, after the Mirror, once the Rotor Sheet is signed off and A6 has checked the final sheet. |
-| **Runs in** | Brandon's own business-tier AI account, in that company's private project. |
+| **Runs in** | Brandon's own AI account, in that company's private project. |
 | **Input** | The signed-off Rotor Sheet (including the language map) and the chosen metaphor. The Rotor Core is loaded separately. |
 | **Output** | One main script and one clip script per guardrail, with timings and visual cues. |
 | **Checked by** | Brandon edits first; then the CEO, who records it from the script on their own time. |

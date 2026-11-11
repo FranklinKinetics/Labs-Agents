@@ -4,7 +4,7 @@
 |---|---|
 | **Purpose** | Runs every line of a draft or final Rotor Sheet through the five tests (decision, trade-off, new hire, hindsight, tripwire), and flags each failure with a reason. It marks up; it does not rewrite. |
 | **When to run** | Week 5 on the draft (Brandon's rewritten candidates and guardrails, before wave 3), and weeks 8 to 9 on the final signed-off sheet. |
-| **Runs in** | Brandon's own business-tier AI account, in that company's private project. The same core is the basis for the self-serve five-tests checker Spark, which runs in the buyer's own AI. |
+| **Runs in** | Brandon's own AI account, in that company's private project. The same core is the basis for the self-serve five-tests checker Spark, which runs in the buyer's own AI. |
 | **Input** | A draft or final Rotor Sheet (template in the Beta Playbook), plus, for the hindsight test, any real past decisions the leaders named in the synthesis. The Rotor Core is loaded separately. |
 | **Output** | A marked-up sheet in the fixed format below. |
 | **Checked by** | Brandon. |

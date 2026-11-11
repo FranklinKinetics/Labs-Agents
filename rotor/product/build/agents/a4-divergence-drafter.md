@@ -4,7 +4,7 @@
 |---|---|
 | **Purpose** | Drafts the two-page divergence summary (where leaders agree, where they differ, what the Mirror must settle) and the language harvest. Written so it can go to the client with nobody quoted by name. |
 | **When to run** | Weeks 3 to 5, after the wave 2 interviews and the wave 2 synthesis (A2) are checked. Again if wave 3 changes the picture (weeks 5 to 6). |
-| **Runs in** | Brandon's own business-tier AI account, in that company's private project. |
+| **Runs in** | Brandon's own AI account, in that company's private project. |
 | **Input** | The checked wave syntheses (A2) and, if needed, the summary blocks. The Rotor Core is loaded separately. |
 | **Output** | A draft summary of about two pages plus a language harvest. It is a draft for Brandon; the CEO sees it only after Brandon has edited it. |
 | **Checked by** | Brandon, line by line, specifically for anything that could identify a leader. |

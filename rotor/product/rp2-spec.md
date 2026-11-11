@@ -238,9 +238,9 @@ date | intake-company code (e.g. 27A-2) | step (S1–S11) | change: none · cut 
 
 ## 8. Data flow: where the synthesis runs
 
-> **Decided at RP2 (2026-11-10): option (b).** The AI drafting runs in Brandon's own business-tier AI account. The rules:
+> **Decided at RP2 (2026-11-10): option (b).** The AI drafting runs in Brandon's own AI account. The rules:
 > - one private project per company, named by company code;
-> - an account tier whose terms exclude training on its content (Juno confirms at RP3);
+> - training on its content switched off. Amended at RP3 (2026-11-11): Brandon chose a one-person plan (e.g. Claude Pro/Max) with training switched off in settings, for now, instead of a commercial tier where no-training is a contract term;
 > - summary blocks reach Brandon as in the Beta;
 > - everything is deleted at close-out, with a written deletion confirmation to the client.
 >
@@ -254,7 +254,7 @@ flowchart LR
     L["Leaders' interview chats (A1)"]
     T["Beta team's AI<br/>(Sheet + Core, A8, A10, A11)"]
   end
-  subgraph BR["Brandon's business-tier AI account (decided at RP2)"]
+  subgraph BR["Brandon's own AI account (decided at RP2)"]
     W["One private project per company<br/>A2–A7, A9, A12 run here<br/>deleted at close-out"]
   end
   L -->|"summary block, by email<br/>(as in the Beta)"| W
@@ -279,7 +279,7 @@ flowchart LR
 
 A member account works everywhere in principle. Juno re-verifies against official docs at RP3 before anything is promised to a client, including each platform's no-training terms.
 
-**The fallback, (b):** Brandon's own business-tier AI account, one project per company, deleted at close-out. This holds client strategy data, even briefly, so **it needs Brandon's approval**. My recommendation is **not to approve it now**. A client seat becomes a condition of the program, and we revisit (b) only if it costs a sale.
+**The fallback, (b):** Brandon's own AI account, one project per company, deleted at close-out. This holds client strategy data, even briefly, so **it needs Brandon's approval**. My recommendation is **not to approve it now**. A client seat becomes a condition of the program, and we revisit (b) only if it costs a sale.
 
 **Trade-off of (a):** the agent packs sit in the client's tenant, where an admin could read them. That exposes method, not the library. It is protected the same way as the Core: licence, confidentiality and a per-client fingerprint (playbook, Protecting the Core).
 

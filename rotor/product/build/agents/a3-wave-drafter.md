@@ -4,7 +4,7 @@
 |---|---|
 | **Purpose** | Drafts the wave 2 follow-up file (one section per leader) and, later, the wave 3 reaction file, in the exact shape the Interviewer Pack uses. |
 | **When to run** | Week 3 for wave 2, after the wave 1 synthesis (A2) is checked. Week 5 for wave 3, after Brandon has chosen and rewritten the schwerpunkt candidates (T6). |
-| **Runs in** | Brandon's own business-tier AI account, in that company's private project. |
+| **Runs in** | Brandon's own AI account, in that company's private project. |
 | **Input** | Wave 2: the checked wave 1 synthesis and the wave 1 summary blocks. Wave 3: the draft candidates and guardrails *as Brandon has rewritten them*, plus the synthesis. The Rotor Core is loaded separately. |
 | **Output** | A wave file Brandon pastes into the client's interviewer as the wave file. |
 | **Checked by** | Brandon, who approves or edits it before it goes anywhere. |
