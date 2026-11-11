@@ -3,7 +3,7 @@
 # files are inputs to the Lab lifecycle; the Lab itself starts at G1/G2.
 name: "Rotor Alignment Diagnostic"
 slug: "rotor-alignment-diagnostic"
-status: building     # build plan approved 2026-11-10; step 1 (bench build, no spend) in progress
+status: building     # paused 2026-11-11: reconciling with Rotor Product (reconciliation.md); no building until Brandon agrees
 killed_reason: ""
 
 audience:
