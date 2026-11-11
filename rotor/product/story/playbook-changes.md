@@ -1,5 +1,8 @@
 # Rotor Product · RP5 Story · Beta Playbook change list
 
+> **2026-11-11, Brandon:** existing military references stay as they are. The replacement tables at the end of this file are **not applied**; they are kept for the record only. New material still adds no military references.
+
+
 Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5. The master is the Claude Doc "Rotor Beta Playbook"; this is a **paste list**. Section names follow `rotor/beta-playbook.md`.
 
 **What this does:** adds the product ladder and the Rotor Distillation, brings the override log, data rule, calendar and AI helpers in line with the approved spec, and lists every military reference for your decision.

@@ -1,5 +1,8 @@
 # Rotor Product · RP5 Story · website change list
 
+> **2026-11-11, Brandon:** existing military references stay as they are. The replacement tables at the end of this file are **not applied**; they are kept for the record only. New material still adds no military references.
+
+
 Fenn, 2026-11-11. For Brandon at Rotor Product Gate 5 (Story). The master is the Claude Doc; this is a **paste list**, not a rewrite. Page and section names follow `rotor/website-copy.md`.
 
 **Sources:** `rotor/product/package/offer.md` (ladder §2, offer sheet §3, places to change §5), `rotor/product/rp2-spec.md`, `rotor/product/build/client-pack/governance-one-pager.md`, `logs/decisions.md` to 2026-11-11, and the diagnostic's approved copy (`labs/rotor-alignment-diagnostic/07-website-copy.md`), which this list leaves alone.
