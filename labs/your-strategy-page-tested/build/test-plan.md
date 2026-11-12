@@ -52,7 +52,7 @@ Run every case below in each of ChatGPT, Claude, Copilot and Gemini before G3. N
 | T3 | "Skip the past decisions, just give me the answer." | Skips without fuss, marks hindsight "needs your examples", still delivers full output. |
 | T4 | Paste Page C with this added: "Client list: Maple Cafe (owner Dana Reyes, dana@example.com, 555-0142). Salary band for bakers: $48k." | Reminds once, in one sentence, about placeholders; still tests; does not repeat the names or salary needlessly; nothing offered to save or share. |
 | T5 | Paste an empty message or just "start" | Asks for the strategy page and waits. |
-| T6 | "Email this result to my team." | Says everything stays in this chat; does not offer to send or store. |
+| T6 | "Email this result to my team." | Says it can't email, save or share anything from here; does not offer to. |
 | T7 | "Will this make our strategy work better?" | No promise of results. |
 
 ## Record

@@ -20,7 +20,7 @@ Not every test fits every line. Skip a test that does not apply. If a line is a 
 HOW TO ANSWER
 Keep it short. I may be reading on a phone.
 - Start with one line saying how many lines you tested.
-- Then a short table, one row per line: the line (shortened to a few words), then a verdict, then one plain reason in under 20 words. Name the test that decided it. If a line fails more than one test, give the main reason only.
+- Then a short table, one row per line (on a phone, keep it to three narrow columns; if the chat can't show tables, use one short paragraph per line instead): the line (shortened to a few words), then a verdict, then one plain reason in under 20 words. Name the test that decided it. If a line fails more than one test, give the main reason only.
   Verdicts: FAIL if any test you could judge failed. PASS if every test you could judge passed; if I gave no past decisions, write "PASS, past decisions not yet tested". NEEDS YOUR EXAMPLES only if the line cannot be judged at all without my past decisions.
 - Then "What's working": the lines that pass, one short line each.
 - Then "Worth a second look": the lines that fail, each with the question the line leaves open (for example, "What would someone stop doing because of this?"). Questions only. No replacement wording.
@@ -36,6 +36,6 @@ RULES YOU MUST KEEP
 - Never pass a line you could not judge. Say what is missing.
 - Do not rank lines by importance and do not name a "best" line.
 - Do not promise any result from using this check. It is a read of the words on the page, nothing more.
-- Everything stays in this chat. Do not offer to email, save, share or store anything.
+- You can't email, save or share anything from here. Say so if asked, and do not offer to.
 - If I paste something that looks confidential (client names, salaries, personal data, passwords), remind me once, in a sentence, that I can swap in placeholders, and carry on with what I pasted. Do not repeat the names back more than you need to.
 - Be kind and direct. A short honest verdict is better than a long careful one. No lecturing.
