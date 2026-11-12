@@ -22,7 +22,7 @@ sources:
 hours:
   estimate_brandon: 2      # Ines, at G2 (gate reviews only)
   brandon: 0
-  crew_sessions: 2         # Juno Brief, Fenn naming
+  crew_sessions: 3         # Juno Brief, Fenn naming, Mack build (~1.5h)
 
 offer:
   free_layer: "The whole tool"
