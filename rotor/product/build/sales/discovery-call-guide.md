@@ -57,7 +57,7 @@ If there's time and it fits, add one: *"What belief is your current strategy bui
 | A specific answer to Q3, said with confidence: "Yes, they'd all say [X]." A real plan on EOS, OKRs or paper (Q2). The pain is downstream: "people don't use it", "the AI gives generic answers", "we tried pasting the plan into ChatGPT". | **Rotor Distillation** |
 | "Can't we just upload our strategy deck to ChatGPT?" | **Rotor Distillation.** This is its doorway. "That gives the AI a document, and vague documents produce vague guidance. The Distillation gives it your main effort, your trade-offs and the beliefs to watch, in your own words." |
 | Q3 answered with a laugh, a pause, or "depends who you ask". Q4: "I decide, and they guess." Q5: the same priority missed twice. Names a leader who "isn't on board". Two leaders would describe different companies. | **Rotor Beta.** The split is the real problem; the AI can wait. |
-| "I *think* they'd agree, but I've never asked." Several leaders and no shared plan document. The CEO wants evidence before committing the leadership team to anything. | **The alignment diagnostic first.** Each leader answers on their own; they see where they agree and where they don't, and it's useful even if they stop there. |
+| "I *think* they'd agree, but I've never asked." Several leaders and no shared plan document. The CEO wants evidence before committing the leadership team to anything. | **The alignment diagnostic first** *(once live; until then, the fit check)*. Each leader answers on their own; they see where they agree and where they don't, and it's useful even if they stop there. |
 | A written plan exists, but Q3 and Q4 don't match it. | Probably the **Beta**, or the **diagnostic first** to find out. Don't push the Distillation onto a plan nobody shares; that's the main risk in the spec. |
 | "We want you to tell us what our strategy should be." | Neither offer does that. The main effort is always theirs. If they want the hard calls made *with* them, that's the Beta. If they want someone to choose for them, it's neither. |
 
@@ -72,7 +72,7 @@ Say it plainly, say why, and point somewhere useful. People remember the consult
 **When it's the Beta, not the Distillation:**
 > "From what you've told me, I don't think your leaders agree yet on where you're going, and that's normal. If we put the strategy into your AI now, it would carry a plan your own team doesn't share. The Rotor Beta settles that with your leadership team first, then carries the result to your people and your AI tools."
 
-**When it's the diagnostic first:**
+**When it's the diagnostic first** *(only once the diagnostic is live; until then, offer the fit check: "Let's find out with a few short conversations before either of us commits.")*:
 > "Honestly, I don't think either of us knows yet whether your leaders agree, and I'd rather find out than guess. The alignment diagnostic does exactly that. Each leader answers on their own, you run it yourselves, and you see where you agree and where you don't. If it shows you're aligned, we talk about the Distillation. If it shows a split, we talk about the Beta. And if it's all you need, that's fine too."
 
 **When it's neither:**
@@ -91,7 +91,7 @@ Common reasons it's neither:
 
 ## What happens next (say this in the last five minutes)
 
-> "Here's what happens from here. If you've taken the alignment diagnostic, its report is our fit check. If not, I'll send you a short note on how your data is handled, and then you and one or two of your leaders each have one 20-minute conversation with an AI interviewer, in your own AI. I read the short summaries, not the conversations. That tells us whether your leaders really do name the same main effort. If they do, you get a written proposal: what we'll do, in what order, what you'll have at the end, and what's asked of your team. Scope first, then the fee. If they don't, I'll tell you, and we'll talk about the Beta or the diagnostic instead. That call is mine to make, and I make it myself."
+> "Here's what happens from here. [ONLY ONCE THE DIAGNOSTIC IS LIVE: If you've taken the alignment diagnostic, its report is our fit check. If not,] I'll send you a short note on how your data is handled, and then you and one or two of your leaders each have one 20-minute conversation with an AI interviewer, in your own AI. I read the short summaries, not the conversations. That tells us whether your leaders really do name the same main effort. If they do, you get a written proposal: what we'll do, in what order, what you'll have at the end, and what's asked of your team. Scope first, then the fee. If they don't, I'll tell you, and we'll talk about the Beta or the diagnostic instead. That call is mine to make, and I make it myself."
 
 If it's clearly the Beta from this call, say the proposal comes next, and agree when you'll send it.
 
