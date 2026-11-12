@@ -83,6 +83,11 @@ Fenn, 2026-11-11. **Redone for the reshaped Rotor Distillation** (the AI side), 
   > If you'd rather talk it through, start with a conversation. I'll tell you plainly which one fits, including when it's neither.
 
   [NOTE: "The alignment diagnostic" links to /alignment-diagnostic. No price in this block.]
+
+  **Until the diagnostic is live** (it is still being built), use this line in place of the "Not sure?" paragraph and drop the link:
+  > **Not sure?** Start with a conversation. A few short questions to you and one or two of your leaders usually make it clear.
+
+  Swap back to the diagnostic paragraph on the day the diagnostic goes live.
 - **Why:** the reader has now met both offers; this answers "which one?" before they have to ask. Sorted by the leaders' agreement, never by price or by how much of Brandon.
 
 ### H8 · Home › 8. Results › placeholder

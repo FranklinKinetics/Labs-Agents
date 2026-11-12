@@ -116,3 +116,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-11 | RP5 passed: the website and playbook change lists in `rotor/product/story/` are approved. Brandon pastes them into the Claude Doc masters; the repo copies are then synced. | Claude Code |
 | 2026-11-11 | After the Distillation, the client keeps the Rotor Sheet. The Rotor Core is licensed for the engagement; the licence ends when the work ends unless renewed. | Claude Code |
 | 2026-11-11 | RP6 (Beta decision packet) waits for evidence: the simulation dry run and the first two Distillation clients. | Claude Code |
+| 2026-11-12 | Brandon will not log timings for the simulation. The dry run's "within 30% of budget" exit test is dropped; his hours are tracked from the first real Distillation clients instead. | Claude Code |
