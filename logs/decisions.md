@@ -124,3 +124,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-12 | Your Strategy Page, Tested: free, delivered through the Labs store checkout, which acts as an email gate (Brandon's choice over Sol's "no wall"). The email is used only to deliver the file and for the opt-in newsletter tick box (not pre-ticked). | Claude Code |
 | 2026-11-12 | Your Strategy Page, Tested: the hindsight test asks for two or three real past decisions. | Claude Code |
 | 2026-11-12 | Public Lab copy uses plain words, "belief" (not "living model") and "warning sign" (not "tripwire"). Rotor's own terms stay inside the consulting work. | Claude Code |
+| 2026-11-12 | Your Strategy Page, Tested passes G2. Next: Build. Brandon's hours estimate: 2. | Claude Code |

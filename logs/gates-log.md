@@ -24,6 +24,7 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 | 2026-11-11 | Rotor Product (track) | RP3 build rework (reshaped Distillation) | pass | Beta ladder sentence comparing how much of Brandon was cut (option A). |
 | 2026-11-11 | Rotor Product (track) | RP5 story and clearance (redo) | pass | Vera cleared. The client keeps the Rotor Sheet; the Rotor Core licence ends with the engagement unless renewed. |
 | 2026-11-12 | Five-tests checker (working name) | G1 Spark | pass with changes | Find a new name (Fenn options presented; Brandon to choose). |
+| 2026-11-12 | Your Strategy Page, Tested | G2 Go/No-go | pass | Answers folded in before the pass: checkout as an email gate; 2–3 past decisions; plain words. |
 
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |

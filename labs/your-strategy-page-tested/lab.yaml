@@ -1,0 +1,49 @@
+# Lab card. Spark "five-tests checker" passed G1 (renamed) and G2 on 2026-11-12.
+name: "Your Strategy Page, Tested"
+slug: "your-strategy-page-tested"
+status: building
+killed_reason: ""
+
+audience:
+  buyer: sme-owner
+  story_speaks_to: "sme-owner"
+job_to_be_done: "Shows an owner, in five minutes, which lines of their strategy page would actually guide a decision, and why the rest wouldn't."
+rotor_lesson: "TBD (Fenn)"
+
+four_proofs:
+  speed: "TBD at Release, from hours below"
+  abundance: "The owner's own strategy page, and the AI tools the company already pays for."
+  craft: "One paste, any AI (ChatGPT, Claude, Copilot, Gemini); honest line-by-line verdicts."
+  goodwill: "Free. Email at checkout for delivery only; newsletter opt-in, not pre-ticked."
+
+sources:
+  - {name: "The five tests (decision, trade-off, new hire, hindsight, warning sign)", url: "rotor/beta-playbook.md", licence: "Franklin Kinetics' own material; cleared to publish 2026-11-11", notes: "No Rotor Core content. Plain words: belief, warning sign."}
+
+hours:
+  estimate_brandon: 2      # Ines, at G2 (gate reviews only)
+  brandon: 0
+  crew_sessions: 2         # Juno Brief, Fenn naming
+
+offer:
+  free_layer: "The whole tool"
+  paid_layer: "none"
+  price_cad: 0
+  format: "download"
+  checkout: "Squarespace Commerce, Labs store (email gate, Brandon 2026-11-12)"
+  refund_terms: "n/a (free)"
+
+gates:
+  G1: "2026-11-12 pass-with-changes (renamed)"
+  G2: "2026-11-12 pass"
+  G3: ""
+  G4: ""
+  G5: ""
+  G6: ""
+  G7: ""
+  G8: ""
+
+release:
+  date: ""
+  store_url: ""
+
+signals: []
