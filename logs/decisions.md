@@ -121,3 +121,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-12 | Founding-client wording is for the Rotor Distillation only; the Beta has none. | Claude Code |
 | 2026-11-12 | Five-tests checker passes G1 with changes: it gets a new name before the Brief. | Claude Code |
 | 2026-11-12 | The five-tests checker is named **Your Strategy Page, Tested**, with the line "Would it change a decision?" underneath. Slug: `your-strategy-page-tested`. | Claude Code |
+| 2026-11-12 | Your Strategy Page, Tested: free, delivered through the Labs store checkout, which acts as an email gate (Brandon's choice over Sol's "no wall"). The email is used only to deliver the file and for the opt-in newsletter tick box (not pre-ticked). | Claude Code |
+| 2026-11-12 | Your Strategy Page, Tested: the hindsight test asks for two or three real past decisions. | Claude Code |
+| 2026-11-12 | Public Lab copy uses plain words, "belief" (not "living model") and "warning sign" (not "tripwire"). Rotor's own terms stay inside the consulting work. | Claude Code |
