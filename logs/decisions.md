@@ -120,3 +120,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-12 | No lawyer review of the client agreement draft before first use. | Claude Code |
 | 2026-11-12 | Founding-client wording is for the Rotor Distillation only; the Beta has none. | Claude Code |
 | 2026-11-12 | Five-tests checker passes G1 with changes: it gets a new name before the Brief. | Claude Code |
+| 2026-11-12 | The five-tests checker is named **Your Strategy Page, Tested**, with the line "Would it change a decision?" underneath. Slug: `your-strategy-page-tested`. | Claude Code |
