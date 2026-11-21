@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img" aria-labelledby="t d">
+  <title id="t">A page of text lines, three lit and the rest faded</title>
+  <desc id="d">A sheet of paper with eight lines of text. Three lines are drawn thick and bright, each with a tick mark beside it. The other five are thin, dashed and faded. A small spinning top rests at the bottom edge of the sheet.</desc>
+  <style>
+    :root { --bg:#faf8f4; --paper:#ffffff; --edge:#6b6459; --lit:#8a4b08; --dim:#8c867c; --ink:#1f1c18; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#1b1a18; --paper:#262420; --edge:#a39b8e; --lit:#f2b660; --dim:#8a8378; --ink:#f4efe6; } }
+    .bg{fill:var(--bg)} .paper{fill:var(--paper);stroke:var(--edge);stroke-width:2}
+    .lit{stroke:var(--lit);stroke-width:9;stroke-linecap:round;fill:none}
+    .dim{stroke:var(--dim);stroke-width:4;stroke-linecap:round;stroke-dasharray:2 12;fill:none;opacity:.7}
+    .tick{stroke:var(--lit);stroke-width:5;stroke-linecap:round;stroke-linejoin:round;fill:none}
+    .top{fill:var(--lit);stroke:var(--ink);stroke-width:2;stroke-linejoin:round}
+    .axis{stroke:var(--ink);stroke-width:3;stroke-linecap:round}
+  </style>
+  <rect class="bg" width="640" height="400"/>
+  <rect class="paper" x="150" y="30" width="340" height="300" rx="10"/>
+  <path class="dim" d="M190 70h250"/>
+  <path class="lit" d="M190 105h210"/><path class="tick" d="M455 98l8 9 16-18"/>
+  <path class="dim" d="M190 140h230"/>
+  <path class="dim" d="M190 175h180"/>
+  <path class="lit" d="M190 210h240"/><path class="tick" d="M455 203l8 9 16-18"/>
+  <path class="dim" d="M190 245h200"/>
+  <path class="lit" d="M190 280h160"/><path class="tick" d="M455 273l8 9 16-18"/>
+  <path class="dim" d="M190 310h120"/>
+  <path class="top" d="M320 332l-34 -16q34 -14 68 0z"/>
+  <path class="top" d="M286 316q34 40 34 52q0 -12 34 -52"/>
+  <path class="axis" d="M320 316v-14M310 302h20"/>
+</svg>
