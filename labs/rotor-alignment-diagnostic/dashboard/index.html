@@ -1,0 +1,146 @@
+<meta name="dash-one-writer">
+<style>
+.ad{display:flex;flex-direction:column;gap:var(--cds-gap-xl);font-family:var(--font-anthropic-sans);color:var(--color-fg)}
+.ad h1{font-family:var(--font-anthropic-serif);font-weight:400;font-size:var(--cds-font-size-title);margin:0;text-wrap:balance}
+.ad h2{font-size:var(--cds-font-size-heading);font-weight:var(--cds-font-weight-medium);margin:0 0 var(--cds-gap-sm)}
+.ad-sub{color:var(--color-fg-muted);margin:var(--cds-gap-xs) 0 0}
+.ad-take{font-size:var(--cds-font-size-heading);margin:var(--cds-gap-md) 0 0;max-width:60ch}
+.ad-card{background:var(--color-panel);border:1px solid var(--color-border-line);border-radius:var(--cds-radius);padding:var(--cds-pad-lg);min-width:0}
+.ad-track{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(88px,1fr));gap:var(--cds-gap-sm);min-height:64px}
+.ad-stage{display:flex;flex-direction:column;gap:2px;padding:var(--cds-pad-sm);border-radius:var(--cds-radius);border:1px solid var(--color-border-line);font-size:var(--cds-font-size-caption)}
+.ad-stage b{font-size:var(--cds-font-size-body);font-weight:var(--cds-font-weight-medium)}
+.ad-stage[data-s="done"]{border-color:var(--color-ok)}
+.ad-stage[data-s="current"]{border:2px solid var(--color-warn)}
+.ad-stage[data-s="todo"],.ad-stage[data-s="next"]{color:var(--color-fg-muted)}
+.ad-tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:var(--cds-gap-md)}
+.ad-tile{display:flex;flex-direction:column;gap:var(--cds-gap-xs)}
+.ad-tile .n{font-family:var(--font-anthropic-serif);font-size:2rem;font-variant-numeric:tabular-nums;line-height:1.1}
+.ad-tile .l{color:var(--color-fg-muted);font-size:var(--cds-font-size-caption)}
+.ad-two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:var(--cds-gap-lg)}
+.ad-wrap{overflow-x:auto}
+.ad table{border-collapse:collapse;width:100%;font-size:var(--cds-font-size-body)}
+.ad th{text-align:left;font-weight:var(--cds-font-weight-medium);color:var(--color-fg-muted);font-size:var(--cds-font-size-caption);padding:var(--cds-pad-xs) var(--cds-pad-sm);border-bottom:1px solid var(--color-border-line)}
+.ad td{padding:var(--cds-pad-sm);border-bottom:1px solid var(--color-border-line);vertical-align:top}
+.ad td.muted{color:var(--color-fg-muted);font-size:var(--cds-font-size-caption)}
+.ad-pill{display:inline-block;padding:1px 8px;border-radius:999px;font-size:var(--cds-font-size-caption);border:1px solid currentColor;white-space:nowrap}
+.ad-pill[data-s="done"],.ad-pill[data-s="decided"]{color:var(--color-ok)}
+.ad-pill[data-s="waiting"],.ad-pill[data-s="open"]{color:var(--color-warn)}
+.ad-pill[data-s="not started"]{color:var(--color-fg-muted)}
+.ad-note{color:var(--color-fg-muted);font-size:var(--cds-font-size-caption);margin:var(--cds-gap-sm) 0 0}
+</style>
+
+<div class="ad">
+  <header id="top">
+    <h1>Rotor Alignment Diagnostic</h1>
+    <p class="ad-sub">Where this Lab stands, from the repo as of 21 November 2026</p>
+    <p class="ad-take">In Build: step <b data-draw="stepsdone" data-source="builddone">—</b> of 5 done. Next: <b data-draw="nextstep" data-source="build" data-field="label">—</b>. <b data-draw="waitcount" data-source="waitcount">—</b> items wait on you.</p>
+  </header>
+
+  <section id="lifecycle" class="ad-card">
+    <h2>Lab lifecycle</h2>
+    <ol class="ad-track" data-draw="track" data-source="stages"></ol>
+  </section>
+
+  <section id="figures" class="ad-tiles">
+    <div class="ad-card ad-tile"><span class="n" data-draw="fig" data-fmt="int" data-source="status" data-where="key=tests" data-field="value">—</span><span class="l">Tests passing</span></div>
+    <div class="ad-card ad-tile"><span class="n"><span data-draw="fig" data-fmt="num" data-source="status" data-where="key=hours_logged" data-field="value">—</span> / <span data-draw="fig" data-fmt="int" data-source="status" data-where="key=hours_estimate" data-field="value">—</span> h</span><span class="l">Your hours logged / estimate</span></div>
+    <div class="ad-card ad-tile"><span class="n" data-draw="fig" data-fmt="money" data-source="status" data-where="key=spend" data-field="value">—</span><span class="l">Spent so far (CAD)</span></div>
+    <div class="ad-card ad-tile"><span class="n" data-draw="fig" data-fmt="money" data-source="status" data-where="key=price" data-field="value">—</span><span class="l">Price per company (CAD)</span></div>
+    <div class="ad-card ad-tile"><span class="n"><span data-draw="fig" data-fmt="int" data-source="status" data-where="key=gates_passed" data-field="value">—</span> of 8</span><span class="l">Lab gates passed</span></div>
+    <div class="ad-card ad-tile"><span class="n" data-draw="fig" data-fmt="int" data-source="status" data-where="key=not_on_main" data-field="value">—</span><span class="l">Commits not yet on main</span></div>
+  </section>
+
+  <section id="waiting" class="ad-card">
+    <h2>Waiting on you</h2>
+    <div class="ad-wrap"><table data-source="waiting" data-row-key="key">
+      <thead><tr><th data-field="label">What</th><th data-field="when">Needed</th><th data-field="detail">Detail</th></tr></thead>
+      <tbody data-draw="waitrows"></tbody>
+    </table></div>
+  </section>
+
+  <section id="build" class="ad-card">
+    <h2>Build steps</h2>
+    <div class="ad-wrap"><table data-source="build" data-row-key="key">
+      <thead><tr><th data-field="label">Step</th><th data-field="status">Status</th><th data-field="detail">Detail</th></tr></thead>
+      <tbody data-draw="buildrows"></tbody>
+    </table></div>
+    <p class="ad-note">Caps approved: Google Cloud alert CAD $<span data-draw="fig" data-fmt="int" data-source="status" data-where="key=google_cap" data-field="value">—</span>/month · Anthropic limit US$<span data-draw="fig" data-fmt="int" data-source="status" data-where="key=anthropic_cap" data-field="value">—</span>/month · AI cost per report about US$<span data-draw="fig" data-fmt="money2" data-source="status" data-where="key=per_report" data-field="value">—</span> (estimate).</p>
+  </section>
+
+  <div class="ad-two">
+    <section id="decisions" class="ad-card">
+      <h2>Recent decisions</h2>
+      <div class="ad-wrap"><table data-source="decisions" data-row-key="key">
+        <thead><tr><th data-field="date">Date</th><th data-field="label">Decision</th></tr></thead>
+        <tbody data-draw="decrows"></tbody>
+      </table></div>
+    </section>
+    <section id="documents" class="ad-card">
+      <h2>Documents</h2>
+      <div class="ad-wrap"><table data-source="docs" data-row-key="key">
+        <thead><tr><th data-field="label">Document</th><th data-field="status">Where it stands</th></tr></thead>
+        <tbody data-draw="docrows"></tbody>
+      </table></div>
+      <p class="ad-note">All files are in labs/rotor-alignment-diagnostic/ on branch claude/wizardly-edison-rzb2c9.</p>
+    </section>
+  </div>
+</div>
+
+<script>
+const pick = (sec) => (status) => status.filter((r) => r.section === sec).sort((a, b) => a.order - b.order);
+dash.calc('stages', {inputs: ['status'], fn: pick('stage'), title: 'Lab lifecycle stages', description: 'Rows of the status file in the stage section, in order.'});
+dash.calc('build', {inputs: ['status'], fn: pick('build'), title: 'Build steps', description: 'Rows of the status file in the build section, in order.'});
+dash.calc('waiting', {inputs: ['status'], fn: pick('waiting'), title: 'Waiting on Brandon', description: 'Rows of the status file in the waiting section.'});
+dash.calc('decisions', {inputs: ['status'], fn: pick('decision'), title: 'Recent decisions', description: 'Rows of the status file in the decision section, newest first.'});
+dash.calc('docs', {inputs: ['status'], fn: pick('doc'), title: 'Documents', description: 'Rows of the status file in the doc section.'});
+dash.calc('builddone', {inputs: ['status'], fn: (status) => status.filter((r) => r.section === 'build' && r.status === 'done').length, title: 'Build steps done', description: 'Count of build steps marked done.'});
+dash.calc('waitcount', {inputs: ['status'], fn: (status) => status.filter((r) => r.section === 'waiting' && r.status === 'open').length, title: 'Items waiting on Brandon', description: 'Count of open items in the waiting section.'});
+
+const fmt = {int: d3.format(',d'), num: d3.format('.1f'), money: d3.format(',.0f'), money2: d3.format('.2f')};
+dash.draw('fig', (el) => {
+  const d = dash.data('status');
+  if (d.status !== 'ok') { el.textContent = '—'; return; }
+  const key = decodeURIComponent((el.getAttribute('data-where') || '').split('=')[1] || '');
+  const row = d.data.find((r) => r.key === key);
+  el.textContent = row && row.value != null ? (fmt[el.getAttribute('data-fmt')] || String)(+row.value) : '—';
+});
+dash.draw('stepsdone', (el) => { const d = dash.data('builddone'); el.textContent = d.status === 'ok' ? String(d.data) : '—'; });
+dash.draw('waitcount', (el) => { const d = dash.data('waitcount'); el.textContent = d.status === 'ok' ? String(d.data) : '—'; });
+dash.draw('nextstep', (el) => {
+  const d = dash.data('build');
+  const next = d.status === 'ok' ? d.data.find((r) => r.status !== 'done') : null;
+  el.textContent = next ? next.label.replace(/^\d+\.\s*/, '').toLowerCase() : '—';
+});
+dash.draw('track', (el) => {
+  const d = dash.data('stages');
+  const rows = d.status === 'ok' ? d.data : [];
+  const li = d3.select(el).selectAll('li').data(rows, (r) => r.key).join((enter) => {
+    const l = enter.append('li').attr('class', 'ad-stage');
+    l.append('b'); l.append('span').attr('class', 's'); l.append('span').attr('class', 'dt');
+    return l;
+  });
+  li.attr('data-s', (r) => r.status).attr('title', (r) => r.detail);
+  li.select('b').text((r) => r.label);
+  li.select('.s').text((r) => ({done: 'Done', current: 'Now', next: 'Next', todo: 'Later'}[r.status] || r.status));
+  li.select('.dt').text((r) => r.date || '');
+});
+function rows(name, src, cols) {
+  dash.draw(name, (el) => {
+    const d = dash.data(src);
+    if (d.status === 'error') { el.replaceChildren(); const tr = el.insertRow(); const td = tr.insertCell(); td.colSpan = cols.length; td.textContent = 'This list failed to load.'; return; }
+    const data = d.status === 'ok' ? d.data : [];
+    const tr = d3.select(el).selectAll('tr').data(data, (r) => r.key).join('tr').attr('data-key', (r) => encodeURIComponent(r.key));
+    tr.selectAll('td').data((r) => cols.map((c) => ({c, r}))).join('td')
+      .attr('class', (x) => x.c.muted ? 'muted' : null)
+      .each(function (x) {
+        const v = x.r[x.c.f] ?? '';
+        if (x.c.pill) { const s = document.createElement('span'); s.className = 'ad-pill'; s.setAttribute('data-s', v); s.textContent = v; this.replaceChildren(s); }
+        else this.textContent = v;
+      });
+  });
+}
+rows('waitrows', 'waiting', [{f: 'label'}, {f: 'when'}, {f: 'detail', muted: true}]);
+rows('buildrows', 'build', [{f: 'label'}, {f: 'status', pill: true}, {f: 'detail', muted: true}]);
+rows('decrows', 'decisions', [{f: 'date', muted: true}, {f: 'label'}]);
+rows('docrows', 'docs', [{f: 'label'}, {f: 'status'}]);
+</script>
