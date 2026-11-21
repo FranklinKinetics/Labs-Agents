@@ -30,9 +30,9 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 ## Clean-pass streaks
 | Gate | Consecutive clean passes | Status |
 |---|---|---|
-| G1 | 1 | active |
-| G2 | 1 | active |
-| G3 | 0 | active |
+| G1 | 0 | active |
+| G2 | 2 | active |
+| G3 | 1 | active |
 | G4 | 0 | active |
 | G5 | 0 | active |
 | G6 | 0 | active |
@@ -40,3 +40,5 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 | G8 | 0 | active |
 
 Note: the Rotor Alignment Diagnostic's earlier per-deliverable gates (before it became a Lab on 2026-11-10) do not count toward the streaks above. Its G1–G8 gates from 2026-11-10 do.
+
+Updated 2026-11-21: G1 reset by Your Strategy Page, Tested (pass with changes: renamed). G2: diagnostic plus Your Strategy Page, Tested. G3: Your Strategy Page, Tested. Rotor Product track gates (RP1–RP6) don't count toward these streaks.
