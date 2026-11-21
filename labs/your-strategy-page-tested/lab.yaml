@@ -35,7 +35,7 @@ offer:
 gates:
   G1: "2026-11-12 pass-with-changes (renamed)"
   G2: "2026-11-12 pass"
-  G3: ""
+  G3: "2026-11-21 pass (ChatGPT, Copilot, Gemini still untested; must be run before G7)"
   G4: ""
   G5: ""
   G6: ""
