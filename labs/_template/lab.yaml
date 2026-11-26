@@ -1,14 +1,18 @@
-# Lab card. Copy this folder to labs/<slug>/ when a Spark passes G1.
+# Lab card. Copy this folder to labs/<slug>/ when Ines starts a Spark (needs a Call Path).
 name: ""
 slug: ""
-status: spark        # spark|briefed|approved|building|dressed|packaged|storied|cleared|released|debriefed|held|killed
+status: spark        # spark|building|paged|cleared|released|debriefed|held|killed
 killed_reason: ""
 
 audience:
   buyer: ""          # household | sme-owner | civic
   story_speaks_to: "sme-owner"
 job_to_be_done: ""   # what it does for the buyer, one line
-rotor_lesson: ""     # Fenn, one sentence, agreed by G2
+rotor_lesson: ""     # Fenn, one sentence, on the page
+
+call_path:
+  leads_to: ""       # automation | rotor | both
+  how: ""            # the route from this Lab to a call, one line
 
 four_proofs:
   speed: ""          # filled from hours below at Release
@@ -19,7 +23,6 @@ four_proofs:
 sources: []          # - {name, url, licence, notes}
 
 hours:
-  estimate_brandon: null   # Ines, at G2
   brandon: 0               # Brandon's hands-on hours (the Speed proof)
   crew_sessions: 0         # number of crew work sessions
 
@@ -31,18 +34,13 @@ offer:
   checkout: ""
   refund_terms: ""
 
-gates:               # date + outcome: pass | pass-with-changes | hold
-  G1: ""
-  G2: ""
-  G3: ""
-  G4: ""
-  G5: ""
-  G6: ""
-  G7: ""
-  G8: ""
-
 release:
   date: ""
   store_url: ""
 
-signals: []          # - {date, type: sale|reply|conversation|use|visit, note}
+signals:             # Signal ladder, month to date; counts only (wiki/loops/signal-tracking.md)
+  visits: 0
+  contacts: 0
+  calls: 0
+  clients: 0
+  log: []            # - {week: YYYY-Www, visits, contacts, calls, clients}

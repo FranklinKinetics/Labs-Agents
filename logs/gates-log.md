@@ -42,3 +42,15 @@ Every gate outcome, newest at the bottom. Ines uses this to propose gate retirem
 Note: the Rotor Alignment Diagnostic's earlier per-deliverable gates (before it became a Lab on 2026-11-10) do not count toward the streaks above. Its G1–G8 gates from 2026-11-10 do.
 
 Updated 2026-11-21: G1 reset by Your Strategy Page, Tested (pass with changes: renamed). G2: diagnostic plus Your Strategy Page, Tested. G3: Your Strategy Page, Tested. Rotor Product track gates (RP1–RP6) don't count toward these streaks.
+
+---
+## 2026-11-26: the gate system changed
+The eight gates (G1 Spark … G8 Debrief) are **retired**, and the clean-pass streaks above are closed. From now on there are two gates (see `canon/gates.md`):
+- **G1 Release**: anything public.
+- **G2 Money**: anything that spends money or commits Brandon to a client.
+
+Note: the new G1 and G2 are not the old G1 Spark and G2 Go/No-go. Rows above use the old meanings.
+
+| Date | Item | Gate | Outcome | Changes requested |
+|---|---|---|---|---|
+| 2026-11-26 | Invoice Clock page + outreach template (test 1) | G1 Release | waiting (`QUEUE.md` item 1) | — |

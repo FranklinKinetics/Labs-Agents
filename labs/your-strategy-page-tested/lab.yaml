@@ -10,6 +10,10 @@ audience:
 job_to_be_done: "Shows an owner, in five minutes, which lines of their strategy page would actually guide a decision, and why the rest wouldn't."
 rotor_lesson: "TBD (Fenn)"
 
+call_path:
+  leads_to: "rotor"
+  how: "Test your strategy page -> the lines that fail are questions for your leadership team -> call -> Rotor Distillation or Beta"
+
 four_proofs:
   speed: "TBD at Release, from hours below"
   abundance: "The owner's own strategy page, and the AI tools the company already pays for."
@@ -32,7 +36,7 @@ offer:
   checkout: "Squarespace Commerce, Labs store (email gate, Brandon 2026-11-12)"
   refund_terms: "n/a (free)"
 
-gates:
+gates_retired_2026_11_26:   # old G1-G8, kept for the record
   G1: "2026-11-12 pass-with-changes (renamed)"
   G2: "2026-11-12 pass"
   G3: "2026-11-21 pass (ChatGPT, Copilot, Gemini still untested; must be run before G7)"
@@ -46,4 +50,9 @@ release:
   date: ""
   store_url: ""
 
-signals: []
+signals:             # Signal ladder, month to date; counts only (wiki/loops/signal-tracking.md)
+  visits: 0
+  contacts: 0
+  calls: 0
+  clients: 0
+  log: []            # - {week: YYYY-Www, visits, contacts, calls, clients}

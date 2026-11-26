@@ -1,0 +1,47 @@
+# Lab card created 2026-11-26. Brandon's brief says the Regina Data Map has shipped;
+# the repo had it only as a Spark. Fields marked TBD: fill from the live page.
+name: "Regina Data Map"
+slug: "regina-data-map"
+status: released     # live; next: page retrofit to the checklist, then a Debrief
+killed_reason: ""
+
+audience:
+  buyer: civic
+  story_speaks_to: "sme-owner"
+job_to_be_done: "Makes Regina's development data legible on a map."
+rotor_lesson: "TBD (Fenn)"
+
+call_path:
+  leads_to: "both"
+  how: "TBD at retrofit: the business-owner path shows the firm's own data, already sitting there, made legible; then the call CTA."
+
+four_proofs:
+  speed: "TBD"
+  abundance: "City of Regina open development data (TBD: confirm the sources and licences from the build)"
+  craft: "TBD"
+  goodwill: "TBD"
+
+sources: []          # TBD: Mack to record from the live build; Vera to check
+
+hours:
+  brandon: null      # unknown for the original build
+  crew_sessions: 0
+
+offer:
+  free_layer: "TBD"
+  paid_layer: "TBD"
+  price_cad: null
+  format: ""
+  checkout: ""
+  refund_terms: ""
+
+release:
+  date: "TBD"
+  store_url: "TBD"
+
+signals:             # Signal ladder; counts only
+  visits: unknown    # no tracking before 2026-11-26
+  contacts: unknown
+  calls: unknown
+  clients: unknown
+  log: []

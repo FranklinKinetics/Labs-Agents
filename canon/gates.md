@@ -1,40 +1,38 @@
 # Gates
 
-Brandon starts heavily involved. Gates retire as the crew earns trust.
+Two gates, only for things that are hard to undo. Set by Brandon on 2026-11-26; the eight-gate system (old G1–G8) is retired (see "Retired" below).
 
 ## The gates
 
-| Gate | After | Brandon decides | Packet from |
+| Gate | Covers | Examples | Packet from |
 |---|---|---|---|
-| **G1 Spark** | Spark added | Does this Spark get a Brief? | Ines |
-| **G2 Go/No-go** | Brief done | Build it? Approves data sources, Sol's first price read, Ines's hours estimate | Ines, Juno, Sol |
-| **G3 Prototype** | Ugly working build | Is this the right thing? | Mack |
-| **G4 Look** | Design direction | Does it look like Franklin Kinetics? | Iris |
-| **G5 Package** | Final Offer | Price, packaging, free vs paid layers | Sol |
-| **G6 Story** | Lab page + Substack note | Voice, Lesson, claims | Fenn |
-| **G7 Release** | Vera's clearance | Go live | Ines, Vera |
-| **G8 Debrief** | ~2 weeks after Release | Changes to Living Models and Price Model | Ines |
+| **G1 Release** | Anything public | A Lab page going live or changing, a price, an outreach template, each outreach batch, a public post | Ines, with Vera's clearance attached |
+| **G2 Money** | Anything that spends money or commits Brandon to a client | A paid tool or subscription, an ad, a proposal, a client agreement, a promised date or deliverable | Ines |
 
-## Gate packet format
-Keep it to one phone screen.
+**Outreach batches:** Brandon pressing send in his own Gmail *is* the G1 release for that batch. The crew never sends on his behalf.
+
+## Everything else
+- **Vera clears it.** Brandon sees an item only when Vera flags it: a guardrail call she can't settle, or a "must fix" the crew can't fix.
+- **If the crew is unsure whether something needs Brandon, it doesn't.** Do it, and log it in the weekly review.
+- Reversible work (builds, drafts, internal docs, logs, loop changes, research) never waits on Brandon.
+
+## Packet format (one phone screen)
 ```
-GATE G<n> · <Lab name> · <date>
-Decision needed: <one line>
-Recommendation: <what the crew recommends, and why, in 2–3 lines>
-Options: A) ...  B) ...
-Four Proofs check: Speed __ · Abundance __ · Craft __ · Goodwill __
-Risks / Vera flags: <or "none">
-Hours so far: Brandon __h · crew sessions __
-Reply: pass · pass with changes · hold
+G<1|2> · <item> · <date>
+Verdict: <what the crew recommends, one line>
+• <bullet>
+• <bullet>
+• <bullet>                         (three at most)
+Decide: <one question> → pass · pass with changes · hold
 ```
+Packets go in `QUEUE.md`. Full detail (clearance, sources, drafts) sits in the repo, linked by path, never in the packet.
 
 ## Rules
-- Silence is not a pass. If Brandon hasn't answered, the Lab waits at the gate.
-- Vera can stop the line at any point, at any gate, for a guardrail issue.
+- Silence is not a pass. An unanswered item stays in `QUEUE.md`.
+- Never pass a gate on Brandon's behalf.
+- Vera can stop anything at any time for a guardrail issue.
 - Every outcome is logged in `logs/gates-log.md`.
+- `QUEUE.md` must clear in under an hour a week. If it won't, Ines cuts or batches before posting.
 
-## Retiring a gate
-When a gate has passed **three Labs in a row with no changes**, Ines proposes retiring it. Brandon decides. A retired gate is marked in the table above and in `logs/decisions.md`. **G7 Release never retires**, and Vera's clearance is always required.
-
-## Hours (instead of a timebox)
-A Lab runs until it's packaged and live. At G2, Ines estimates Brandon's hands-on hours. Mack logs actual hours on the lab card (Brandon's time separately from crew time; Brandon's time is the Speed proof). If actual hours pass **twice the estimate**, Ines stops and calls a mini Go/No-go with Brandon.
+## Retired (2026-11-26)
+Old G1 Spark, G2 Go/No-go, G3 Prototype, G4 Look, G5 Package, G6 Story, G7 Release and G8 Debrief. Their checks now live in Vera's clearance (`crew/vera.md`) and Ines's Debrief. The old "three clean passes" retirement rule and the 2× hours mini Go/No-go are retired with them; hours are still logged on each lab card and reported in the weekly review.

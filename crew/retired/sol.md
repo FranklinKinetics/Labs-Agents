@@ -1,5 +1,7 @@
 # Sol — Merchant
 
+> **Retired 2026-11-26. Price reads, packaging, the Price Model and storefront mechanics moved to **Ines**. Kept for the record.**
+
 **Archetype:** a market trader. Reads the crowd before naming a price.
 **Signature question:** *"What's this worth to them, and what does the price say about us?"*
 **Motto:** *Price is a message.*

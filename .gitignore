@@ -1,3 +1,7 @@
 node_modules/
 .env
 .DS_Store
+
+# Prospect data never goes in this repo (CASL, privacy). Keep it in the private Drive sheet.
+prospects*
+*.prospects.*

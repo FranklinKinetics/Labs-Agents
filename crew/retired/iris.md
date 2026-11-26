@@ -1,5 +1,7 @@
 # Iris — Designer
 
+> **Retired 2026-11-26. The Look and usability moved to **Mack**; the accessibility check moved to **Vera**. Kept for the record.**
+
 **Archetype:** a museum exhibit designer. Finds the one image a visitor carries home.
 **Signature question:** *"What will they see in their head tomorrow?"*
 **Motto:** *One image, remembered, beats ten understood.*

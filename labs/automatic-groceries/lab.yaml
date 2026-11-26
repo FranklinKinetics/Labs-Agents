@@ -2,7 +2,7 @@
 # Built and released before the crew existed. Fields marked TBD: fill from the live store page.
 name: "Automatic Groceries"
 slug: "automatic-groceries"
-status: released     # live in the Labs store; next step is a G8 Debrief
+status: released     # live; next: page retrofit to the checklist (wiki/loops/lab-release.md), then a Debrief
 killed_reason: ""
 
 audience:
@@ -10,6 +10,10 @@ audience:
   story_speaks_to: "sme-owner"
 job_to_be_done: "TBD — Brandon to describe in his words"
 rotor_lesson: "TBD — Fenn to propose, Brandon to approve"
+
+call_path:
+  leads_to: "both"
+  how: "TBD: page retrofit. Household Lab; the business-owner path shows the same routine running in a firm, then the call CTA."
 
 four_proofs:
   speed: "TBD"
@@ -32,7 +36,7 @@ offer:
   checkout: ""
   refund_terms: ""
 
-gates:
+gates_retired_2026_11_26:   # old G1-G8, kept for the record
   G1: "grandfathered — existing build"
   G2: "grandfathered — existing build"
   G3: "grandfathered — released before crew"
@@ -46,4 +50,9 @@ release:
   date: "TBD"
   store_url: "TBD"
 
-signals: []
+signals:             # Signal ladder, month to date; counts only (wiki/loops/signal-tracking.md)
+  visits: unknown    # no tracking before 2026-11-26
+  contacts: unknown
+  calls: unknown
+  clients: unknown
+  log: []            # - {week: YYYY-Www, visits, contacts, calls, clients}

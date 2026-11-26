@@ -3,7 +3,7 @@
 # files are inputs to the Lab lifecycle; the Lab itself starts at G1/G2.
 name: "Rotor Alignment Diagnostic"
 slug: "rotor-alignment-diagnostic"
-status: building     # build plan approved 2026-11-10; step 1 (bench build, no spend) in progress
+status: held         # 2026-11-26: behind the Invoice Clock; its cloud build needs spend and leads to a call less directly. Resume when discovery test 1 has a verdict.
 killed_reason: ""
 
 audience:
@@ -11,6 +11,10 @@ audience:
   story_speaks_to: "sme-owner"
 job_to_be_done: "Show a leadership team where it agrees, where it differs, and which questions it must settle, without a consultant in the room."
 rotor_lesson: "You don't know your leadership team agrees until you ask each leader alone."   # approved 2026-11-10
+
+call_path:
+  leads_to: "rotor"
+  how: "Paid diagnostic -> report shows where leaders differ -> call -> Rotor Distillation or Beta"
 
 four_proofs:
   speed: "TBD at Release, from hours below"
@@ -52,7 +56,7 @@ design_inputs:               # done before reclassification; reused at the gate 
   - {file: "08-test-plan.md", reused_at: "Build (G3) and Clearance"}
   - {file: "09-privacy-and-terms.md", reused_at: "Clearance (G7)"}
 
-gates:
+gates_retired_2026_11_26:   # old G1-G8, kept for the record
   G1: "2026-11-10 pass"
   G2: "2026-11-10 pass"
   G3: ""
@@ -66,4 +70,9 @@ release:
   date: ""
   store_url: ""
 
-signals: []
+signals:             # Signal ladder, month to date; counts only (wiki/loops/signal-tracking.md)
+  visits: 0
+  contacts: 0
+  calls: 0
+  clients: 0
+  log: []            # - {week: YYYY-Www, visits, contacts, calls, clients}

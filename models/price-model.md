@@ -1,6 +1,6 @@
 # Price Model
 
-Sol's Living Models for pricing and packaging. Updated after each Debrief with real sales and conversion. No invented numbers.
+Ines's Living Models (from Sol, retired 2026-11-26) for pricing and packaging. Updated after each Debrief with real sales and conversion. No invented numbers.
 
 ## Current beliefs
 | # | Belief | Evidence | Would change if | Last reviewed |
@@ -13,5 +13,5 @@ Sol's Living Models for pricing and packaging. Updated after each Debrief with r
 |---|---|---|---|---|---|---|
 
 ## Storefront
-- Checkout platform: TBD (Sol to recommend at first G5)
-- GST/HST: Sol flags Brandon as revenue approaches the registration threshold; Brandon confirms with his accountant.
+- Checkout platform: Squarespace Commerce (decided 2026-11-10)
+- GST/HST: Ines flags Brandon as revenue approaches the registration threshold; Brandon confirms with his accountant.

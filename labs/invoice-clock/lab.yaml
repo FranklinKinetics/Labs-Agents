@@ -1,0 +1,49 @@
+# Lab card. Created 2026-11-26 as the next build (plan/labs-to-calls.md, section 3).
+name: "The Invoice Clock"          # working name; Fenn may rename before G1
+slug: "invoice-clock"
+status: cleared       # spark|building|paged|cleared|released|debriefed|held|killed
+killed_reason: ""
+
+audience:
+  buyer: sme-owner                 # trades owners, 20-200 people
+  story_speaks_to: "sme-owner"
+job_to_be_done: "Shows a trades owner, in one minute on a phone, the steps where invoices wait with no one responsible."
+rotor_lesson: "Work doesn't wait because people are slow. It waits where no one is responsible for the wait."   # Fenn draft
+
+call_path:
+  leads_to: "automation"           # automation | rotor | both
+  how: "Clock (1 min) -> reply with a number or book a call -> State Map Diagnostic -> invoicing automation (job closed -> invoice drafted -> one-tap approve -> reminders -> weekly owner digest)"
+  second_layer: "Where Invoices Wait: a paste-in AI check for the office manager (not built yet; build only if the Clock produces replies)"
+
+four_proofs:
+  speed: "TBD at release"
+  abundance: "Every trades firm already has the dates in QuickBooks, Jobber or a spreadsheet; the 28-day rule is public law."
+  craft: "The Clock itself is deliberately low-tech; the craft shows in the second layer and the automation it points to."
+  goodwill: "Free, no sign-up, collects nothing."
+
+sources:
+  - {name: "Sask. prompt payment in force", url: "https://www.saskatchewan.ca/government/news-and-media/2022/march/01/legislation-to-protect-contractors-takes-effect-today", licence: "public government release; cited", notes: "28 days after a proper invoice; contracts from 2022-03-01"}
+  - {name: "Miller Thomson commentary", url: "https://www.millerthomson.com/en/insights/construction-and-infrastructure-law/saskatchewan-prompt-payment-legislation-in-force/", licence: "public commentary; cited", notes: "proper invoice triggers the clock"}
+
+hours:
+  brandon: 0
+  crew_sessions: 1
+
+offer:
+  free_layer: "The whole Clock"
+  paid_layer: "none"
+  price_cad: 0
+  format: "web page"
+  checkout: "none (no email gate: the reply-with-a-number ask replaces it)"
+  refund_terms: "n/a"
+
+release:
+  date: ""
+  store_url: ""
+
+signals:            # Signal ladder, month to date; counts only
+  visits: 0
+  contacts: 0
+  calls: 0
+  clients: 0
+  log: []           # - {week: 2026-W49, visits, contacts, calls, clients}
