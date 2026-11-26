@@ -10,7 +10,7 @@ Beliefs we hold until evidence replaces them. Revised at Debriefs and in the wee
 | LM4 | Labs produce calls about paid work. | **none: no tracking existed before 2026-11-26** | no Lab-credited call after 2 Labs with a live Call Path and 60 days of counting | 2026-11-26 |
 | LM5 | Trades owners in Saskatchewan will answer a one-number question about invoice delays from someone they don't know. | none yet (discovery test 1) | fewer than 3 replies from 40 qualified sends | 2026-11-26 |
 | LM6 | Bookkeepers serving trades firms are the owner's most trusted advisor and will refer. | US data only (OnPay 2019, 31%); no Canadian figure found | no referral from 15 contacted firms | 2026-11-26 |
-| LM7 | A low-effort hook (one minute, no AI) gets more owners to act than a deeper AI tool. | the critic's argument, 2026-11-26; untested | the second layer gets more replies than the Clock | 2026-11-26 |
+| LM7 | A Lab that does one real job in five minutes (a useful tool) earns more replies than a quick self-score. | Brandon's call, 2026-11-26, overriding the critic's low-effort hook; untested | test 1 gets fewer than 3 replies while visits show people opened the tool | 2026-11-26 |
 
 ---
 ## Superseded

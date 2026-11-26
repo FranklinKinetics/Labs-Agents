@@ -139,3 +139,6 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-26 | Discovery test 1 starts: personal email to 40 qualified trades owners with the Invoice Clock as the hook. Pass ≥ 1 call by day 45; day-60 bar = 1 scoped engagement conversation. Plan: `plan/labs-to-calls.md`. | Claude Code (crew, under the brief) |
 | 2026-11-26 | Next Lab: the Invoice Clock (and later Where Invoices Wait). Rotor Alignment Diagnostic held (not killed) until test 1 has a verdict. | Claude Code (crew, under the brief) |
 | 2026-11-26 | Guardrails renumbered 9–15 (there were two 8s); guardrail 17 added: no automation price in public. Logged in the weekly review for Brandon's veto. | Claude Code (crew, under the brief) |
+| 2026-11-26 | The Invoice Clock is killed: "too much like a survey". Labs must be useful tools, not an obvious top of funnel. | Claude Code |
+| 2026-11-26 | Next Lab: **Truck Note to Invoice** (option 1 of 3): a work-order photo or voice note becomes an invoice ready to check and send, in the owner's own AI. It's the hook for discovery test 1. | Claude Code |
+| 2026-11-26 | Environment network: allowed publications.saskatchewan.ca, to read the Builders' Lien Act's proper-invoice definition. | Claude Code |

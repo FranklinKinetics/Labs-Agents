@@ -1,8 +1,8 @@
 # Lab card. Created 2026-11-26 as the next build (plan/labs-to-calls.md, section 3).
 name: "The Invoice Clock"          # working name; Fenn may rename before G1
 slug: "invoice-clock"
-status: cleared       # spark|building|paged|cleared|released|debriefed|held|killed
-killed_reason: ""
+status: killed        # spark|building|paged|cleared|released|debriefed|held|killed
+killed_reason: "Brandon, 2026-11-26: too much like a survey; a Lab must be a useful tool, not an obvious top of funnel. Replaced by labs/truck-note-to-invoice/."
 
 audience:
   buyer: sme-owner                 # trades owners, 20-200 people

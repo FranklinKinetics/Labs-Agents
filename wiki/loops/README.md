@@ -15,4 +15,5 @@ Each page states: **trigger · owner · model · steps · output · Brandon's mi
 ## Change log
 | Date | Loop | Change |
 |---|---|---|
+| 2026-11-26 | discovery outreach | Hook changed from the Invoice Clock to Truck Note to Invoice (Brandon: a Lab must be a useful tool). Ask changed to "try it on today's job". |
 | 2026-11-26 | all five | Created when the crew went to 4 personas and 2 gates (`plan/labs-to-calls.md`). The old lifecycle with gates G1–G8 is retired. |

@@ -1,0 +1,47 @@
+# Lab card. Created 2026-11-26; replaces the Invoice Clock (Brandon: "too much like a survey"; chose option 1).
+name: "Truck Note to Invoice"      # working name; Fenn may rename before G1
+slug: "truck-note-to-invoice"
+status: cleared      # spark|building|paged|cleared|released|debriefed|held|killed (cleared with must-fixes; see clearance.md)
+killed_reason: ""
+
+audience:
+  buyer: sme-owner                 # trades owners, 20-200 people; also their techs and office
+  story_speaks_to: "sme-owner"
+job_to_be_done: "Turns a photo of a work order, or a spoken job note, into an invoice ready to check and send, with every gap flagged, in the AI already on the owner's phone."
+rotor_lesson: "Work rarely waits because people are slow. It waits at the hand-off no one owns."   # Fenn draft
+
+call_path:
+  leads_to: "automation"
+  how: "One job by hand in the owner's AI -> 'I want this on every job' -> call -> State Map Diagnostic -> invoicing automation (job closed -> invoice drafted -> one-tap approve -> reminders -> weekly owner digest)"
+
+four_proofs:
+  speed: "TBD at release"
+  abundance: "The work order already exists on paper or in the tech's head; the AI and the phone camera are already paid for."
+  craft: "Photo or voice to a structured invoice, with honest blanks instead of invented numbers; works in any of the four main AIs."
+  goodwill: "Free and stays free; no sign-up; collects nothing; useful on its own every day."
+
+sources:
+  - {name: "Sask. prompt payment in force (context only; not on the page yet)", url: "https://www.saskatchewan.ca/government/news-and-media/2022/march/01/legislation-to-protect-contractors-takes-effect-today", licence: "public government release; cited", notes: "28 days after a proper invoice. The proper-invoice definition itself is NOT yet verified from the Act."}
+
+hours:
+  brandon: 0
+  crew_sessions: 1
+
+offer:
+  free_layer: "The whole tool"
+  paid_layer: "none (the paid work is the automation, via the Call Path)"
+  price_cad: 0
+  format: "download"               # copy-paste instruction text on the page
+  checkout: "none (no email gate)"
+  refund_terms: "n/a"
+
+release:
+  date: ""
+  store_url: ""
+
+signals:             # Signal ladder, month to date; counts only
+  visits: 0
+  contacts: 0
+  calls: 0
+  clients: 0
+  log: []

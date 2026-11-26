@@ -1,4 +1,6 @@
-# Labs to calls: the plan (v2)
+# Labs to calls: the plan (v2.1)
+
+> **v2.1 (2026-11-26, Brandon):** the Invoice Clock is replaced by **Truck Note to Invoice**: take a photo of a work order and get an invoice ready to check and send. Brandon's reason: the Clock was a survey, an obvious top of funnel, and a Lab must be a useful tool. Wherever this plan says "Invoice Clock", read Truck Note to Invoice. The test, its numbers and the Call Path are unchanged; the ask becomes "try it on today's job".
 
 Ines, 2026-11-26. Written from Brandon's brief of the same day (recorded in `logs/decisions.md`). v1 went to one adversarial critic (Sonnet); the critique is in `critique-2026-11-26.md`, and section 6 says what changed. This is the plan the crew now runs.
 

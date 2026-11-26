@@ -2,17 +2,17 @@
 
 Everything waiting on Brandon. Clears in under an hour a week. One screen per item; detail is linked, never pasted. Loop: `wiki/loops/brandon-queue.md`.
 
-**This week: about 35 minutes.**
+**This week: about 40 minutes.**
 
 ## Waiting on Brandon
 
-### 1 · G1 Release · Invoice Clock + outreach test 1 · 2026-11-26 · ~10 min
-Verdict: release the one-minute Invoice Clock page and the outreach template, and start test 1.
-• Hook: 5 yes/no questions on invoice waits, plus the 28-day prompt-payment clock (sourced).
-• 40 trades owners (20–200 people), all sent in 2 weeks from your Gmail; you press send.
-• Pass = ≥ 1 call booked by day 45. Vera cleared it; 2 must-fixes are item 2.
-Decide: release the page and template as drafted? → pass · pass with changes · hold
-Detail: `labs/invoice-clock/page.md`, `labs/invoice-clock/outreach.md`, `labs/invoice-clock/clearance.md`
+### 1 · G1 Release · Truck Note to Invoice + outreach test 1 · 2026-11-26 · ~15 min
+Verdict: release the free Truck Note to Invoice tool and its outreach email, and start test 1.
+• **Try it first (5 min):** paste `labs/truck-note-to-invoice/build/truck-note-to-invoice.txt` into ChatGPT or Claude on your phone, then photograph one real work order.
+• Email to 40 trades owners: "try it on today's job; if it gets something wrong, tell me." You press send.
+• Pass = ≥ 1 call booked by day 45. Vera cleared it; no legal claims are made (the Act's wording isn't verified yet).
+Decide: release the page and email as drafted? → pass · pass with changes · hold
+Detail: `labs/truck-note-to-invoice/` (page.md, outreach.md, clearance.md, build/)
 
 ### 2 · Setup, once · ~25 min · needed before the first send
 Only you can do these (your accounts):
@@ -24,4 +24,4 @@ Decide: nothing; reply "done" with the booking link and address.
 ## Done
 | Date | Item | Outcome |
 |---|---|---|
-| | | |
+| 2026-11-26 | Invoice Clock G1 packet | withdrawn: Brandon chose a useful tool instead (Truck Note to Invoice) |

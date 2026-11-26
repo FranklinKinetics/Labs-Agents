@@ -53,4 +53,5 @@ Note: the new G1 and G2 are not the old G1 Spark and G2 Go/No-go. Rows above use
 
 | Date | Item | Gate | Outcome | Changes requested |
 |---|---|---|---|---|
-| 2026-11-26 | Invoice Clock page + outreach template (test 1) | G1 Release | waiting (`QUEUE.md` item 1) | — |
+| 2026-11-26 | Invoice Clock page + outreach template (test 1) | G1 Release | withdrawn before decision (Brandon: a survey, not a tool) | replaced by Truck Note to Invoice |
+| 2026-11-26 | Truck Note to Invoice + outreach template (test 1) | G1 Release | waiting (`QUEUE.md` item 1) | — |

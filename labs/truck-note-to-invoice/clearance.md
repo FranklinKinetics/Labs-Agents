@@ -1,0 +1,25 @@
+CLEARANCE · Truck Note to Invoice (instruction text, page, outreach template) · 2026-11-26
+Vera. Checked inline in the session that built it.
+
+Guardrails 1–17: pass.
+  3 ROI: no saving, speed-of-payment or cash claim on the page, in the tool or in outreach; [6] describes a routine.
+  5 invented claims: the tool is told never to invent; the page example must be labelled invented.
+  6 sources: no legal claim is made, so the 28-day source is context only.
+  7/17 prices: no price for paid work anywhere.
+  8 Brandon's time: the tool is complete on its own; the call is optional.
+  11/12 privacy: runs in the owner's own AI; collects nothing; the tool leaves supplier costs and other customers off the invoice.
+  15 accessibility: text-only; the copy button and example need contrast and alt text in Squarespace.
+Page checklist 1–8: pass on the draft; [4] hours and the example still to fill.
+CASL (template): sender, corporation, STOP line present; mailing address placeholder.
+Claims checked: 0 factual claims on the page need a source (the legal context was removed on purpose).
+
+Must fix before G1:
+  1. Run test plan T1–T5 in real apps (ChatGPT and Claude on a phone). A same-model dry run passed T1, T3 and T4 (build/test-results-dryrun.md); that's a weak test. Brandon's 5-minute try on a real work order (in the G1 packet) covers T2.
+  2. Done: labelled invented example (build/example.md).
+Must fix before the first send:
+  3. {mailing address} and [BOOKING_LINK] (QUEUE.md item 2).
+  4. Per batch: a consent source URL and date for every address.
+Before any page or email mentions the prompt-payment rules or a "proper invoice":
+  5. Verify the definition against the Act itself. The crew's download of the Act was blocked this session; retry next session (host now allowed) or Brandon checks.
+Flag to Brandon: none.
+Verdict: CLEARED for G1. Brandon's own try on a real work order is part of the release decision.
