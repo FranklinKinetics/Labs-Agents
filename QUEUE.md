@@ -11,8 +11,8 @@ Verdict: release it free ("Open in ChatGPT / Claude" buttons), with a **CAD $49 
 • **Try it first (5 min):** on your phone, tap the ChatGPT or Claude link in `labs/truck-note-to-invoice/build/one-tap-links.md`, then photograph one real work order. That also tests the link.
 • Email to 40 trades owners: "try it on today's job; if it gets something wrong, tell me." You press send.
 • Pass = ≥ 1 call booked by day 45. Vera cleared it; no legal claims are made (the Act's wording isn't verified yet).
-• Price: $49 once (options $29 / $79). Comparables and reasoning: `labs/truck-note-to-invoice/price-read.md`.
-Decide: release the page, the $49 price and the email as drafted? → pass · pass with changes · hold
+• Price: **$49 approved** (2026-11-27). The kit is being rebuilt to earn it (`kit-spec.md`); it goes on sale only once built.
+Decide: release the free page and the email as drafted? → pass · pass with changes · hold
 Detail: `labs/truck-note-to-invoice/` (page.md, outreach.md, clearance.md, build/)
 
 ### 2 · Setup, once · ~25 min · needed before the first send

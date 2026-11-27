@@ -19,11 +19,12 @@ You get back an invoice ready to paste into QuickBooks, Jobber or an email, and 
 *Tip: save it as a ChatGPT custom GPT or a Claude Project with your details filled in. Every job after that is: open, photo, send.*
 
 **The Team Kit · CAD $49, once** [Buy]
-For a firm that wants every tech and the office doing this, in whichever AI they use:
-- the **Claude skill**: add it once, then just send Claude a work order, with no link to tap;
-- the **full version** for Copilot, Gemini or any AI, with the extra checks the quick version leaves out;
-- a **one-page setup guide**: save your details so each job is one photo, and set up your techs on their own phones;
-- invoices as a **PDF**, where your AI can make files.
+Your own invoice assistant, set up once for the whole crew:
+- **Your rates and your price book built in.** Type them once; get your firm's own ChatGPT and Claude links and Claude skill. Techs never type a rate again.
+- **Truck cards:** print one for every truck, with a QR code to your link. *Job done? Snap the work order.*
+- **The get-paid pack:** a clean invoice layout with your logo, plus covering-email and reminder wordings.
+- **The office routine:** two minutes a day to approve and send.
+Everything runs on your own phones and accounts. Nothing comes back to us.
 
 Not useful? Email within 30 days for a full refund.
 

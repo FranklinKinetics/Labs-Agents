@@ -2,6 +2,8 @@
 
 Brandon: "a price on the page; I care more about the optics of having the product than the product itself."
 
+> **Decided 2026-11-27 (Brandon): $49, on condition the perceived value goes up.** The kit is respecified in `kit-spec.md`.
+
 ## Recommendation: **CAD $49, one time**, for the Team Kit. Try it free in ChatGPT or Claude.
 | Layer | What | Price |
 |---|---|---|

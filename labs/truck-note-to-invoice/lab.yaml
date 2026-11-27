@@ -29,8 +29,8 @@ hours:
 
 offer:
   free_layer: "One-tap links that open ChatGPT or Claude with the short instructions loaded"
-  paid_layer: "Team Kit: Claude skill, paste-in version for any AI, setup guide for techs, PDF option"
-  price_cad: 49                    # recommended; Brandon decides at G1 (price-read.md)
+  paid_layer: "Team Kit (kit-spec.md): Kit Builder with your rates and price book, truck cards with a QR code, get-paid pack, office routine card, worked examples"
+  price_cad: 49                    # approved by Brandon 2026-11-27, on condition the kit's perceived value goes up (kit-spec.md)
   format: "bundle"                 # one-tap links (free) + claude-skill and full text (paid)
   checkout: "Squarespace Commerce, Labs store (Team Kit)"
   refund_terms: "Not useful? Email within 30 days for a full refund."
