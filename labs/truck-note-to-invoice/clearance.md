@@ -22,5 +22,7 @@ Must fix before the first send:
 Before any page or email mentions the prompt-payment rules or a "proper invoice":
   5. Verify the definition against the Act itself. The crew's download of the Act was blocked this session; retry next session (host now allowed) or Brandon checks.
 Addendum 2026-11-27, skill package: SKILL.md carries the same rules as the text, plus an offer to make a PDF of the same invoice (no new claims). The page must not say which Claude plans support skills until that's checked. Test T6 (does it trigger on its own) has been added.
+Addendum 2026-11-27, price and custom GPT: CAD $49 one-time Team Kit, with the custom GPT as the free layer. Guardrail 9 passes: no fake discount, countdown or pre-ticked upsell; refund stated plainly. Guardrail 7: a Lab price only; nothing implies a consulting price. The custom GPT carries the same rules as the text. Its link is public once shared, so it's part of the G1 release.
+Must fix before the page goes live: the Team Kit's setup guide doesn't exist yet (Mack, next session); don't sell the kit until it does.
 Flag to Brandon: none.
 Verdict: CLEARED for G1. Brandon's own try on a real work order is part of the release decision.

@@ -2,16 +2,17 @@
 
 Everything waiting on Brandon. Clears in under an hour a week. One screen per item; detail is linked, never pasted. Loop: `wiki/loops/brandon-queue.md`.
 
-**This week: about 40 minutes.**
+**This week: about 50 minutes.**
 
 ## Waiting on Brandon
 
-### 1 · G1 Release · Truck Note to Invoice + outreach test 1 · 2026-11-26 · ~15 min
-Verdict: release the free Truck Note to Invoice tool and its outreach email, and start test 1.
+### 1 · G1 Release · Truck Note to Invoice: page, price, email · 2026-11-27 · ~15 min
+Verdict: release it as a free ChatGPT tool, with a **CAD $49 Team Kit** on the page, and start test 1.
 • **Try it first (5 min):** in Claude, upload `labs/truck-note-to-invoice/build/skill/truck-note-to-invoice.zip` as a skill (or paste the `.txt` into ChatGPT), then photograph one real work order.
 • Email to 40 trades owners: "try it on today's job; if it gets something wrong, tell me." You press send.
 • Pass = ≥ 1 call booked by day 45. Vera cleared it; no legal claims are made (the Act's wording isn't verified yet).
-Decide: release the page and email as drafted? → pass · pass with changes · hold
+• Price: $49 once (options $29 / $79). Comparables and reasoning: `labs/truck-note-to-invoice/price-read.md`.
+Decide: release the page, the $49 price and the email as drafted? → pass · pass with changes · hold
 Detail: `labs/truck-note-to-invoice/` (page.md, outreach.md, clearance.md, build/)
 
 ### 2 · Setup, once · ~25 min · needed before the first send
@@ -20,6 +21,10 @@ Only you can do these (your accounts):
 • **Mailing address** for the email signature (anti-spam law requires one). A business address or PO box.
 • **Start a conversation form** on Squarespace: add an optional field, "Which Lab or email brought you here?"
 Decide: nothing; reply "done" with the booking link and address.
+
+### 3 · Build the custom GPT · ~10 min · once you pass item 1
+Steps and every field, ready to paste: `labs/truck-note-to-invoice/build/custom-gpt.md`. Needs a paid ChatGPT plan; if you don't have one, say so (buying one is a G2 Money decision).
+Decide: nothing; paste the share link here.
 
 ## Done
 | Date | Item | Outcome |

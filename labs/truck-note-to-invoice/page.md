@@ -7,11 +7,10 @@ Status: **draft for Vera's clearance**, then G1. Built to the eight-point checkl
 **[1] Snap the work order. Get the invoice.**
 From the truck to an invoice you can check and send, in the AI already on your phone.
 
-**[2] Free.**
+**[2] Try it free in ChatGPT. The Team Kit is CAD $49, once.**
 
 **[3] How it works**
-1. **Using Claude?** Download the skill and add it once (Settings → Capabilities → Skills). After that, just send Claude a work order.
-   **Using ChatGPT, Copilot or Gemini?** Copy the instruction text below and paste it into a new chat.
+1. **Try it now in ChatGPT, free:** [Open Truck Note to Invoice] *(custom GPT link)*
 2. Give it your business details once: name, rates, taxes, payment terms.
 3. Take a photo of the work order, or just say what you did: *"Two valves at the Smith job, three hours, parts $140."*
 
@@ -19,7 +18,14 @@ You get back an invoice ready to paste into QuickBooks, Jobber or an email, and 
 
 *Tip: save it as a ChatGPT custom GPT or a Claude Project with your details filled in. Every job after that is: open, photo, send.*
 
-[Download the Claude skill] *(`build/skill/truck-note-to-invoice.zip`)* · [copy button] *(the text from `build/truck-note-to-invoice.txt`)*
+**The Team Kit · CAD $49, once** [Buy]
+For a firm that wants every tech and the office doing this, in whichever AI they use:
+- the **Claude skill**: add it once, then just send Claude a work order;
+- a **paste-in version** for Copilot, Gemini or any AI;
+- a **one-page setup guide**: save your details so each job is one photo, and set up your techs on their own phones;
+- invoices as a **PDF**, where your AI can make files.
+
+Not useful? Email within 30 days for a full refund.
 
 **Example, not a real company:** *(a sample work-order photo and the invoice it produced; Mack to make one with invented details, labelled)*
 
@@ -40,4 +46,5 @@ or reply with a question; I read every one.
 ## Notes for Vera
 - [6] describes a routine, with no amount, no "faster cash" and no saving claimed.
 - There's no mention of the 28-day rule on the page. It goes in only once the Act has been checked, and then as cited context, not as a promise that the invoice is "proper".
-- [4] hours are placeholders until release. The example must be visibly labelled as invented.
+- [4] hours are placeholders until release.
+- [2]: price per `price-read.md`; there's no "was" price and no countdown. The free GPT is the same tool, in ChatGPT only, and the page says so. The example must be visibly labelled as invented.

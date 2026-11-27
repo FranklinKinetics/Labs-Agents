@@ -143,3 +143,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-26 | Next Lab: **Truck Note to Invoice** (option 1 of 3): a work-order photo or voice note becomes an invoice ready to check and send, in the owner's own AI. It's the hook for discovery test 1. | Claude Code |
 | 2026-11-26 | Environment network: allowed publications.saskatchewan.ca, to read the Builders' Lien Act's proper-invoice definition. | Claude Code |
 | 2026-11-27 | Truck Note to Invoice also ships as a Claude skill (zip on the page), alongside the paste-in text for other AIs. | Claude Code |
+| 2026-11-27 | Truck Note to Invoice gets a custom GPT (the free layer) and a price on the Lab page. Brandon: "I care more about the optics of having the product than the product itself." Crew recommends a CAD $49 one-time Team Kit; Brandon decides the number at G1. | Claude Code |
