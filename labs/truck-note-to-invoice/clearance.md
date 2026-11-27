@@ -21,5 +21,6 @@ Must fix before the first send:
   4. Per batch: a consent source URL and date for every address.
 Before any page or email mentions the prompt-payment rules or a "proper invoice":
   5. Verify the definition against the Act itself. The crew's download of the Act was blocked this session; retry next session (host now allowed) or Brandon checks.
+Addendum 2026-11-27, skill package: SKILL.md carries the same rules as the text, plus an offer to make a PDF of the same invoice (no new claims). The page must not say which Claude plans support skills until that's checked. Test T6 (does it trigger on its own) has been added.
 Flag to Brandon: none.
 Verdict: CLEARED for G1. Brandon's own try on a real work order is part of the release decision.

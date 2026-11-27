@@ -142,3 +142,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-26 | The Invoice Clock is killed: "too much like a survey". Labs must be useful tools, not an obvious top of funnel. | Claude Code |
 | 2026-11-26 | Next Lab: **Truck Note to Invoice** (option 1 of 3): a work-order photo or voice note becomes an invoice ready to check and send, in the owner's own AI. It's the hook for discovery test 1. | Claude Code |
 | 2026-11-26 | Environment network: allowed publications.saskatchewan.ca, to read the Builders' Lien Act's proper-invoice definition. | Claude Code |
+| 2026-11-27 | Truck Note to Invoice also ships as a Claude skill (zip on the page), alongside the paste-in text for other AIs. | Claude Code |

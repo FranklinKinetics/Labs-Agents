@@ -31,7 +31,7 @@ offer:
   free_layer: "The whole tool"
   paid_layer: "none (the paid work is the automation, via the Call Path)"
   price_cad: 0
-  format: "download"               # copy-paste instruction text on the page
+  format: "claude-skill"           # plus copy-paste text for other AIs; custom GPT proposed
   checkout: "none (no email gate)"
   refund_terms: "n/a"
 

@@ -10,7 +10,8 @@ From the truck to an invoice you can check and send, in the AI already on your p
 **[2] Free.**
 
 **[3] How it works**
-1. Copy the instruction text below and paste it into ChatGPT, Claude, Copilot or Gemini.
+1. **Using Claude?** Download the skill and add it once (Settings → Capabilities → Skills). After that, just send Claude a work order.
+   **Using ChatGPT, Copilot or Gemini?** Copy the instruction text below and paste it into a new chat.
 2. Give it your business details once: name, rates, taxes, payment terms.
 3. Take a photo of the work order, or just say what you did: *"Two valves at the Smith job, three hours, parts $140."*
 
@@ -18,7 +19,7 @@ You get back an invoice ready to paste into QuickBooks, Jobber or an email, and 
 
 *Tip: save it as a ChatGPT custom GPT or a Claude Project with your details filled in. Every job after that is: open, photo, send.*
 
-[copy button] *(the text from `build/truck-note-to-invoice.txt`)*
+[Download the Claude skill] *(`build/skill/truck-note-to-invoice.zip`)* · [copy button] *(the text from `build/truck-note-to-invoice.txt`)*
 
 **Example, not a real company:** *(a sample work-order photo and the invoice it produced; Mack to make one with invented details, labelled)*
 

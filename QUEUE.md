@@ -8,7 +8,7 @@ Everything waiting on Brandon. Clears in under an hour a week. One screen per it
 
 ### 1 · G1 Release · Truck Note to Invoice + outreach test 1 · 2026-11-26 · ~15 min
 Verdict: release the free Truck Note to Invoice tool and its outreach email, and start test 1.
-• **Try it first (5 min):** paste `labs/truck-note-to-invoice/build/truck-note-to-invoice.txt` into ChatGPT or Claude on your phone, then photograph one real work order.
+• **Try it first (5 min):** in Claude, upload `labs/truck-note-to-invoice/build/skill/truck-note-to-invoice.zip` as a skill (or paste the `.txt` into ChatGPT), then photograph one real work order.
 • Email to 40 trades owners: "try it on today's job; if it gets something wrong, tell me." You press send.
 • Pass = ≥ 1 call booked by day 45. Vera cleared it; no legal claims are made (the Act's wording isn't verified yet).
 Decide: release the page and email as drafted? → pass · pass with changes · hold
