@@ -14,7 +14,7 @@ Hard limits. Renumbered 9–15 on 2026-11-26 (there were two 8s; files dated ear
 
 ## Pricing
 7. **Lab products show prices. Consulting and Rotor Beta stay unpriced.** Nothing on a Lab page may imply a consulting price.
-8. **A Lab never requires Brandon's time.** If a product needs his consulting time to deliver, it is consulting, not a Lab, and it stays unpriced. (A Lab's optional call CTA is not delivery; the Lab must be complete without it.)
+8. **A Lab needs at most a 20-minute setup call from Brandon per sale, and only where the Lab offers setup.** The crew does the setup work; Brandon hands it over in his booked evening slots, capped at 2 a week (more only if he raises the cap). Anything needing more of his time is consulting, not a Lab, and stays unpriced. The free layer must be complete without him. (Changed by Brandon 2026-11-27, from "a Lab never requires Brandon's time", when he priced the Truck Note to Invoice kit at $79 including setup.)
 9. **No dark patterns:** no fake scarcity, fake countdowns, pre-checked upsells, or hard-to-cancel subscriptions. Refund terms are stated plainly.
 
 ## Data and privacy

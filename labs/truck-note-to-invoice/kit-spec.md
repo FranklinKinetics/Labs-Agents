@@ -1,4 +1,19 @@
-# Team Kit spec · CAD $49 (Ines, 2026-11-27)
+# Team Kit spec · CAD $79 including setup (Ines, 2026-11-27)
+
+> **Changed the same day (Brandon): $79, and it includes Brandon configuring it for the buyer's operation.** The crew does the configuration; Brandon's part is a 20-minute handover call. Guardrail 8 was changed to allow this. The self-serve Kit Builder drops to "later", because the crew now builds each firm's kit from a setup form. The rest of this spec stands.
+
+## How setup works (loop: `wiki/loops/kit-setup.md`)
+1. **Buy** on the Labs page ($79). Checkout takes contact details only.
+2. **Setup form** (sent by email within a day): business details, rates, taxes, terms, logo, a price list (a photo or file is fine), the number of trucks, and which AI the crew uses.
+3. **The crew builds their kit** (Sonnet; Haiku for the files): their own ChatGPT and Claude links and Claude skill with their rates and price book built in, truck cards with their QR code, the get-paid pack with their logo, and the office routine. Vera checks it before it goes out.
+4. **20-minute handover call with Brandon** in his evening slots: show it working on one of their real work orders, and answer questions. The last two minutes are one question: *"Where else does work wait in your shop?"* No pitch.
+5. **Data:** the setup form and price list are kept in a private folder (never this repo), used only to build their kit, and deleted 30 days after delivery. The page says so.
+
+**Brandon's time:** 20 minutes per sale, capped at 2 setups a week (40 minutes). The page doesn't say "limited" (that would be scarcity talk); a buyer simply gets the next open slot.
+
+---
+*Original $49 spec below; the Kit Builder is now internal tooling for the crew first.*
+
 
 Brandon approved $49 on the condition that the perceived value goes up: "right now it's just a PDF with instructions and links." The principle: **make it theirs, and put something physical in the truck.** Everything here runs on the buyer's own device; nothing is hosted and nothing comes back to us (decision 2026-11-10). Brandon's time needed: none (guardrail 8).
 

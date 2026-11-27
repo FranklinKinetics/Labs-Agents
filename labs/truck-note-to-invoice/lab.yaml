@@ -12,6 +12,7 @@ rotor_lesson: "Work rarely waits because people are slow. It waits at the hand-o
 
 call_path:
   leads_to: "automation"
+  paid_call: "Every $79 sale includes a 20-minute handover call with Brandon: the Call Path's call, already paid for."
   how: "One job by hand in the owner's AI -> 'I want this on every job' -> call -> State Map Diagnostic -> invoicing automation (job closed -> invoice drafted -> one-tap approve -> reminders -> weekly owner digest)"
 
 four_proofs:
@@ -29,10 +30,10 @@ hours:
 
 offer:
   free_layer: "One-tap links that open ChatGPT or Claude with the short instructions loaded"
-  paid_layer: "Team Kit (kit-spec.md): Kit Builder with your rates and price book, truck cards with a QR code, get-paid pack, office routine card, worked examples"
-  price_cad: 49                    # approved by Brandon 2026-11-27, on condition the kit's perceived value goes up (kit-spec.md)
+  paid_layer: "Set up for your firm (kit-spec.md): crew configures their rates, taxes, terms and price book; truck cards with a QR code; get-paid pack; office routine; 20-minute handover call with Brandon"
+  price_cad: 79                    # Brandon 2026-11-27: $79 including setup for their operation (kit-spec.md)
   format: "bundle"                 # one-tap links (free) + claude-skill and full text (paid)
-  checkout: "Squarespace Commerce, Labs store (Team Kit)"
+  checkout: "Squarespace Commerce, Labs store; checkout asks for nothing beyond contact details; the setup form follows by email"
   refund_terms: "Not useful? Email within 30 days for a full refund."
 
 release:

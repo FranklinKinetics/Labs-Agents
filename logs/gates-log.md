@@ -56,3 +56,4 @@ Note: the new G1 and G2 are not the old G1 Spark and G2 Go/No-go. Rows above use
 | 2026-11-26 | Invoice Clock page + outreach template (test 1) | G1 Release | withdrawn before decision (Brandon: a survey, not a tool) | replaced by Truck Note to Invoice |
 | 2026-11-26 | Truck Note to Invoice + outreach template (test 1) | G1 Release | waiting (`QUEUE.md` item 1) | — |
 | 2026-11-27 | Truck Note to Invoice: Team Kit price | G1 Release (price) | pass with changes | CAD $49 approved; raise the perceived value (kit-spec.md) |
+| 2026-11-27 | Truck Note to Invoice: price | G1 Release (price) | changed by Brandon | CAD $79 including setup for their operation; replaces $49 |

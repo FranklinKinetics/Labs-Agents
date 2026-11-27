@@ -7,7 +7,7 @@ Status: **draft for Vera's clearance**, then G1. Built to the eight-point checkl
 **[1] Snap the work order. Get the invoice.**
 From the truck to an invoice you can check and send, in the AI already on your phone.
 
-**[2] Try it free in ChatGPT or Claude. The Team Kit is CAD $49, once.**
+**[2] Try it free in ChatGPT or Claude. Or have it set up for your firm: CAD $79, once.**
 
 **[3] How it works**
 1. **Try it now, free:** [Open in ChatGPT] [Open in Claude] *(one-tap links from `build/one-tap-links.md`; each opens your own AI with the instructions ready)*
@@ -18,13 +18,14 @@ You get back an invoice ready to paste into QuickBooks, Jobber or an email, and 
 
 *Tip: save it as a ChatGPT custom GPT or a Claude Project with your details filled in. Every job after that is: open, photo, send.*
 
-**The Team Kit · CAD $49, once** [Buy]
-Your own invoice assistant, set up once for the whole crew:
-- **Your rates and your price book built in.** Type them once; get your firm's own ChatGPT and Claude links and Claude skill. Techs never type a rate again.
+**Set up for your firm · CAD $79, once** [Buy]
+We set up your own invoice assistant for the whole crew:
+- **Your rates and your price book built in.** Send us your details and price list once; you get your firm's own ChatGPT and Claude links and Claude skill. Techs never type a rate again.
 - **Truck cards:** print one for every truck, with a QR code to your link. *Job done? Snap the work order.*
 - **The get-paid pack:** a clean invoice layout with your logo, plus covering-email and reminder wordings.
 - **The office routine:** two minutes a day to approve and send.
-Everything runs on your own phones and accounts. Nothing comes back to us.
+- **A 20-minute handover call with Brandon**, in the evening, to see it work on one of your own work orders.
+Once it's set up, it runs on your own phones and accounts. Your details and price list are used only to build your kit, and deleted 30 days after we deliver it.
 
 Not useful? Email within 30 days for a full refund.
 

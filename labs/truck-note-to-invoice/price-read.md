@@ -2,7 +2,7 @@
 
 Brandon: "a price on the page; I care more about the optics of having the product than the product itself."
 
-> **Decided 2026-11-27 (Brandon): $49, on condition the perceived value goes up.** The kit is respecified in `kit-spec.md`.
+> **Decided 2026-11-27 (Brandon): $79, including setup for the buyer's operation** (it replaces the $49 decision made earlier the same day). Comparables below were for a self-serve kit; with setup included, $79 sits well under any done-for-you option. Vera: the page must not read as an hourly or consulting rate (guardrail 7).
 
 ## Recommendation: **CAD $49, one time**, for the Team Kit. Try it free in ChatGPT or Claude.
 | Layer | What | Price |
