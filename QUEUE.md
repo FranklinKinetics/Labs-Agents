@@ -2,7 +2,7 @@
 
 Everything waiting on Brandon. Clears in under an hour a week. One screen per item; detail is linked, never pasted. Loop: `wiki/loops/brandon-queue.md`.
 
-**This week: about 40 minutes.**
+**This week: about 60 minutes** (item 3 can wait a week).
 
 ## Waiting on Brandon
 
@@ -21,6 +21,10 @@ Only you can do these (your accounts):
 • **Mailing address** for the email signature (anti-spam law requires one). A business address or PO box.
 • **Start a conversation form** on Squarespace: add an optional field, "Which Lab or email brought you here?"
 Decide: nothing; reply "done" with the booking link and address.
+
+### 3 · Build it in Squarespace, hidden · ~20 min · any evening
+Squarespace can't be built from here (its API can't create digital products or pages). Follow `labs/truck-note-to-invoice/squarespace/build-sheet.md`: short links, the $79 product with the Start Here PDF, the Lab page, and one line in the order email. Keep everything hidden until item 1 passes.
+Decide: nothing; reply "built".
 
 ## Done
 | Date | Item | Outcome |

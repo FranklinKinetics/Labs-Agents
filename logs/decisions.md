@@ -149,3 +149,5 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-27 | Truck Note to Invoice paid layer: **CAD $79 including setup for the buyer's operation** (replaces $49). The crew builds each firm's kit from a setup form; Brandon gives a 20-minute handover call. | Claude Code |
 | 2026-11-27 | **Guardrail 8 changed:** a Lab may need at most a 20-minute setup call from Brandon per sale, capped at 2 a week (was: "a Lab never requires Brandon's time"). The crew set the cap to fit the 10-hour week; Brandon can raise it. | Claude Code |
 | 2026-11-27 | Kit setup data (the form and price list) is kept privately and deleted 30 days after delivery. It's an exception to "Labs send no data back", for the paid setup only. | Claude Code |
+| 2026-11-27 | Kit setup cap: 2 a week, confirmed by Brandon. | Claude Code |
+| 2026-11-27 | The $79 product is a Squarespace digital product that delivers a Start Here PDF; setup details come back by email reply (no separate form). | Claude Code |
