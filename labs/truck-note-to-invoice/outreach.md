@@ -11,7 +11,7 @@ Hi {first name},
 
 I built a small free tool for trades firms: take a photo of a work order, or say what you did ("two valves, three hours, parts $140"), and the AI already on your phone turns it into an invoice you can check and send, with anything missing flagged. Nothing to install, and nothing comes back to me.
 
-It opens in ChatGPT, free: {gpt link}. The page with the other versions is {link}?ref={code}. Try it on one of today's jobs. If it gets something wrong, reply and tell me; I fix it.
+It's free, and opens in ChatGPT or Claude with one tap: {link}?ref={code}. Try it on one of today's jobs. If it gets something wrong, reply and tell me; I fix it.
 
 Brandon Franklin
 Franklin Kinetics Consulting Corp. · {mailing address} · franklinkinetics.com

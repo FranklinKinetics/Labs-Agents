@@ -2,11 +2,11 @@
 
 Brandon: "a price on the page; I care more about the optics of having the product than the product itself."
 
-## Recommendation: **CAD $49, one time**, for the Team Kit. Try it free in ChatGPT.
+## Recommendation: **CAD $49, one time**, for the Team Kit. Try it free in ChatGPT or Claude.
 | Layer | What | Price |
 |---|---|---|
-| **Free** | The shared custom GPT: tap a link, send a work order. ChatGPT only. | Free |
-| **Paid: the Team Kit** | The Claude skill; a paste-in version for Copilot, Gemini or any AI; a one-page setup guide (save your details once so each job is one photo, and get your techs set up on their own phones); the PDF option. | **CAD $49 once** |
+| **Free** | One-tap links: "Open in ChatGPT" / "Open in Claude" open the owner's own AI with the short instructions loaded. (Was a custom GPT; dropped 2026-11-27, since Brandon has no paid ChatGPT plan.) | Free |
+| **Paid: the Team Kit** | The Claude skill (no link to tap each time); the full version for Copilot, Gemini or any AI; a one-page setup guide (save your details once so each job is one photo, and get your techs set up on their own phones); the PDF option. | **CAD $49 once** |
 
 **Why $49.** It reads as a real tool, not a template, without asking for a subscription.
 - It's above trade invoice template packs, which sell for about US$4–19, with bundles near $109 ([Etsy bundle, $109](https://www.etsy.com/listing/4582251962); [Etsy master pack, $19](https://www.etsy.com/listing/4583149295)). PM2: a cheap price anchors Franklin Kinetics as cheap.
@@ -17,6 +17,6 @@ Brandon: "a price on the page; I care more about the optics of having the produc
 
 **Signal that the price is wrong:** after 100 page visits, either 0 kit sales *and* fewer than 3 contacts (the price is putting people off the page entirely), or kit sales with no contacts (the product sells, but the page is failing its real job). Either case goes in the weekly review. Sales are secondary; calls are the measure.
 
-**Honesty checks (guardrail 9):** no launch price, countdown or "was $99". The free GPT is described as what it is: the same tool, ChatGPT only. Refund: "Not useful? Email within 30 days for a full refund."
+**Honesty checks (guardrail 9):** no launch price, countdown or "was $99". The free links are described as what they are: a quick version of the same tool. Refund: "Not useful? Email within 30 days for a full refund."
 
 **Options for Brandon:** A) $49 (recommended) · B) $29, closer to the apps' monthly price, but reads cheaper · C) $79, stronger craft signal, but fewer outreach recipients will look past the price.

@@ -144,3 +144,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-26 | Environment network: allowed publications.saskatchewan.ca, to read the Builders' Lien Act's proper-invoice definition. | Claude Code |
 | 2026-11-27 | Truck Note to Invoice also ships as a Claude skill (zip on the page), alongside the paste-in text for other AIs. | Claude Code |
 | 2026-11-27 | Truck Note to Invoice gets a custom GPT (the free layer) and a price on the Lab page. Brandon: "I care more about the optics of having the product than the product itself." Crew recommends a CAD $49 one-time Team Kit; Brandon decides the number at G1. | Claude Code |
+| 2026-11-27 | No custom GPT: Brandon has no paid ChatGPT plan and won't sign up. The free layer is one-tap "Open in ChatGPT / Open in Claude" links that load the instructions into the owner's own AI. | Claude Code |

@@ -9,7 +9,7 @@
 |---|---|---|---|
 | **Claude skill** | Claude users | `skill/truck-note-to-invoice.zip` (source: `skill/truck-note-to-invoice/SKILL.md`) | Download the zip; in Claude, Settings → Capabilities → Skills → upload. After that Claude uses it on its own whenever they share a work order. It can also offer a PDF of the invoice where file creation is on. |
 | **Paste-in text** | ChatGPT, Copilot, Gemini, or Claude without skills | `truck-note-to-invoice.txt` | Copy and paste into a new chat. |
-| **Shared custom GPT** (proposed) | ChatGPT users | not built: needs Brandon's ChatGPT account | Tap a link and it opens, ready to use. Probably the lowest-friction option for the email. |
+| **One-tap links** (the free layer) | ChatGPT and Claude users | `one-tap-links.md` (prompt: `one-tap-prompt.txt`) | Tap "Open in ChatGPT" or "Open in Claude"; the instructions are already typed in. Replaces the custom GPT idea (Brandon: no paid ChatGPT plan). |
 
 `SKILL.md` is generated from the `.txt` (with a frontmatter header and the PDF line), so edit the `.txt` and regenerate; the two must never drift. Skills need a Claude plan with skills and code execution turned on; check the current plan rules before the page claims who can use it.
 

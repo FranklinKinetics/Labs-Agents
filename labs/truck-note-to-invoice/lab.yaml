@@ -28,10 +28,10 @@ hours:
   crew_sessions: 1
 
 offer:
-  free_layer: "The shared custom GPT (ChatGPT only)"
+  free_layer: "One-tap links that open ChatGPT or Claude with the short instructions loaded"
   paid_layer: "Team Kit: Claude skill, paste-in version for any AI, setup guide for techs, PDF option"
   price_cad: 49                    # recommended; Brandon decides at G1 (price-read.md)
-  format: "bundle"                 # custom GPT (free) + claude-skill and text (paid)
+  format: "bundle"                 # one-tap links (free) + claude-skill and full text (paid)
   checkout: "Squarespace Commerce, Labs store (Team Kit)"
   refund_terms: "Not useful? Email within 30 days for a full refund."
 
