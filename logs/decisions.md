@@ -151,3 +151,4 @@ The record of truth. Brandon's decisions only, newest at the bottom. Include the
 | 2026-11-27 | Kit setup data (the form and price list) is kept privately and deleted 30 days after delivery. It's an exception to "Labs send no data back", for the paid setup only. | Claude Code |
 | 2026-11-27 | Kit setup cap: 2 a week, confirmed by Brandon. | Claude Code |
 | 2026-11-27 | The $79 product is a Squarespace digital product that delivers a Start Here PDF; setup details come back by email reply (no separate form). | Claude Code |
+| 2026-11-27 | Environment network: allowed Squarespace's style, image and font hosts (static1, assets, images CDN, definitions.sqspcdn.com, Typekit, Google Fonts) to match the brand. | Claude Code |
