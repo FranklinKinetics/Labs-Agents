@@ -11,70 +11,88 @@ const gpt = 'https://chatgpt.com/?q=' + q, claude = 'https://claude.ai/new?q=' +
 const booking = cfg.booking_link, mail = cfg.contact_email;
 const pending = booking.startsWith('[');
 const img = (f) => 'data:image/webp;base64,' + fs.readFileSync(path.join(dir, '../../../brand', f)).toString('base64');
-// Franklin Kinetics brand, read from franklinkinetics.com on 2026-11-27 (see brand/README.md at the repo root)
-const C = { ink: '#2B424A', paper: '#ECE7DF', black: '#000000', orange: '#ED6B2E', white: '#FFFFFF' };
+// Labs design system, matched to Lab 01 and Lab 02 product art (see brand/README.md at the repo root)
+const C = { teal: '#2B424A', deep: '#1F333A', slate: '#55676D', line: '#455A61', paper: '#EDE8E0', orange: '#ED6B2E', peach: '#F0895A', mist: '#85959A', white: '#FFFFFF' };
+const spark = (sz, col) => `<svg width="${sz}" height="${sz}" viewBox="0 0 20 20"><path d="M10 0 C10.6 6.2 13.8 8.6 20 9.2 C13.8 9.8 10.9 12.6 10 20 C9.1 12.6 6.2 9.8 0 9.2 C6.2 8.6 9.4 6.2 10 0Z" fill="${col}"/></svg>`;
+const ring = 'SNAP THE WORK ORDER · GET THE INVOICE · SET UP FOR YOUR FIRM · ';
 const html = `<!doctype html><html><head><meta charset="utf-8">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Titillium+Web:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;700&family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
  @page { size: Letter; margin: 0; }
  * { box-sizing: border-box; }
- body { margin:0; background:${C.paper}; color:${C.ink}; font-family:'Titillium Web', Arial, sans-serif; font-size:11pt; line-height:1.45; }
- .hero { background:${C.black}; color:${C.white}; padding:30pt 48pt 40pt; position:relative; }
- .hero .logo { height:11pt; display:block; margin-bottom:22pt; }
- .eyebrow { color:${C.orange}; font-weight:600; font-size:12pt; margin:0 0 6pt; }
- h1 { font-family:'Syne', sans-serif; font-weight:800; text-transform:uppercase; letter-spacing:-0.03em; font-size:32pt; line-height:1.0; margin:0 0 9pt; }
- .hero p { font-size:12pt; max-width:430pt; margin:0; color:#E8E8E8; }
- .curve { position:absolute; left:0; right:0; bottom:-1px; height:22pt; width:100%; display:block; }
- main { padding:10pt 48pt 0; }
- h2 { font-family:'Syne', sans-serif; font-weight:800; text-transform:uppercase; letter-spacing:-0.02em; font-size:14pt; margin:13pt 0 7pt; }
- .steps { display:grid; gap:7pt; }
- .step { display:grid; grid-template-columns:30pt 1fr; gap:10pt; align-items:start; }
- .num { font-family:'Syne', sans-serif; font-weight:800; font-size:24pt; line-height:1; color:${C.orange}; }
- .step b { font-weight:700; }
- .step ul { margin:3pt 0 0; padding-left:14pt; columns:2; column-gap:18pt; font-size:9.5pt; line-height:1.35; }
- .step li { margin-bottom:1pt; break-inside:avoid; }
- .try { background:${C.black}; color:${C.white}; padding:12pt 18pt; }
- .try h2 { color:${C.white}; margin-top:0; }
- .btn { display:inline-block; background:${C.orange}; color:${C.white}; text-decoration:none; font-weight:600; font-size:11.5pt; padding:7pt 16pt; margin:2pt 8pt 6pt 0; }
- .muted { font-size:9.5pt; opacity:.8; margin:4pt 0 0; }
- .facts { display:grid; grid-template-columns:repeat(3,1fr); gap:12pt; font-size:10pt; }
- .facts b { display:block; font-family:'Syne', sans-serif; text-transform:uppercase; font-size:9.5pt; letter-spacing:.02em; color:${C.orange}; margin-bottom:2pt; }
- a { color:${C.orange}; }
- footer { position:absolute; bottom:0; left:0; right:0; background:${C.black}; color:#BDBDBD; padding:12pt 48pt; display:flex; justify-content:space-between; align-items:center; font-size:9pt; }
- footer img { height:8pt; }
- .page { position:relative; height:11in; overflow:hidden; }
+ html, body { margin:0; }
+ .page { width:8.5in; height:11in; background:${C.teal}; color:${C.paper}; position:relative; overflow:hidden; font-family:Inter, Arial, sans-serif; }
+ .vl { position:absolute; top:0; bottom:0; width:1px; background:${C.line}; } .vl.l { left:0.42in; } .vl.r { right:0.42in; }
+ .row { position:relative; padding:0 0.72in; border-bottom:1px solid ${C.line}; }
+ .mono { font-family:'DM Mono', monospace; text-transform:uppercase; letter-spacing:.2em; }
+ .top { height:0.95in; display:flex; justify-content:space-between; align-items:center; }
+ .top img { height:12pt; } .top .mono { font-size:10pt; color:${C.mist}; letter-spacing:.24em; }
+ .hero { padding-top:0.32in; padding-bottom:0.26in; }
+ h1 { font-family:Outfit, sans-serif; font-weight:700; color:${C.orange}; font-size:64pt; line-height:.9; letter-spacing:-0.015em; margin:0 0 .22in; }
+ .tag { font-size:10.5pt; color:${C.paper}; }
+ .badge { position:absolute; right:0.66in; top:0.3in; width:1.45in; height:1.45in; }
+ .card { margin:.22in 0.72in; background:${C.paper}; color:${C.teal}; padding:.2in .26in .14in; }
+ .card h2 { font-family:Outfit, sans-serif; font-weight:700; font-size:19pt; margin:0; }
+ .cardhead { display:flex; justify-content:space-between; align-items:baseline; border-bottom:1.5px dashed ${C.mist}; padding-bottom:8pt; margin-bottom:2pt; }
+ .cardhead .mono { font-size:8.5pt; color:${C.slate}; }
+ .item { display:grid; grid-template-columns:14pt 1fr auto; gap:9pt; align-items:start; padding:8pt 0; border-bottom:1px solid #D9D3C8; font-size:10.5pt; line-height:1.38; }
+ .item:last-child { border-bottom:0; }
+ .sq { width:10pt; height:10pt; background:${C.orange}; margin-top:3pt; }
+ .item b { font-weight:600; }
+ .pill { font-family:'DM Mono', monospace; font-size:8pt; letter-spacing:.08em; text-transform:uppercase; padding:3pt 6pt; white-space:nowrap; }
+ .pill.f { background:${C.orange}; color:${C.white}; } .pill.o { border:1.2px solid ${C.teal}; color:${C.teal}; }
+ .label { font-size:9pt; color:${C.mist}; margin:.04in 0 8pt; }
+ .tiles { display:grid; grid-template-columns:repeat(5,1fr); gap:6pt; }
+ .tile { height:.86in; padding:7pt 8pt; display:flex; flex-direction:column; justify-content:space-between; color:${C.white}; }
+ .tile .k { font-family:'DM Mono', monospace; font-weight:500; font-size:10pt; letter-spacing:.06em; }
+ .tile .v { font-size:8.6pt; line-height:1.3; }
+ .t1 { background:${C.deep}; border:1px solid ${C.line}; } .t2 { background:${C.orange}; } .t3 { background:${C.peach}; } .t4 { background:${C.slate}; } .t5 { background:${C.orange}; }
+ .sect { padding-top:.16in; padding-bottom:.16in; }
+ .try { display:flex; align-items:center; gap:10pt; flex-wrap:wrap; }
+ .btn { display:inline-flex; align-items:center; gap:7pt; background:${C.orange}; color:${C.white}; text-decoration:none; font-family:'DM Mono', monospace; font-size:9.5pt; letter-spacing:.12em; text-transform:uppercase; padding:8pt 13pt; }
+ .note { font-size:9pt; color:${C.mist}; line-height:1.45; margin:8pt 0 0; }
+ .note a { color:${C.peach}; }
+ .foot { position:absolute; left:0; right:0; bottom:0; height:.85in; border-top:1px solid ${C.line}; border-bottom:0; display:flex; justify-content:space-between; align-items:center; font-size:9.5pt; }
+ .foot .l { color:${C.mist}; } .foot .r { color:${C.orange}; }
 </style></head><body><div class="page">
-<section class="hero">
- <img class="logo" src="${img('logo-secondary-white.webp')}" alt="Franklin Kinetics">
- <p class="eyebrow">Set up for your firm · Start here</p>
+<div class="vl l"></div><div class="vl r"></div>
+<div class="row top"><img src="${img('logo-secondary-white.webp')}" alt="Franklin Kinetics"><span class="mono">Lab / 03</span></div>
+<div class="row hero">
  <h1>Truck Note<br>to Invoice</h1>
- <p>Thank you. Over the next few days we set up your own invoice assistant: your rates and your price book built in, ready for every tech and the office.</p>
- <svg class="curve" viewBox="0 0 100 10" preserveAspectRatio="none"><path d="M0,0 Q50,20 100,0 L100,10 L0,10 Z" fill="${C.paper}"/></svg>
-</section>
-<main>
- <h2>Three steps</h2>
- <div class="steps">
-  <div class="step"><div class="num">1</div><div><b>Send us your details (10 minutes).</b> Reply to your order email, or write to <a href="mailto:${mail}?subject=Truck%20Note%20setup">${mail}</a>, with:
-   <ul><li>business name, address, phone, email, GST number</li><li>labour rate(s), and how you bill parts</li><li>the taxes you charge, and their rates</li><li>payment terms, and how customers pay</li><li>your logo, if you have one</li><li>your price list: a photo, a spreadsheet, or your top 20 items</li><li>how many trucks, and which AI your crew uses</li></ul></div></div>
-  <div class="step"><div class="num">2</div><div><b>We build your kit</b> within three working days: your own ChatGPT and Claude links, truck cards with your QR code, invoice and reminder wording with your logo, and a two-minute office routine.</div></div>
-  <div class="step"><div class="num">3</div><div><b>A 20-minute handover call with Brandon</b>, in the evening. Bring a real work order, and we'll run it through together.
-   ${pending ? '<p class="muted" style="opacity:.7">The booking link comes with your kit.</p>' : `<br><a class="btn" href="${booking}">Book your handover call</a>`}</div></div>
+ <div class="mono tag">Set up for your firm · Start here</div>
+ <svg class="badge" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="97" fill="none" stroke="${C.line}" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="58" fill="none" stroke="${C.line}" stroke-width="1"/>
+  <defs><path id="c" d="M100,100 m-72,0 a72,72 0 1,1 144,0 a72,72 0 1,1 -144,0"/></defs>
+  <text font-family="DM Mono" font-size="13" fill="${C.mist}"><textPath href="#c" textLength="448" lengthAdjust="spacing">${ring.toUpperCase()}</textPath></text>
+  <g transform="translate(88,88)">${spark(24, C.orange).replace('<svg','<svg x="0" y="0"')}</g>
+ </svg>
+</div>
+<div class="card">
+ <div class="cardhead"><h2>Your setup</h2><span class="mono">3 steps · about 30 min of yours</span></div>
+ <div class="item"><div class="sq"></div><div><b>Send us your details.</b> Reply to your order email, or write to ${mail}, with the five things below.</div><span class="pill f">10 min</span></div>
+ <div class="item"><div class="sq"></div><div><b>We build your kit:</b> your own ChatGPT and Claude links with your rates and prices built in, truck cards with your QR code, invoice and reminder wording with your logo, and a two-minute office routine.</div><span class="pill o">3 working days</span></div>
+ <div class="item"><div class="sq"></div><div><b>Handover call with Brandon</b>, in the evening. Bring a real work order and we'll run it through together.${pending ? ' The booking link comes with your kit.' : ` <a href="${booking}" style="color:${C.orange}">Book it here.</a>`}</div><span class="pill f">20 min</span></div>
+</div>
+<div class="row sect" style="border-top:1px solid ${C.line}">
+ <div class="mono label">What to send us</div>
+ <div class="tiles">
+  <div class="tile t1"><span class="k">YOU</span><span class="v">Name, address, phone, email, GST no.</span></div>
+  <div class="tile t2"><span class="k">RATES</span><span class="v">Labour rates; how you bill parts</span></div>
+  <div class="tile t3"><span class="k">TAXES</span><span class="v">What you charge, at what rates</span></div>
+  <div class="tile t4"><span class="k">TERMS</span><span class="v">Due when; how customers pay. Your logo.</span></div>
+  <div class="tile t5"><span class="k">PRICES</span><span class="v">Your price list, or your top 20 items. A photo is fine.</span></div>
  </div>
- <h2>Start today</h2>
+</div>
+<div class="row sect" style="border-bottom:0">
+ <div class="mono label">Start today, free</div>
  <div class="try">
-  <p style="margin:0 0 8pt">The quick version is free and works now. Tap one, then send a photo of a work order.</p>
-  <a class="btn" href="${gpt}">Open in ChatGPT</a><a class="btn" href="${claude}">Open in Claude</a>
-  <p class="muted">Your own version, coming in your kit, already knows your rates and prices.</p>
+  <a class="btn" href="${gpt}">${spark(10, C.white)} Open in ChatGPT</a>
+  <a class="btn" href="${claude}">${spark(10, C.white)} Open in Claude</a>
  </div>
- <h2>Good to know</h2>
- <div class="facts">
-  <div><b>Your data</b>Used only to build your kit, and deleted 30 days after we deliver it. Once set up, it runs on your own phones and AI accounts.</div>
-  <div><b>It drafts, you decide</b>It never makes up a price or an hour. Anything missing shows as a blank to fill in.</div>
-  <div><b>Not useful?</b>Email us within 30 days for a full refund.</div>
- </div>
-</main>
-<footer><img src="${img('logo-secondary-white.webp')}" alt="Franklin Kinetics"><span>Franklin Kinetics Consulting Corp. · franklinkinetics.com · ${mail}</span></footer>
+ <p class="note">Tap one, then send a photo of a work order. It never makes up a price or an hour. Your details are used only to build your kit and are deleted 30 days after delivery. Not useful? <a href="mailto:${mail}">Email us</a> within 30 days for a full refund.</p>
+</div>
+<div class="row foot"><span class="mono l">franklinkinetics.com</span><span class="mono r">Set up for your firm · CAD $79</span></div>
 </div></body></html>`;
 (async () => {
   const proxy = process.env.HTTPS_PROXY || process.env.https_proxy;
